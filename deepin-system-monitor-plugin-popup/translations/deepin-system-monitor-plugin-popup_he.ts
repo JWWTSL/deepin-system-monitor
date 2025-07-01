@@ -2,11 +2,188 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="he">
 <context>
+    <name>App.About</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/main.cpp" line="82"/>
+        <source>System Monitor is a tool to monitor realtime system load, view and control processes and services running on your system.</source>
+        <translation>System Monitor הוא כלי להגנה על עומס מערכת בזמן אמת, הצגת וניהול תהליכים ושירותים שמרunning על מערכת שלך.</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/main.cpp" line="92"/>
+        <source>System Monitor</source>
+        <translation>System Monitor</translation>
+    </message>
+</context>
+<context>
+    <name>BaseDetailViewWidget</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/base/base_detail_view_widget.cpp" line="28"/>
+        <source>Hide details</source>
+        <translation>הסתר פרטים</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/base/base_detail_view_widget.cpp" line="39"/>
+        <source>Overall utilization</source>
+        <translation>שימוש כללי</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/base/base_detail_view_widget.cpp" line="42"/>
+        <source>Individual utilization</source>
+        <translation>שימוש אישי</translation>
+    </message>
+</context>
+<context>
+    <name>BlockDevItemWidget</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/block_dev_item_widget.cpp" line="138"/>
+        <source>Read</source>
+        <translation type="unfinished">קריאה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/block_dev_item_widget.cpp" line="142"/>
+        <source>Write</source>
+        <translation type="unfinished">כתיבה</translation>
+    </message>
+</context>
+<context>
+    <name>CPUDetailGrapTableItem</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_detail_widget.cpp" line="154"/>
+        <source>60 seconds</source>
+        <translation>60 שניות</translation>
+    </message>
+</context>
+<context>
+    <name>CPUInfoModel</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/model/cpu_info_model.cpp" line="43"/>
+        <source>%1 days %2 hours %3 minutes</source>
+        <translation>%1 ימים %2 שעות %3 דקות</translation>
+    </message>
+</context>
+<context>
+    <name>CPUSummaryTableModel</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="91"/>
+        <source>Utilization</source>
+        <translation type="unfinished">ה&apos;utilisation</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="93"/>
+        <source>Current frequency</source>
+        <translation>תדירות נוכחית</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="98"/>
+        <source>Frequency</source>
+        <translation>תדירות</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="100"/>
+        <source>Up time</source>
+        <translation>זמן פעילות</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="104"/>
+        <source>Sockets</source>
+        <translation>סוקטים</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="106"/>
+        <source>Logical processors</source>
+        <translation>תתי עיבודים</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="110"/>
+        <source>Virtualization</source>
+        <translation>השכלה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="112"/>
+        <source>L1i cache</source>
+        <translation>L1i cache</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="116"/>
+        <source>L1d cache</source>
+        <translation>L1d cache</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="118"/>
+        <source>L2 cache</source>
+        <translation>L2 cache</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="122"/>
+        <source>L3 cache</source>
+        <translation>L3 cache</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="124"/>
+        <source>Load average</source>
+        <translation>מعدل עומס</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="128"/>
+        <source>File descriptors</source>
+        <translation>מפרטים קבצים</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="130"/>
+        <source>Processes</source>
+        <translation type="unfinished">תהליכים</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="134"/>
+        <source>Threads</source>
+        <translation> tread</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="136"/>
+        <source>Host name</source>
+        <translation>שם המארח</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="140"/>
+        <source>OS type</source>
+        <translation>סוג מערכת הפעלה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/cpu_summary_view_widget.h" line="142"/>
+        <source>Version</source>
+        <translation>バージョン</translation>
+    </message>
+</context>
+<context>
+    <name>Cancel</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/accounts_widget.cpp" line="298"/>
+        <source>Cancel</source>
+        <translation>לבטל</translation>
+    </message>
+</context>
+<context>
+    <name>ChartViewWidget</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/chart_view_widget.cpp" line="293"/>
+        <source>60 seconds</source>
+        <translation>60 שניות</translation>
+    </message>
+</context>
+<context>
     <name>Common.Search</name>
     <message>
         <location filename="../gui/process_table_view.cpp" line="141"/>
         <source>No search results</source>
         <translation>לא תוצאות לחיפוש</translation>
+    </message>
+</context>
+<context>
+    <name>CompactCpuMonitor</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/compact_cpu_monitor.cpp" line="87"/>
+        <source>Details</source>
+        <translation>פרטים</translation>
     </message>
 </context>
 <context>
@@ -18,13 +195,398 @@
     </message>
 </context>
 <context>
+    <name>CpuMonitor</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/cpu_monitor.cpp" line="70"/>
+        <source>Details</source>
+        <translation>פרטים</translation>
+    </message>
+</context>
+<context>
     <name>CpuWidget</name>
     <message>
         <location filename="../gui/cpu_widget.cpp" line="229"/>
-        <location filename="../gui/cpu_widget.cpp" line="231"/>
-        <location filename="../gui/cpu_widget.cpp" line="232"/>
         <source>Utilization</source>
         <translation>ה&apos;utilisation</translation>
+    </message>
+</context>
+<context>
+    <name>DBus.Unit.Active.State</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="165"/>
+        <source>active</source>
+        <translation>aktif</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="167"/>
+        <source>reloading</source>
+        <translation>שעת העדכון</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="169"/>
+        <source>inactive</source>
+        <translation>לא פעיל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="170"/>
+        <source>failed</source>
+        <translation>נכשל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="172"/>
+        <source>activating</source>
+        <translation>מפעיל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="174"/>
+        <source>deactivating</source>
+        <translation>מבטל</translation>
+    </message>
+</context>
+<context>
+    <name>DBus.Unit.Load.State</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="146"/>
+        <source>stub</source>
+        <translation>stub</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="147"/>
+        <source>loaded</source>
+        <translation>מטען</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="149"/>
+        <source>not-found</source>
+        <translation>לא נמצא</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="151"/>
+        <source>bad-setting</source>
+        <translation>הגדרה לא תקינה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="152"/>
+        <source>error</source>
+        <translation>שגיאה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="153"/>
+        <source>merged</source>
+        <translation>מורכבים</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="154"/>
+        <source>masked</source>
+        <translation>מוסתר</translation>
+    </message>
+</context>
+<context>
+    <name>DBus.Unit.Startup.Mode</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="295"/>
+        <source>Auto</source>
+        <translation>אוטומטי</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="296"/>
+        <source>Manual</source>
+        <translation>ידני</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="297"/>
+        <source>N/A</source>
+        <translation>לא זמין</translation>
+    </message>
+</context>
+<context>
+    <name>DBus.Unit.State</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="274"/>
+        <source>enabled</source>
+        <translation>הופעל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="275"/>
+        <source>disabled</source>
+        <translation>מבוטל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="276"/>
+        <source>static</source>
+        <translation>שקט</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="277"/>
+        <source>transient</source>
+        <translation>טראנסנט</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="278"/>
+        <source>indirect</source>
+        <translation>קַלִּי</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="280"/>
+        <source>enabled-runtime</source>
+        <translation>הופעל בזמן הריצה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="281"/>
+        <source>masked</source>
+        <translation>מוסתר</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="283"/>
+        <source>generated</source>
+        <translation>נוצר</translation>
+    </message>
+</context>
+<context>
+    <name>DBus.Unit.Sub.State</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="217"/>
+        <source>dead</source>
+        <translation>מת</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="219"/>
+        <source>start-pre</source>
+        <translation>המתחיל-הקדמת</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="221"/>
+        <source>start</source>
+        <translation>המתחיל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="223"/>
+        <source>start-post</source>
+        <translation>המתחיל-הסיום</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="225"/>
+        <source>running</source>
+        <translation>מתנהל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="227"/>
+        <source>exited</source>
+        <translation>יצא</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="229"/>
+        <source>reload</source>
+        <translation>שנה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="231"/>
+        <source>stop</source>
+        <translation>עצור</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="233"/>
+        <source>stop-watchdog</source>
+        <translation>עצור תצפית</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="235"/>
+        <source>stop-sigterm</source>
+        <translation>הפסקת סיגטערמ</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="237"/>
+        <source>stop-sigkill</source>
+        <translation>הפסקת סיגקיל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="239"/>
+        <source>stop-post</source>
+        <translation>הפסקת פוסט</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="241"/>
+        <source>final-sigterm</source>
+        <translation>סיום סיגטערמ</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="243"/>
+        <source>final-sigkill</source>
+        <translation>סיום סיגקיל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="245"/>
+        <source>failed</source>
+        <translation>נכשל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbus_common.h" line="247"/>
+        <source>auto-restart</source>
+        <translation>הפעלה אוטומטית</translation>
+    </message>
+</context>
+<context>
+    <name>DBusAlarmNotify</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbusalarmnotify.cpp" line="38"/>
+        <source>Warning</source>
+        <translation>תראה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbusalarmnotify.cpp" line="39"/>
+        <source>Your CPU usage is higher than %1%!</source>
+        <translation>שימוש ב-CPU שלך גבוה יותר מ-%1%!</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbusalarmnotify.cpp" line="51"/>
+        <source>Your memory usage is higher than %1%!</source>
+        <translation>שימוש הזיכרון שלך גבוה יותר מ-%1%!</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/dbus/dbusalarmnotify.cpp" line="71"/>
+        <source>View</source>
+        <translation>הצגת</translation>
+    </message>
+</context>
+<context>
+    <name>DeailTableModel</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="62"/>
+        <source>Used</source>
+        <translation>משתמש</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="64"/>
+        <source>Available</source>
+        <translation>מتوفر</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="68"/>
+        <source>Shared</source>
+        <translation>מונע</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="70"/>
+        <source>Cached</source>
+        <translation>מוצמד</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="74"/>
+        <source>Buffers</source>
+        <translation>бу퍼ס</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="76"/>
+        <source>Cached swap</source>
+        <translation>סיבוב מוצמד</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="80"/>
+        <source>Active</source>
+        <translation> פעיל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="82"/>
+        <source>Inactive</source>
+        <translation>לא פעיל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="86"/>
+        <source>Dirty</source>
+        <translation>מראני</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="88"/>
+        <source>Mapped</source>
+        <translation>מופה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="92"/>
+        <source>Total swap</source>
+        <translation>סה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="94"/>
+        <source>Free swap</source>
+        <translation>סיבוב פנוי</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_summary_view_widget.cpp" line="98"/>
+        <source>Slab</source>
+        <translation>סלב</translation>
+    </message>
+</context>
+<context>
+    <name>DeailTableModelBlock</name>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="183"/>
+        <source>Model</source>
+        <translation>מודל</translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="185"/>
+        <source>Read speed</source>
+        <translation>מהירות קריאה</translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="189"/>
+        <source>Write speed</source>
+        <translation>מהירות כתיבה</translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="191"/>
+        <source>Capacity</source>
+        <translation>קיבולת</translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="195"/>
+        <source>Sectors read</source>
+        <translation>סעקטורים קרואים</translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="197"/>
+        <source>Reads/s</source>
+        <translation>קריאות/שעתיים</translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="201"/>
+        <source>Sectors read/s</source>
+        <translation>שאילתות קריאה/ש</translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="203"/>
+        <source>Reads merged/s</source>
+        <translation>שאילתות מותאמות/ש</translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="207"/>
+        <source>Sectors written</source>
+        <translation>שאילתות כתובות</translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="209"/>
+        <source>Writes completed </source>
+        <translation>כתיבה מושלמת </translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="213"/>
+        <source>Writes merged</source>
+        <translation>כתיבה מותאמת</translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="215"/>
+        <source>Writes/s</source>
+        <translation>כתיבה/ש</translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="219"/>
+        <source>Sectors written/s</source>
+        <translation>שאילתות כתובות/ש</translation>
+    </message>
+    <message>
+        <location filename="../../tests/deepin-system-monitor-main/gui/ut_block_dev_summary_view_widget.cpp" line="221"/>
+        <source>Writes merged/s</source>
+        <translation>כתיבה מותאמת/ש</translation>
     </message>
 </context>
 <context>
@@ -46,6 +608,99 @@
     </message>
 </context>
 <context>
+    <name>Error.Dialog</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/dialog/error_dialog.cpp" line="68"/>
+        <source>OK</source>
+        <comment>button</comment>
+        <translation>בסדר</translation>
+    </message>
+</context>
+<context>
+    <name>Help.Shortcut.System</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="28"/>
+        <source>System</source>
+        <translation>מערכת</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="34"/>
+        <source>Display shortcuts</source>
+        <translation>הצגת מקצרים</translation>
+    </message>
+</context>
+<context>
+    <name>Kill.Process.Dialog</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_table_view.cpp" line="165"/>
+        <source>End process</source>
+        <translation type="unfinished">סיום התהליך</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_table_view.cpp" line="166"/>
+        <source>Ending this process may cause data loss.
+Are you sure you want to continue?</source>
+        <translation>סיום תהליך זה עלול לגרום לفقدان נתונים.
+האם אתה בטוח שברצונך להמשיך?</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_table_view.cpp" line="172"/>
+        <source>Cancel</source>
+        <comment>button</comment>
+        <translation>בטל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_table_view.cpp" line="173"/>
+        <source>End</source>
+        <comment>button</comment>
+        <translation>סיום</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_table_view.cpp" line="367"/>
+        <source>Force ending this process may cause data loss.
+Are you sure you want to continue?</source>
+        <translation>סיום חזק של התהליך עלול לגרום לفقدان נתונים.
+האם אתה בטוח שברצונך להמשיך?</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_table_view.cpp" line="375"/>
+        <source>Force End</source>
+        <comment>button</comment>
+        <translation>סיום חזק</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_page_widget.cpp" line="511"/>
+        <source>Force ending this application may cause data loss.
+Are you sure you want to continue?</source>
+        <translation>סיום חזק של האפליקציה עלול לגרום לفقدן נתונים.
+האם אתה בטוח שברצונך להמשיך?</translation>
+    </message>
+</context>
+<context>
+    <name>Logout</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/accounts_widget.cpp" line="299"/>
+        <source>Logout</source>
+        <translation>התנתק</translation>
+    </message>
+</context>
+<context>
+    <name>MainWindow</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/main_window.cpp" line="172"/>
+        <source>Settings</source>
+        <translation>הגדרות</translation>
+    </message>
+</context>
+<context>
+    <name>MemStatViewWidget</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_stat_view_widget.cpp" line="47"/>
+        <source>Size</source>
+        <translation>גודל</translation>
+    </message>
+</context>
+<context>
     <name>Memory.Widget</name>
     <message>
         <location filename="../gui/memory_widget.cpp" line="178"/>
@@ -54,7 +709,6 @@
     </message>
     <message>
         <location filename="../gui/memory_widget.cpp" line="210"/>
-        <location filename="../gui/memory_widget.cpp" line="218"/>
         <source>Swap</source>
         <translation>Swap</translation>
     </message>
@@ -88,13 +742,294 @@
     </message>
 </context>
 <context>
+    <name>NetInfoDetailItemDelegate</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="157"/>
+        <source>IP address:</source>
+        <translation>כתובת IP:</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="157"/>
+        <source>Netmask:</source>
+        <translation>מסך רשת:</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="157"/>
+        <source>Broadcast:</source>
+        <translation>ריפוד:</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="159"/>
+        <source>Prefixlen:</source>
+        <translation>طول תחביר:</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="159"/>
+        <source>Scope:</source>
+        <translation>מدى:</translation>
+    </message>
+</context>
+<context>
+    <name>NetInfoModel</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="267"/>
+        <source>IPv4</source>
+        <translation>IPv4</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="282"/>
+        <source>IPv6</source>
+        <translation>IPv6</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="293"/>
+        <source>Connection type</source>
+        <translation>סוג חיבור</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="301"/>
+        <source>ESSID</source>
+        <translation>ESSID</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="307"/>
+        <source>Link quality</source>
+        <translation>คุณภาพการเชื่อมต่อ</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="312"/>
+        <source>Signal strength</source>
+        <translation>กำลังสัญญาณ</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="317"/>
+        <source>Noise level</source>
+        <translation>ระดับเสียงรบกวน</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="323"/>
+        <source>MAC</source>
+        <translation>MAC</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="328"/>
+        <source>Bandwidth</source>
+        <translation>רוחב פס</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="333"/>
+        <source>RX packets</source>
+        <translation>חבילות RX</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="338"/>
+        <source>RX bytes</source>
+        <translation>בייטים RX</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="343"/>
+        <source>RX errors</source>
+        <translation>טעויות RX</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="348"/>
+        <source>RX dropped</source>
+        <translation>RX נפסלו</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="353"/>
+        <source>RX overruns</source>
+        <translation>RX מכריעים</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="358"/>
+        <source>RX frame</source>
+        <translation>RX קואורדינטה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="363"/>
+        <source>TX packets</source>
+        <translation>חבילות TX</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="368"/>
+        <source>TX bytes</source>
+        <translation>בייטים TX</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="373"/>
+        <source>TX errors</source>
+        <translation>טעויות TX</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="378"/>
+        <source>TX dropped</source>
+        <translation>TX נפסלו</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="383"/>
+        <source>TX overruns</source>
+        <translation>TX מכריעים</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_summary_view_widget.h" line="388"/>
+        <source>TX carrier</source>
+        <translation>TX נושא</translation>
+    </message>
+</context>
+<context>
     <name>NetWidget</name>
     <message>
         <location filename="../gui/net_widget.cpp" line="241"/>
-        <location filename="../gui/net_widget.cpp" line="243"/>
-        <location filename="../gui/net_widget.cpp" line="247"/>
         <source>Network</source>
         <translation>רשת</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.DisplayName</name>
+    <message>
+        <location filename="../../deepin-system-monitor-plugin/gui/monitor_plugin.cpp" line="45"/>
+        <source>System Monitor</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.OpenSystemMontitor</name>
+    <message>
+        <location filename="../../deepin-system-monitor-plugin/gui/monitor_plugin.cpp" line="182"/>
+        <source>Open</source>
+        <translation>פתוח</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.cpu</name>
+    <message>
+        <location filename="../../deepin-system-monitor-plugin/gui/systemmonitortipswidget.cpp" line="46"/>
+        <source>CPU</source>
+        <translation type="unfinished">CPU</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.mem</name>
+    <message>
+        <location filename="../../deepin-system-monitor-plugin/gui/systemmonitortipswidget.cpp" line="179"/>
+        <source>MEM</source>
+        <translation>MEM</translation>
+    </message>
+</context>
+<context>
+    <name>Process.Attributes.Dialog</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_attribute_dialog.cpp" line="135"/>
+        <source>Name</source>
+        <translation type="unfinished">שם</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_attribute_dialog.cpp" line="140"/>
+        <source>Command line</source>
+        <translation>שורת הפקודה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_attribute_dialog.cpp" line="145"/>
+        <source>Start time</source>
+        <translation>זמן התחלה</translation>
+    </message>
+</context>
+<context>
+    <name>Process.Choose.Window.Dialog</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/xwin_kill_preview_background_widget.cpp" line="146"/>
+        <source>Click the application you want to end</source>
+        <translation>הקלק על האפליקציה שברצונך להפסיק</translation>
+    </message>
+</context>
+<context>
+    <name>Process.Graph.Title</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_item_view_widget.cpp" line="89"/>
+        <source>Receive</source>
+        <translation>לכרי</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/mem_detail_view_widget.cpp" line="22"/>
+        <source>Memory</source>
+        <translation type="unfinished">זיכרון</translation>
+    </message>
+</context>
+<context>
+    <name>Process.Graph.View</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/cpu_monitor.cpp" line="216"/>
+        <source>CPU</source>
+        <translation type="unfinished">CPU</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/network_monitor.cpp" line="187"/>
+        <source>Network</source>
+        <translation type="unfinished">רשת</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/network_monitor.cpp" line="205"/>
+        <source>Download</source>
+        <translation type="unfinished">הורדה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/network_monitor.cpp" line="207"/>
+        <source>Total Received</source>
+        <translation>סהכ קבוצת קבלת מידע</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/network_monitor.cpp" line="210"/>
+        <source>Upload</source>
+        <translation>העלאה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/network_monitor.cpp" line="212"/>
+        <source>Total Sent</source>
+        <translation>סהכ קבוצת שליחת מידע</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/compact_memory_monitor.cpp" line="176"/>
+        <source>Memory</source>
+        <translation type="unfinished">זיכרון</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/compact_memory_monitor.cpp" line="187"/>
+        <source>Swap</source>
+        <translation type="unfinished">Swap</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/compact_memory_monitor.cpp" line="188"/>
+        <source>Not enabled</source>
+        <translation type="unfinished">לא מופעל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/block_dev_detail_view_widget.cpp" line="17"/>
+        <source>Disks</source>
+        <translation>דיסקים</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/netif_item_view_widget.cpp" line="98"/>
+        <source>Send</source>
+        <translation>שלח</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/compact_disk_monitor.cpp" line="145"/>
+        <source>Disk read</source>
+        <translation type="unfinished">קריאה לỔ</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/compact_disk_monitor.cpp" line="146"/>
+        <source>Disk write</source>
+        <translation type="unfinished">כתיבה לỔ</translation>
+    </message>
+</context>
+<context>
+    <name>Process.Loading</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_page_widget.cpp" line="67"/>
+        <source>Loading</source>
+        <translation>טוען</translation>
     </message>
 </context>
 <context>
@@ -134,6 +1069,34 @@
         <source>Invalid</source>
         <translation>לא תקין</translation>
     </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/process/process_db.cpp" line="138"/>
+        <source>Failed to change process priority</source>
+        <translation>לא ניתן לשנות עדיפות תהליך</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/process/process_db.cpp" line="179"/>
+        <source>PID: %1, Error: [%2] %3</source>
+        <translation>PID: %1, שגיאה: [%2] %3</translation>
+    </message>
+</context>
+<context>
+    <name>Process.Show.Mode</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_page_widget.cpp" line="61"/>
+        <source>Applications</source>
+        <translation>אפליקציות</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_page_widget.cpp" line="63"/>
+        <source>My processes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_page_widget.cpp" line="65"/>
+        <source>All processes</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Process.Signal</name>
@@ -169,6 +1132,14 @@
     </message>
 </context>
 <context>
+    <name>Process.Summary</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_page_widget.cpp" line="58"/>
+        <source>(%1 applications and %2 processes are running)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Process.Table</name>
     <message>
         <location filename="../model/process_table_model.cpp" line="174"/>
@@ -179,6 +1150,69 @@
         <location filename="../model/process_table_model.cpp" line="179"/>
         <source>Suspend</source>
         <translation>ה.CompareTo</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/process/process_name.cpp" line="82"/>
+        <source>Tray</source>
+        <translation>צלחת</translation>
+    </message>
+</context>
+<context>
+    <name>Process.Table.Context.Menu</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="62"/>
+        <source>End process</source>
+        <translation>סיום התהליך</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="68"/>
+        <source>Suspend process</source>
+        <translation>ה.CompareTo</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="74"/>
+        <source>Resume process</source>
+        <translation>הופעה מחדש של התהליך</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="79"/>
+        <source>Properties</source>
+        <translation>כalborgות</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="85"/>
+        <source>Kill process</source>
+        <translation>הס INCIDENT:כילה של התהליך</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_table_view.cpp" line="609"/>
+        <source>Change priority</source>
+        <translation>שנה עדיפות</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_table_view.cpp" line="662"/>
+        <source>View command location</source>
+        <translation>הצגת מיקום הפקודה</translation>
+    </message>
+</context>
+<context>
+    <name>Process.Table.Custom.Priority.Dialog</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_table_view.cpp" line="1024"/>
+        <source>Custom Priority</source>
+        <translation>עדיפות מותאמת</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_table_view.cpp" line="1056"/>
+        <source>Cancel</source>
+        <comment>button</comment>
+        <translation>בטל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/process_table_view.cpp" line="1058"/>
+        <source>Change</source>
+        <comment>button</comment>
+        <translation>שנה</translation>
     </message>
 </context>
 <context>
@@ -263,8 +1297,6 @@
     </message>
     <message>
         <location filename="../gui/process_widget.cpp" line="203"/>
-        <location filename="../gui/process_widget.cpp" line="205"/>
-        <location filename="../gui/process_widget.cpp" line="209"/>
         <source>Processes</source>
         <translation>תהליכים</translation>
     </message>
@@ -275,6 +1307,241 @@
         <location filename="../system/cpu_set.cpp" line="253"/>
         <source>Not support</source>
         <translation>לא נתמך</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/dialog/settingsdialog.cpp" line="10"/>
+        <source>Settings</source>
+        <translation>הגדרות</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/dialog/settingsdialog.cpp" line="11"/>
+        <source>System Protection</source>
+        <translation>הגנה 시스템</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/dialog/settingsdialog.cpp" line="12"/>
+        <source>Show warnings when the usage exceeds the thresholds</source>
+        <translation>הצגת 경고ים כאשר الاستخدام עולה מעבר לحدود</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/dialog/settingsdialog.cpp" line="13"/>
+        <source>CPU warning threshold (%)</source>
+        <translation>שreshold 경고 ל-CPU (%)</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/dialog/settingsdialog.cpp" line="14"/>
+        <source>Memory warning threshold (%)</source>
+        <translation>שreshold 경고 ל pamięci (%)</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/dialog/settingsdialog.cpp" line="15"/>
+        <source>Warning interval (min)</source>
+        <translation>שreshold.interval (דקות)</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/dialog/settingsdialog.cpp" line="16"/>
+        <source>Notifications</source>
+        <translation>התראות</translation>
+    </message>
+</context>
+<context>
+    <name>Service.Action.Set.Startup.Mode</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/service/service_manager.cpp" line="322"/>
+        <source>Failed to set service startup type</source>
+        <translation>לא ניתן לקבוע את סוג הبدء בשירות</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/service/service_manager.cpp" line="388"/>
+        <source>Error: Failed to set service startup type due to the crashed sub process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Service.Instance.Name.Dialog</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/service_name_sub_input_dialog.cpp" line="34"/>
+        <source>OK</source>
+        <translation>בסדר</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/service_name_sub_input_dialog.cpp" line="35"/>
+        <source>Cancel</source>
+        <translation>בטל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/system_service_table_view.cpp" line="150"/>
+        <source>Service instance name</source>
+        <translation>שם ה instance של השירות</translation>
+    </message>
+</context>
+<context>
+    <name>Service.Table.Context.Menu</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="99"/>
+        <source>Start</source>
+        <translation>STARט</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="104"/>
+        <source>Stop</source>
+        <translation>עצר</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="109"/>
+        <source>Restart</source>
+        <translation>שחזר</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="114"/>
+        <source>Refresh</source>
+        <translation>�新鲜空气</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/system_service_table_view.cpp" line="536"/>
+        <source>Startup type</source>
+        <translation>סוג הبدء</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/system_service_table_view.cpp" line="537"/>
+        <source>Auto</source>
+        <translation>אוטומטי</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/system_service_table_view.cpp" line="538"/>
+        <source>Manual</source>
+        <translation>ידני</translation>
+    </message>
+</context>
+<context>
+    <name>Service.Table.Header</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/model/system_service_table_model.h" line="16"/>
+        <source>Name</source>
+        <translation type="unfinished">שם</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/model/system_service_table_model.h" line="18"/>
+        <source>Load</source>
+        <translation>הטрузה</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/model/system_service_table_model.h" line="21"/>
+        <source>Start State</source>
+        <translation>מצב הبدء</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/model/system_service_table_model.h" line="23"/>
+        <source>Sub</source>
+        <translation>תת</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/model/system_service_table_model.h" line="25"/>
+        <source>Start Tactic</source>
+        <translation>שיטה להתחיל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/model/system_service_table_model.h" line="27"/>
+        <source>Startup Type</source>
+        <translation>סוג הبدء</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/model/system_service_table_model.h" line="30"/>
+        <source>Description</source>
+        <translation>תיאור</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/model/system_service_table_model.h" line="32"/>
+        <source>PID</source>
+        <translation type="unfinished">PID</translation>
+    </message>
+</context>
+<context>
+    <name>SystemProtectionSetting</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/dialog/systemprotectionsetting.cpp" line="124"/>
+        <source>Settings</source>
+        <translation>הגדרות</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/dialog/systemprotectionsetting.cpp" line="156"/>
+        <source>(Modifiable)</source>
+        <translation>(قابل للتغيير)</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/dialog/systemprotectionsetting.cpp" line="263"/>
+        <source>Range: %1-%2</source>
+        <translation>טווח: %1-%2</translation>
+    </message>
+</context>
+<context>
+    <name>Title.Bar.Context.Menu</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="55"/>
+        <source>Force end application</source>
+        <translation>סגר את האפליקציה בقوة</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/main_window.cpp" line="135"/>
+        <source>View</source>
+        <translation>הצגת</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/main_window.cpp" line="140"/>
+        <source>Expand</source>
+        <translation>הרחבת</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/main_window.cpp" line="143"/>
+        <source>Compact</source>
+        <translation>сжатие</translation>
+    </message>
+</context>
+<context>
+    <name>Title.Bar.Search</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="40"/>
+        <source>Search</source>
+        <translation>חיפוש</translation>
+    </message>
+</context>
+<context>
+    <name>Title.Bar.Switch</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="49"/>
+        <source>Processes</source>
+        <translation>תהליכים</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/common/common.cpp" line="94"/>
+        <source>Services</source>
+        <translation>-serויסים</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/toolbar.cpp" line="58"/>
+        <source>Users</source>
+        <translation>משתמשים</translation>
+    </message>
+</context>
+<context>
+    <name>User.Account.Operation</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/accounts_widget.cpp" line="97"/>
+        <source>Edit account information</source>
+        <translation>עריכה מידע לחשבון</translation>
+    </message>
+</context>
+<context>
+    <name>User.Account.Type</name>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/accounts_widget.cpp" line="145"/>
+        <source>Administrator</source>
+        <translation>מנהל</translation>
+    </message>
+    <message>
+        <location filename="../../deepin-system-monitor-main/gui/accounts_widget.cpp" line="145"/>
+        <source>Standard User</source>
+        <translation>משתמש רגיל</translation>
     </message>
 </context>
 </TS>

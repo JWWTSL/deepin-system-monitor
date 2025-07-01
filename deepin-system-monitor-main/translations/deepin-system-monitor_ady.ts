@@ -4,1408 +4,1286 @@
 <context>
     <name>App.About</name>
     <message>
-        <location filename="../main.cpp" line="92"/>
         <source>System Monitor</source>
-        <translation>مراقب النظام</translation>
+        <translation>Системләр контроль</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="82"/>
         <source>System Monitor is a tool to monitor realtime system load, view and control processes and services running on your system.</source>
-        <translation>مراقب النظام هو أداة لرصد تحميل النظام في الوقت الحقيقي، وعرض وتحكم العمليات والخدمات التي تعمل على نظامك.</translation>
+        <translation>Системләр контроль - сизнең системында эшләгән процесслар һәм хижматларны һынлы һынлы систем күчерү, күрсәтеү һәм күнектерү өсөн әдәттән ҡулланылған агент.</translation>
     </message>
 </context>
 <context>
     <name>BaseDetailViewWidget</name>
     <message>
-        <location filename="../gui/base/base_detail_view_widget.cpp" line="28"/>
         <source>Hide details</source>
-        <translation>إخفاء التفاصيل</translation>
+        <translation>Деталларҙы күрһәтеү</translation>
     </message>
     <message>
-        <location filename="../gui/base/base_detail_view_widget.cpp" line="39"/>
         <source>Overall utilization</source>
-        <translation>الاستخدام الإجمالي</translation>
+        <translation>Бөтен ҡулланылыш</translation>
     </message>
     <message>
-        <location filename="../gui/base/base_detail_view_widget.cpp" line="42"/>
         <source>Individual utilization</source>
-        <translation>الاستخدام الفردي</translation>
+        <translation>Индивидуаль ҡулланылыш</translation>
     </message>
 </context>
 <context>
     <name>BlockDevItemWidget</name>
     <message>
-        <location filename="../gui/block_dev_item_widget.cpp" line="138"/>
         <source>Read</source>
-        <translation>القراءة</translation>
+        <translation>Күсәт</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_item_widget.cpp" line="142"/>
         <source>Write</source>
-        <translation>الكتابة</translation>
+        <translation>Яҙыу</translation>
     </message>
 </context>
 <context>
     <name>CPUDetailGrapTableItem</name>
     <message>
-        <location filename="../gui/cpu_detail_widget.cpp" line="154"/>
         <source>60 seconds</source>
-        <translation>60 ثانية</translation>
+        <translation>60 секунд</translation>
     </message>
 </context>
 <context>
     <name>CPUInfoModel</name>
     <message>
-        <location filename="../model/cpu_info_model.cpp" line="43"/>
         <source>%1 days %2 hours %3 minutes</source>
-        <translation>%1 أيام %2 ساعات %3 دقائق</translation>
+        <translation>%1 көн %2 сәгать %3 минут</translation>
     </message>
 </context>
 <context>
     <name>CPUSummaryTableModel</name>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="91"/>
         <source>Utilization</source>
-        <translation>الاستخدام</translation>
+        <translation>Ҡулланылыш</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="93"/>
         <source>Current frequency</source>
-        <translation>التردد الحالي</translation>
+        <translation>Был ҡатнаш</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="98"/>
         <source>Frequency</source>
-        <translation>التردد</translation>
+        <translation>Ҡатнаш</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="104"/>
+        <source>Vendor</source>
+        <translation>Иҫтәләт</translation>
+    </message>
+    <message>
         <source>Sockets</source>
-        <translation>الsockets</translation>
+        <translation>Сокеттар</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="106"/>
         <source>Logical processors</source>
-        <translation>المعالجات المنطقية</translation>
+        <translation>Логик процесслар</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="110"/>
         <source>Virtualization</source>
-        <translation>الترميز الافتراضي</translation>
+        <translation>Виртуализация</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="112"/>
         <source>L1i cache</source>
-        <translation>الذاكرة العشوائية L1i</translation>
+        <translation>L1i кеше</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="116"/>
         <source>L1d cache</source>
-        <translation>الذاكرة العشوائية L1d</translation>
+        <translation>L1d кеше</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="118"/>
         <source>L2 cache</source>
-        <translation>الذاكرة العشوائية L2</translation>
+        <translation>L2 кеше</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="122"/>
         <source>L3 cache</source>
-        <translation>الذاكرة العشوائية L3</translation>
+        <translation>L3 кеше</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="124"/>
         <source>Load average</source>
-        <translation>معدل الأحمال</translation>
+        <translation>Яҡшылыҡ</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="128"/>
         <source>File descriptors</source>
-        <translation>الوصف الملفي</translation>
+        <translation>Файл иҫтәләттәре</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="130"/>
         <source>Processes</source>
-        <translation type="unfinished">Processes</translation>
+        <translation>Процесслар</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="134"/>
         <source>Threads</source>
-        <translation>الخيوط</translation>
+        <translation>Тредтар</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="136"/>
         <source>Host name</source>
-        <translation>اسم المضيف</translation>
+        <translation>Хост исеме</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="140"/>
         <source>OS type</source>
-        <translation>نوع نظام التشغيل</translation>
+        <translation>ОС төре</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="142"/>
         <source>Version</source>
-        <translation>النسخة</translation>
+        <translation>Версия</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="100"/>
         <source>Up time</source>
-        <translation>وقت التشغيل</translation>
+        <translation>Был вакыт</translation>
     </message>
 </context>
 <context>
     <name>Cancel</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="298"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Башҡа</translation>
     </message>
 </context>
 <context>
     <name>ChartViewWidget</name>
     <message>
-        <location filename="../gui/chart_view_widget.cpp" line="293"/>
         <source>60 seconds</source>
-        <translation>60 ثانية</translation>
+        <translation>60 секунд</translation>
     </message>
 </context>
 <context>
     <name>Common.Search</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="477"/>
         <source>No search results</source>
-        <translation>لا توجد نتائج للبحث</translation>
+        <translation>ئەگەر ھەققىدا ھەققىدا ھەققىدا ھەققىدا ھەققىدا ھەققىدا ھەققىدا ھەققىدا</translation>
     </message>
 </context>
 <context>
     <name>CompactCpuMonitor</name>
     <message>
-        <location filename="../compact_cpu_monitor.cpp" line="87"/>
         <source>Details</source>
-        <translation>التفاصيل</translation>
+        <translation>ئۇچۇرى</translation>
+    </message>
+</context>
+<context>
+    <name>Cpu.Widget</name>
+    <message>
+        <source>CPU</source>
+        <translation>CPU</translation>
     </message>
 </context>
 <context>
     <name>CpuMonitor</name>
     <message>
-        <location filename="../cpu_monitor.cpp" line="70"/>
         <source>Details</source>
-        <translation>التفاصيل</translation>
+        <translation>ئۇچۇرى</translation>
+    </message>
+</context>
+<context>
+    <name>CpuWidget</name>
+    <message>
+        <source>Utilization</source>
+        <translation>ئىشلىتىش</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Active.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="165"/>
         <source>active</source>
-        <translation>active</translation>
+        <translation>ھەققىدا</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="167"/>
         <source>reloading</source>
-        <translation>reloading</translation>
+        <translation>تەكشۈرۈۋاتىدۇ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="169"/>
         <source>inactive</source>
-        <translation>inactive</translation>
+        <translation>ھەققىدا</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="170"/>
         <source>failed</source>
-        <translation>failed</translation>
+        <translation>تەكشۈرۈۋاتىدۇ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="172"/>
         <source>activating</source>
-        <translation>activating</translation>
+        <translation>ھەققىدا</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="174"/>
         <source>deactivating</source>
-        <translation>deactivating</translation>
+        <translation>ھەققىدا</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Load.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="146"/>
         <source>stub</source>
-        <translation>stub</translation>
+        <translation>ئەھۋال</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="149"/>
         <source>not-found</source>
-        <translation>not-found</translation>
+        <translation>ئەھۋال</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="151"/>
         <source>bad-setting</source>
-        <translation>bad-setting</translation>
+        <translation>ئەھۋال</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="152"/>
         <source>error</source>
-        <translation>error</translation>
+        <translation>ئەھۋال</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="153"/>
         <source>merged</source>
-        <translation>merged</translation>
+        <translation>ئەھۋال</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="154"/>
         <source>masked</source>
-        <translation>masked</translation>
+        <translation>ئەھۋال</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="147"/>
         <source>loaded</source>
-        <translation>loaded</translation>
+        <translation>ئەھۋال</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Startup.Mode</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="297"/>
         <source>N/A</source>
-        <translation>N/A</translation>
+        <translation>مۇھىم بولمىدۇ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="295"/>
         <source>Auto</source>
-        <translation>Auto</translation>
+        <translation>ئاوتوماتىك</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="296"/>
         <source>Manual</source>
-        <translation>Manual</translation>
+        <translation>كۆرسەتىش</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="274"/>
         <source>enabled</source>
-        <translation>enabled</translation>
+        <translation>ئەھۋال</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="275"/>
         <source>disabled</source>
-        <translation>disabled</translation>
+        <translation>بۇلۇنما</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="276"/>
         <source>static</source>
-        <translation>static</translation>
+        <translation>سەرچە</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="277"/>
         <source>transient</source>
-        <translation>transient</translation>
+        <translation>تەكشۈرۈۋاتىدۇ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="278"/>
         <source>indirect</source>
-        <translation>indirect</translation>
+        <translation>تەكشۈرۈۋاتىدۇ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="280"/>
         <source>enabled-runtime</source>
-        <translation>enabled-runtime</translation>
+        <translation>ئەھۋال</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="281"/>
         <source>masked</source>
-        <translation>masked</translation>
+        <translation>بۇلۇنما</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="283"/>
         <source>generated</source>
-        <translation>generated</translation>
+        <translation>تەكشۈرۈۋاتىدۇ</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Sub.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="217"/>
         <source>dead</source>
-        <translation>dead</translation>
+        <translation>تەكشۈرۈۋاتىدۇ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="219"/>
         <source>start-pre</source>
         <translation>start-pre</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="221"/>
         <source>start</source>
         <translation>start</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="223"/>
         <source>start-post</source>
         <translation>start-post</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="225"/>
         <source>running</source>
         <translation>running</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="227"/>
         <source>exited</source>
         <translation>exited</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="229"/>
         <source>reload</source>
-        <translation>تәкъдім</translation>
+        <translation>reload</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="231"/>
         <source>stop</source>
-        <translation>тәкъдім</translation>
+        <translation>stop</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="233"/>
         <source>stop-watchdog</source>
-        <translation>тәкъдім (watchdog)</translation>
+        <translation>stop-watchdog</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="235"/>
         <source>stop-sigterm</source>
-        <translation>тәкъдім (sigterm)</translation>
+        <translation>stop-sigterm</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="237"/>
         <source>stop-sigkill</source>
-        <translation>тәкъдім (sigkill)</translation>
+        <translation>stop-sigkill</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="239"/>
         <source>stop-post</source>
-        <translation>тәкъдім (post)</translation>
+        <translation>stop-post</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="241"/>
         <source>final-sigterm</source>
-        <translation>final (sigterm)</translation>
+        <translation>final-sigterm</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="243"/>
         <source>final-sigkill</source>
-        <translation>final (sigkill)</translation>
+        <translation>final-sigkill</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="245"/>
         <source>failed</source>
-        <translation>әләй</translation>
+        <translation>failed</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="247"/>
         <source>auto-restart</source>
-        <translation>авто-тәкъдім</translation>
+        <translation>auto-restart</translation>
     </message>
 </context>
 <context>
     <name>DBusAlarmNotify</name>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="38"/>
         <source>Warning</source>
-        <translation>Хәбәр</translation>
+        <translation>Warning</translation>
     </message>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="39"/>
         <source>Your CPU usage is higher than %1%!</source>
-        <translation>Сіздің CPU ҡулланылыуыңыз %1%тан ҙурыраҡ!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="51"/>
         <source>Your memory usage is higher than %1%!</source>
-        <translation>Сіздің яҙмалыҡ ҡулланылыуыңыз %1%тан ҙурыраҡ!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="71"/>
         <source>View</source>
-        <translation type="unfinished">View</translation>
+        <translation>View</translation>
     </message>
 </context>
 <context>
     <name>DeailTableModel</name>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="62"/>
         <source>Used</source>
-        <translation>Ишләнгән</translation>
+        <translation>Used</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="64"/>
         <source>Available</source>
-        <translation>Иҫтәлә булырға</translation>
+        <translation>Available</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="68"/>
         <source>Shared</source>
-        <translation>Бөтен</translation>
+        <translation>Shared</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="70"/>
         <source>Cached</source>
-        <translation>Бурылған</translation>
+        <translation>Cached</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="74"/>
         <source>Buffers</source>
-        <translation>Буферҙар</translation>
+        <translation>Buffers</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="76"/>
         <source>Cached swap</source>
-        <translation>Бурылған swap</translation>
+        <translation>Cached swap</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="80"/>
         <source>Active</source>
-        <translation type="unfinished">Active</translation>
+        <translation>Active</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="82"/>
         <source>Inactive</source>
-        <translation>Актив булмай</translation>
+        <translation>Inactive</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="86"/>
         <source>Dirty</source>
-        <translation>Темен</translation>
+        <translation>Dirty</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="88"/>
         <source>Mapped</source>
-        <translation>Мапланған</translation>
+        <translation>Mapped</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="92"/>
         <source>Total swap</source>
-        <translation>Барлыҡ swap</translation>
+        <translation>Total swap</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="94"/>
         <source>Free swap</source>
-        <translation>Свобод swap</translation>
+        <translation>Free swap</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="98"/>
         <source>Slab</source>
-        <translation>Слаб</translation>
+        <translation>Slab</translation>
     </message>
 </context>
 <context>
     <name>DeailTableModelBlock</name>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="64"/>
         <source>Model</source>
-        <translation>Модель</translation>
+        <translation>Model</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="66"/>
         <source>Read speed</source>
-        <translation>Ҡына ынаныуы</translation>
+        <translation>Read speed</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="70"/>
         <source>Write speed</source>
-        <translation>Яҙыу ынаныуы</translation>
+        <translation>Write speed</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="72"/>
         <source>Capacity</source>
-        <translation>Ҡабатлау</translation>
+        <translation>Capacity</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="76"/>
         <source>Sectors read</source>
-        <translation>Ҡына ынаныуы</translation>
+        <translation>Sectors read</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="78"/>
         <source>Reads/s</source>
-        <translation>خәтә/с</translation>
+        <translation>Reads/s</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="82"/>
         <source>Sectors read/s</source>
-        <translation>Секторлар өҫтөнә/с</translation>
+        <translation>Sectors read/s</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="84"/>
         <source>Reads merged/s</source>
-        <translation>Хәтәләр бәйләнгән/с</translation>
+        <translation>Reads merged/s</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="88"/>
         <source>Sectors written</source>
-        <translation>Секторлар яҙылған</translation>
+        <translation>Sectors written</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="90"/>
         <source>Writes completed </source>
-        <translation>Яҙылыш һәм ҡапланған </translation>
+        <translation>Writes completed </translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="94"/>
         <source>Writes merged</source>
-        <translation>Яҙылыш бәйләнгән</translation>
+        <translation>Writes merged</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="96"/>
         <source>Writes/s</source>
-        <translation>Яҙылыш/с</translation>
+        <translation>Writes/s</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="100"/>
         <source>Sectors written/s</source>
-        <translation>Секторлар яҙылған/с</translation>
+        <translation>Sectors written/s</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="102"/>
         <source>Writes merged/s</source>
-        <translation>Яҙылыш бәйләнгән/с</translation>
+        <translation>Writes merged/s</translation>
+    </message>
+</context>
+<context>
+    <name>Disk.Widget</name>
+    <message>
+        <source>Disk</source>
+        <translation>Disk</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation>Read</translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation>Write</translation>
     </message>
 </context>
 <context>
     <name>Error.Dialog</name>
     <message>
-        <location filename="../gui/dialog/error_dialog.cpp" line="68"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>Help.Shortcut.System</name>
     <message>
-        <location filename="../common/common.cpp" line="28"/>
         <source>System</source>
-        <translation>Система</translation>
+        <translation>System</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="34"/>
         <source>Display shortcuts</source>
-        <translation>Ҡысҡа ҡағиҙәләрҙе күрһәтеү</translation>
+        <translation>Display shortcuts</translation>
     </message>
 </context>
 <context>
     <name>Kill.Process.Dialog</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="166"/>
         <source>Ending this process may cause data loss.
 Are you sure you want to continue?</source>
-        <translation>Был процессын тамамлау һыҙыҡта үткән һыҙыҡта ҡапланышын һәм ҡапланышын үткән һыҙыҡта ҡапланышын ҡаплай алмай. Ҡына ҡаплай алмай, ҡаплайыгыҙ вә ҡаплайыгыҙ?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="510"/>
         <source>End process</source>
-        <translation>Процесс тамамлау</translation>
+        <translation>End process</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="367"/>
         <source>Force ending this process may cause data loss.
 Are you sure you want to continue?</source>
-        <translation>Процессын ҡына тамамлау ҡапланышын ҡаплай алмай. Ҡына тамамлауын ҡаплайыгыҙ вә ҡаплайыгыҙ?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="511"/>
         <source>Force ending this application may cause data loss.
 Are you sure you want to continue?</source>
-        <translation>Был ҡына ҡаплай алмай. Ҡына тамамлауын ҡаплайыгыҙ вә ҡаплайыгыҙ?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="519"/>
         <source>Cancel</source>
         <comment>button</comment>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="520"/>
         <source>Force End</source>
         <comment>button</comment>
-        <translation type="unfinished">Force End</translation>
+        <translation>Force End</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="173"/>
         <source>End</source>
         <comment>button</comment>
-        <translation type="unfinished">End</translation>
+        <translation>End</translation>
     </message>
 </context>
 <context>
     <name>Logout</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="299"/>
         <source>Logout</source>
-        <translation>Тышҡын</translation>
+        <translation>Logout</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../gui/main_window.cpp" line="172"/>
         <source>Settings</source>
-        <translation>Төҙәтеү</translation>
+        <translation>Settings</translation>
     </message>
 </context>
 <context>
     <name>MemStatViewWidget</name>
     <message>
-        <location filename="../gui/mem_stat_view_widget.cpp" line="47"/>
         <source>Size</source>
-        <translation>Буйынсыҙлыҡ</translation>
+        <translation>Size</translation>
+    </message>
+</context>
+<context>
+    <name>Memory.Widget</name>
+    <message>
+        <source>Memory</source>
+        <translation>Memory</translation>
+    </message>
+    <message>
+        <source>Swap</source>
+        <translation>Swap</translation>
+    </message>
+    <message>
+        <source>Not enabled</source>
+        <translation>Not enabled</translation>
+    </message>
+</context>
+<context>
+    <name>Net.Widget</name>
+    <message>
+        <source>Download</source>
+        <translation>Download</translation>
+    </message>
+    <message>
+        <source>Total received</source>
+        <translation>Total received</translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation>Upload</translation>
+    </message>
+    <message>
+        <source>Total sent</source>
+        <translation>Total sent</translation>
     </message>
 </context>
 <context>
     <name>NetInfoDetailItemDelegate</name>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="157"/>
         <source>IP address:</source>
-        <translation>IP адресы:</translation>
+        <translation>IP address:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="157"/>
         <source>Netmask:</source>
-        <translation>Сетка маска:</translation>
+        <translation>Netmask:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="157"/>
         <source>Broadcast:</source>
-        <translation>Радио:</translation>
+        <translation>Broadcast:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="159"/>
         <source>Prefixlen:</source>
-        <translation>Префикс һаны:</translation>
+        <translation>Prefixlen:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="159"/>
         <source>Scope:</source>
-        <translation>Дөйөмләштереү:</translation>
+        <translation>Scope:</translation>
     </message>
 </context>
 <context>
     <name>NetInfoModel</name>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="293"/>
         <source>Connection type</source>
-        <translation>Ҡына ҡапланышын ҡаплай алмай</translation>
+        <translation>Connection type</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="301"/>
         <source>ESSID</source>
         <translation>ESSID</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="307"/>
         <source>Link quality</source>
-        <translation>Сығанаҡ ҡапланышын ҡаплай алмай</translation>
+        <translation>Link quality</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="312"/>
         <source>Signal strength</source>
-        <translation>Сигнал ҡапланышын ҡаплай алмай</translation>
+        <translation>Signal strength</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="317"/>
         <source>Noise level</source>
-        <translation>Ҡапланышын ҡаплай алмай</translation>
+        <translation>Noise level</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="323"/>
         <source>MAC</source>
         <translation>MAC</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="328"/>
         <source>Bandwidth</source>
-        <translation>Буйынсыҙлыҡ</translation>
+        <translation>Bandwidth</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="333"/>
         <source>RX packets</source>
-        <translation>RX بакет</translation>
+        <translation>RX packets</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="338"/>
         <source>RX bytes</source>
-        <translation>RX بايت</translation>
+        <translation>RX bytes</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="343"/>
         <source>RX errors</source>
-        <translation>RX خطا</translation>
+        <translation>RX errors</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="348"/>
         <source>RX dropped</source>
-        <translation>RX تم إسقاطه</translation>
+        <translation>RX dropped</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="353"/>
         <source>RX overruns</source>
-        <translation>RX تجاوز</translation>
+        <translation>RX overrüns</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="358"/>
         <source>RX frame</source>
-        <translation>RX إطار</translation>
+        <translation>RX frame</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="363"/>
         <source>TX packets</source>
-        <translation>TX بакет</translation>
+        <translation>TX packets</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="368"/>
         <source>TX bytes</source>
-        <translation>TX بايت</translation>
+        <translation>TX bytes</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="373"/>
         <source>TX errors</source>
-        <translation>TX خطا</translation>
+        <translation>TX errors</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="383"/>
         <source>TX overruns</source>
-        <translation>TX تجاوز</translation>
+        <translation>TX ხარისხის შეცდომა</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="388"/>
         <source>TX carrier</source>
-        <translation>TX حامل</translation>
+        <translation>TX მიმდევრობა</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="267"/>
         <source>IPv4</source>
-        <translation>IPV4</translation>
+        <translation>IPv4</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="282"/>
         <source>IPv6</source>
-        <translation>IPV6</translation>
+        <translation>IPv6</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="378"/>
         <source>TX dropped</source>
-        <translation>TX تم إسقاطه</translation>
+        <translation>TX გადახდენა</translation>
+    </message>
+</context>
+<context>
+    <name>NetWidget</name>
+    <message>
+        <source>Network</source>
+        <translation>ქარტი</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.DisplayName</name>
+    <message>
+        <source>System Monitor</source>
+        <translation>სისტემის მონიტორი</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.OpenSystemMontitor</name>
+    <message>
+        <source>Open</source>
+        <translation>გახსნა</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.cpu</name>
+    <message>
+        <source>CPU</source>
+        <translation>პროცესორი</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.mem</name>
+    <message>
+        <source>MEM</source>
+        <translation>მეხსიერება</translation>
     </message>
 </context>
 <context>
     <name>Process.Attributes.Dialog</name>
     <message>
-        <location filename="../gui/process_attribute_dialog.cpp" line="140"/>
         <source>Command line</source>
-        <translation>خط الأوامر</translation>
+        <translation>კомəნდის სტრუქტურა</translation>
     </message>
     <message>
-        <location filename="../gui/process_attribute_dialog.cpp" line="145"/>
         <source>Start time</source>
-        <translation>وقت البدء</translation>
+        <translation>საწყისი დრო</translation>
     </message>
     <message>
-        <location filename="../gui/process_attribute_dialog.cpp" line="135"/>
         <source>Name</source>
-        <translation>الاسم</translation>
+        <translation>სახელი</translation>
     </message>
 </context>
 <context>
     <name>Process.Choose.Window.Dialog</name>
     <message>
-        <location filename="../gui/xwin_kill_preview_background_widget.cpp" line="146"/>
         <source>Click the application you want to end</source>
-        <translation>اضغط على التطبيق الذي تريد إنهاؤه</translation>
+        <translation>დააწკაპულე მისამართი დაასრულების მიზნით</translation>
     </message>
 </context>
 <context>
     <name>Process.Graph.Title</name>
     <message>
-        <location filename="../gui/detail_view_stacked_widget.cpp" line="144"/>
         <source>Memory</source>
-        <translation>الذاكرة</translation>
+        <translation>მეხსიერება</translation>
     </message>
     <message>
-        <location filename="../gui/netif_item_view_widget.cpp" line="89"/>
         <source>Receive</source>
-        <translation>الاستقبال</translation>
+        <translation>მიღება</translation>
     </message>
 </context>
 <context>
     <name>Process.Graph.View</name>
     <message>
-        <location filename="../compact_cpu_monitor.cpp" line="220"/>
         <source>CPU</source>
-        <translation>المعالج</translation>
+        <translation>პროცესორი</translation>
     </message>
     <message>
-        <location filename="../compact_disk_monitor.cpp" line="145"/>
         <source>Disk read</source>
-        <translation>القراءة من القرص</translation>
+        <translation>დისკის čანახა</translation>
     </message>
     <message>
-        <location filename="../compact_disk_monitor.cpp" line="146"/>
         <source>Disk write</source>
-        <translation>الكتابة على القرص</translation>
+        <translation>დისკის წერა</translation>
     </message>
     <message>
-        <location filename="../compact_memory_monitor.cpp" line="176"/>
         <source>Memory</source>
-        <translation>الذاكرة</translation>
+        <translation>მეხსიერება</translation>
     </message>
     <message>
-        <location filename="../compact_memory_monitor.cpp" line="187"/>
         <source>Swap</source>
-        <translation>التبديل</translation>
+        <translation>გადაცემა</translation>
     </message>
     <message>
-        <location filename="../compact_memory_monitor.cpp" line="188"/>
         <source>Not enabled</source>
-        <translation>غير مفعل</translation>
+        <translation>ჩართული არ არის</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="152"/>
         <source>Download</source>
-        <translation>التنزيل</translation>
+        <translation>ჩატვირთვა</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="157"/>
         <source>Upload</source>
-        <translation>الرفع</translation>
+        <translation>გატვირთვა</translation>
     </message>
     <message>
-        <location filename="../gui/detail_view_stacked_widget.cpp" line="145"/>
         <source>Network</source>
-        <translation>الشبكة</translation>
+        <translation>ქარტი</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="154"/>
         <source>Total Received</source>
-        <translation>الإجمالي المستلم</translation>
+        <translation>სულ მიღებული</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="159"/>
         <source>Total Sent</source>
-        <translation>کۆپتى چاپ</translation>
+        <translation>სულ გაგზავნილი</translation>
     </message>
     <message>
-        <location filename="../gui/netif_item_view_widget.cpp" line="98"/>
         <source>Send</source>
-        <translation>چاپ</translation>
+        <translation>გაგზავნა</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_detail_view_widget.cpp" line="17"/>
         <source>Disks</source>
-        <translation>دисكى</translation>
+        <translation>დისკები</translation>
     </message>
 </context>
 <context>
     <name>Process.Loading</name>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="67"/>
         <source>Loading</source>
-        <translation>بارکۆکۈ</translation>
+        <translation>ჩატვირთვა</translation>
     </message>
 </context>
 <context>
     <name>Process.Priority</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="615"/>
         <source>Very high</source>
-        <translation>تەكىسى چوڭ</translation>
+        <translation>ნაკლები მნიშვნელობის</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="623"/>
         <source>High</source>
-        <translation>چوڭ</translation>
+        <translation>მაღალი</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="631"/>
         <source>Normal</source>
-        <translation>ئادەتتەن</translation>
+        <translation>ნორმალური</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="639"/>
         <source>Low</source>
-        <translation>كەچكەن</translation>
+        <translation>დაბალი</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="647"/>
         <source>Very low</source>
-        <translation>تەكىسى كەچكەن</translation>
+        <translation>ძალიან დაბალი</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="655"/>
         <source>Custom</source>
-        <translation>خەتىيە</translation>
+        <translation>ნაკლები მნიშვნელობის</translation>
     </message>
     <message>
-        <location filename="../process/process.cpp" line="60"/>
         <source>Invalid</source>
-        <translation>نەچتەن</translation>
+        <translation>არასწორი</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="179"/>
         <source>PID: %1, Error: [%2] %3</source>
-        <translation>PID: %1, خاتې: [%2] %3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="138"/>
         <source>Failed to change process priority</source>
-        <translation>پىرۇلىتىنى ئۆزگەرتىشنى بىلەلمەيدى</translation>
+        <translation>პროცესის პრიორიტეტის ცვლილება შეუძლებელია</translation>
     </message>
 </context>
 <context>
     <name>Process.Show.Mode</name>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="61"/>
         <source>Applications</source>
-        <translation>تەكىسى چوڭ</translation>
+        <translation>პროგრამები</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="63"/>
         <source>My processes</source>
-        <translation>تېغىن چىقىشلىرىم</translation>
+        <translation>ჩემი პროცესები</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="65"/>
         <source>All processes</source>
-        <translation>بەرى چىقىشلىرى</translation>
+        <translation>ყველა პროცესი</translation>
     </message>
 </context>
 <context>
     <name>Process.Signal</name>
     <message>
-        <location filename="../process/process_db.cpp" line="246"/>
         <source>Failed to pause process</source>
-        <translation>پىرۇلىتىنى تۆگەرەك قىلىشنى بىلەلمەيدى</translation>
+        <translation>პროცესის ჩაშენება შეუძლებელია</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="249"/>
         <source>Failed to resume process</source>
-        <translation>پىرۇلىتىنى ئەرەقى قىلىشنى بىلەلمەيدى</translation>
+        <translation>პროცესის გაჩენა შეუძლებელია</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="252"/>
         <source>Failed to kill process</source>
-        <translation>پىرۇلىتىنى تۆگەرەك قىلىشنى بىلەلمەيدى</translation>
+        <translation>პროცესის დაკიდება შეუძლებელია</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="255"/>
         <source>Unknown error</source>
-        <translation>نىقىسى ھەتى</translation>
+        <translation>უცნობი შეცდომა</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="311"/>
         <source>Failed in sending signal to process</source>
-        <translation>پىرۇلىتى ئۈچۈن سىگنال يۈкلىنىشتىن ھەتى بار</translation>
+        <translation>სიგნალის გაგზავნა პროცესს შეუძლებელია</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="243"/>
         <source>Failed to end process</source>
-        <translation>پىرۇلىتىنى بىتىرىشنى بىلەلمەيدى</translation>
+        <translation>პროცესის დასრულება შეუძლებელია</translation>
     </message>
 </context>
 <context>
     <name>Process.Summary</name>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="58"/>
         <source>(%1 applications and %2 processes are running)</source>
-        <translation>(%1 تەكىسى چوڭ ۋە %2 پىرۇلىتى ئىشلەيدى)</translation>
+        <translation>(%1 პროგრამები და %2 პროცესები მუშაობს)</translation>
     </message>
 </context>
 <context>
     <name>Process.Table</name>
     <message>
-        <location filename="../model/process_table_model.cpp" line="240"/>
         <source>No response</source>
-        <translation>ھەتى بار</translation>
+        <translation>რესპონსი არ არსებობს</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.cpp" line="245"/>
         <source>Suspend</source>
-        <translation>تۆگەرەك قىلىش</translation>
+        <translation>ჩაშენება</translation>
     </message>
     <message>
-        <location filename="../process/process_name.cpp" line="82"/>
         <source>Tray</source>
-        <translation>تەكىسى چوڭ</translation>
+        <translation>ტრეი</translation>
     </message>
 </context>
 <context>
     <name>Process.Table.Context.Menu</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="662"/>
         <source>View command location</source>
-        <translation>ئەملىيەت نۇقىتىنى كۆرۈش</translation>
+        <translation>კომანდის მდებარეობის ნახვა</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="79"/>
         <source>Properties</source>
-        <translation>سۈرۆتلىرى</translation>
+        <translation>თვისებები</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="62"/>
         <source>End process</source>
-        <translation>پىرۇلىتىنى بىتىرىش</translation>
+        <translation>პროცესის დასრულება</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="74"/>
         <source>Resume process</source>
-        <translation>پىرۇلىتىنى ئەرەقى قىلىش</translation>
+        <translation>პროცესის გაჩენა</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="85"/>
         <source>Kill process</source>
-        <translation>Процес тык</translation>
+        <translation>პროცესის დაკიდება</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="609"/>
         <source>Change priority</source>
-        <translation>Приоритет әләт</translation>
+        <translation>პრიორიტეტის ცვლილება</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="68"/>
         <source>Suspend process</source>
-        <translation>Процес тормоз</translation>
+        <translation>პროცესის ჩაშენება</translation>
     </message>
 </context>
 <context>
     <name>Process.Table.Custom.Priority.Dialog</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="1024"/>
         <source>Custom Priority</source>
-        <translation>Яңы Приоритет</translation>
+        <translation>ნაკლები მნიშვნელობის</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="1056"/>
         <source>Cancel</source>
         <comment>button</comment>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Չեղարկել</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="1058"/>
         <source>Change</source>
         <comment>button</comment>
-        <translation type="unfinished">Change</translation>
+        <translation>Փոխարկել</translation>
     </message>
 </context>
 <context>
     <name>Process.Table.Header</name>
     <message>
-        <location filename="../model/process_table_model.h" line="16"/>
         <source>Name</source>
-        <translation>Исем</translation>
+        <translation>Անվանում</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="18"/>
         <source>CPU</source>
         <translation>CPU</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="22"/>
         <source>Memory</source>
-        <translation>Хәрәкәт</translation>
+        <translation>Օգտագործում</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="32"/>
         <source>Disk write</source>
-        <translation>Диск яз</translation>
+        <translation>Սկավառակի գրանցում</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="30"/>
         <source>Disk read</source>
-        <translation>Диск оку</translation>
+        <translation>Սկավառակի կարդացում</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="28"/>
         <source>Download</source>
-        <translation>Төгел</translation>
+        <translation>Ներբեռում</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="26"/>
         <source>Upload</source>
-        <translation>Алгы</translation>
+        <translation>Ընթարցում</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="34"/>
         <source>PID</source>
         <translation>PID</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="20"/>
         <source>User</source>
-        <translation>Кеше</translation>
+        <translation>Օգտատիրում</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="36"/>
         <source>Nice</source>
         <translation>Nice</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="38"/>
         <source>Priority</source>
-        <translation>Приоритет</translation>
+        <translation>Առաջարկություն</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="23"/>
         <source>Shared memory</source>
-        <translation>Бүләнгән Хәрәкәт</translation>
+        <translation>Ընդհանուր հիշողություն</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="24"/>
         <source>Virtual memory</source>
-        <translation>Виртуаль Хәрәкәт</translation>
+        <translation>Անվտանգ հիշողություն</translation>
+    </message>
+</context>
+<context>
+    <name>ProcessWidget</name>
+    <message>
+        <source>Processes</source>
+        <translation>Օգտագործում</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Անվանում</translation>
+    </message>
+    <message>
+        <source>CPU</source>
+        <translation>CPU</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../system/cpu_set.cpp" line="366"/>
         <source>Not support</source>
-        <translation>Тык әләт</translation>
+        <translation>Չենթականանում</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="10"/>
         <source>Settings</source>
-        <translation>Төзәтмәләр</translation>
+        <translation>Կարգավորումներ</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="11"/>
         <source>System Protection</source>
-        <translation>Систем һаҡлану</translation>
+        <translation>Համակարգի ապահովություն</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="12"/>
         <source>Show warnings when the usage exceeds the thresholds</source>
-        <translation>Хәрәкәт үзгәреше үзгәреше һыҙыҡтан үткән була һаҡлау</translation>
+        <translation>Ցուցադրել սույնարանները, երբ օգտագործումը գերազանցում է սահմանները</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="13"/>
-        <source>CPU warning threshold (%)</source>
-        <translation>CPU һаҡлану һыҙығы (%) </translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="14"/>
-        <source>Memory warning threshold (%)</source>
-        <translation>Хәрәкәт һаҡлану һыҙығы (%) </translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="15"/>
-        <source>Warning interval (min)</source>
-        <translation>Һаҡлану аралығы (мин)</translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="16"/>
         <source>Notifications</source>
-        <translation>Хәбәрләр</translation>
+        <translation>Ծանուցումներ</translation>
+    </message>
+    <message>
+        <source>CPU warning threshold (%)</source>
+        <translation>CPU սույնարանի սահմանները (%)</translation>
+    </message>
+    <message>
+        <source>Memory warning threshold (%)</source>
+        <translation>Հիշողության սույնարանի սահմանները (%)</translation>
+    </message>
+    <message>
+        <source>Warning interval (min)</source>
+        <translation>Սույնարանի համար պատվերի միջակայքը (րոպե)</translation>
     </message>
 </context>
 <context>
     <name>Service.Action.Set.Startup.Mode</name>
     <message>
-        <location filename="../service/service_manager.cpp" line="322"/>
         <source>Failed to set service startup type</source>
-        <translation>Хәрәкәт һыҙығы әҙерләү үткән</translation>
+        <translation>Ծառայության սկավառակի տեսակը չի կարողանում սահմանել</translation>
     </message>
     <message>
-        <location filename="../service/service_manager.cpp" line="388"/>
         <source>Error: Failed to set service startup type due to the crashed sub process.</source>
-        <translation>Хәтта: Хәрәкәт һыҙығы әҙерләү үткән, ҡыҫҡы өйрәнеш буйынса үткән</translation>
+        <translation>Սխալ: Ծառայության սկավառակի տեսակը չի կարողանում սահմանել կարողացած սեղմած ենթածրագրի պատճառով</translation>
     </message>
 </context>
 <context>
     <name>Service.Instance.Name.Dialog</name>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="150"/>
         <source>Service instance name</source>
-        <translation>Хәрәкәт өйрәнеше исеме</translation>
+        <translation>Ծառայության ինստանսիայի անվանում</translation>
     </message>
     <message>
-        <location filename="../gui/service_name_sub_input_dialog.cpp" line="34"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <comment>button</comment>
+        <translation>Այո</translation>
     </message>
     <message>
-        <location filename="../gui/service_name_sub_input_dialog.cpp" line="35"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <comment>button</comment>
+        <translation>Բացակայ</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>Հաստատ</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Բացակայ</translation>
     </message>
 </context>
 <context>
     <name>Service.Table.Context.Menu</name>
     <message>
-        <location filename="../common/common.cpp" line="114"/>
         <source>Refresh</source>
-        <translation>Яңыртыу</translation>
+        <translation>Ծանրաբեռնել</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="99"/>
         <source>Start</source>
-        <translation>Башлап</translation>
+        <translation>Սակայն</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="104"/>
         <source>Stop</source>
-        <translation>Тәкъдим</translation>
+        <translation>Կանգնադրել</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="109"/>
         <source>Restart</source>
-        <translation>Тәкъдим һәм әртә</translation>
+        <translation>Վերասկզբունել</translation>
     </message>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="537"/>
         <source>Auto</source>
-        <translation>Авт</translation>
+        <translation>Ավտոմատ</translation>
     </message>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="538"/>
         <source>Manual</source>
-        <translation>Мануал</translation>
+        <translation>Շարունակական</translation>
     </message>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="536"/>
         <source>Startup type</source>
-        <translation>Башланғыч төр</translation>
+        <translation>Սկզբադրում տիպը</translation>
     </message>
 </context>
 <context>
     <name>Service.Table.Header</name>
     <message>
-        <location filename="../model/system_service_table_model.h" line="16"/>
         <source>Name</source>
-        <translation>Аты</translation>
+        <translation>Անուն</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="18"/>
         <source>Load</source>
-        <translation>Як</translation>
+        <translation>Բեռնել</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="23"/>
+        <source>Start State</source>
+        <translation>Սկզբական վիճակը</translation>
+    </message>
+    <message>
         <source>Sub</source>
-        <translation>Суб</translation>
+        <translation>Ենթա</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="30"/>
+        <source>Start Tactic</source>
+        <translation>Սկզբական քայլը</translation>
+    </message>
+    <message>
         <source>Description</source>
-        <translation>Тасвир</translation>
+        <translation>Նկարագրություն</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="32"/>
         <source>PID</source>
         <translation>PID</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="27"/>
         <source>Startup Type</source>
-        <translation>Башланғыч төр</translation>
-    </message>
-    <message>
-        <location filename="../model/system_service_table_model.h" line="21"/>
-        <source>Start State</source>
-        <translation>Башланғыч хәл</translation>
-    </message>
-    <message>
-        <location filename="../model/system_service_table_model.h" line="25"/>
-        <source>Start Tactic</source>
-        <translation>Башланғыч стратегия</translation>
+        <translation>Սկզբադրում տիپը</translation>
     </message>
 </context>
 <context>
     <name>SystemProtectionSetting</name>
     <message>
-        <location filename="../gui/dialog/systemprotectionsetting.cpp" line="124"/>
         <source>Settings</source>
-        <translation>Тинтәш</translation>
+        <translation>Կարգավորումներ</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/systemprotectionsetting.cpp" line="156"/>
         <source>(Modifiable)</source>
-        <translation>(Тәкъдим)</translation>
+        <translation>(Փոխելի)</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/systemprotectionsetting.cpp" line="263"/>
         <source>Range: %1-%2</source>
-        <translation>Ия: %1-%2</translation>
+        <translation>Ծավալը: %1-%2</translation>
     </message>
 </context>
 <context>
     <name>Title.Bar.Context.Menu</name>
     <message>
-        <location filename="../common/common.cpp" line="55"/>
         <source>Force end application</source>
-        <translation>Тәкъдим һәм әртә</translation>
+        <translation>Ծալել կարգավորումը</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="140"/>
         <source>Expand</source>
-        <translation>Күчерә</translation>
+        <translation>Բացարձակ</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="143"/>
         <source>Compact</source>
-        <translation>Кысҡа</translation>
+        <translation>Կարճացնել</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="135"/>
         <source>View</source>
-        <translation>Күрһәтә</translation>
+        <translation>Տեսանյութ</translation>
     </message>
 </context>
 <context>
     <name>Title.Bar.Search</name>
     <message>
-        <location filename="../common/common.cpp" line="40"/>
         <source>Search</source>
-        <translation>Ҡаҙау</translation>
+        <translation>Որոնել</translation>
     </message>
 </context>
 <context>
     <name>Title.Bar.Switch</name>
     <message>
-        <location filename="../common/common.cpp" line="49"/>
         <source>Processes</source>
-        <translation>Процессы</translation>
+        <translation>Ծրագրեր</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="94"/>
         <source>Services</source>
-        <translation>Сервис</translation>
+        <translation>Ծառայություններ</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="234"/>
         <source>Users</source>
-        <translation>Төп ҡатнашыусылар</translation>
+        <translation>Օգտատերեր</translation>
     </message>
 </context>
 <context>
     <name>User.Account.Operation</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="97"/>
         <source>Edit account information</source>
-        <translation>Аккаунт мәғлүмәтләрен түзә</translation>
+        <translation>Փոխել հաշտիրական տվյալները</translation>
     </message>
 </context>
 <context>
     <name>User.Account.Type</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="145"/>
         <source>Administrator</source>
-        <translation>Админ</translation>
+        <translation>Администратор</translation>
     </message>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="145"/>
         <source>Standard User</source>
-        <translation>Стандарт ҡатнашыусы</translation>
+        <translation>Стандартный пользователь</translation>
     </message>
 </context>
 </TS>

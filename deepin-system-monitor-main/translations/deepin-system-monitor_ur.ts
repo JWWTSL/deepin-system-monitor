@@ -4,30 +4,25 @@
 <context>
     <name>App.About</name>
     <message>
-        <location filename="../main.cpp" line="92"/>
         <source>System Monitor</source>
         <translation>سیسٹم مانیٹر</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="82"/>
         <source>System Monitor is a tool to monitor realtime system load, view and control processes and services running on your system.</source>
-        <translation>سیسٹم مانیٹر ایک ادا دار ہے جو سیسٹم کی واقعی وقت پر لوڈ کا نگرانی کرے، آپ کے سیسٹم پر چل رہے پروسیسز اور سروسز کو دیکھیں اور کنٹرول کریں۔</translation>
+        <translation>سیسٹم مانیٹر ایک ادا دار ہے جو آپ کے سسٹم پر کارروائی کر رہے پروسیسز اور سروسز کو دیکھنا اور کنٹرول کرنا ممکن بھیجے ہوئے سسٹم لوڈ کو گھٹانا ہے۔</translation>
     </message>
 </context>
 <context>
     <name>BaseDetailViewWidget</name>
     <message>
-        <location filename="../gui/base/base_detail_view_widget.cpp" line="28"/>
         <source>Hide details</source>
         <translation>details چھپا دیں</translation>
     </message>
     <message>
-        <location filename="../gui/base/base_detail_view_widget.cpp" line="39"/>
         <source>Overall utilization</source>
         <translation>کل استعمال</translation>
     </message>
     <message>
-        <location filename="../gui/base/base_detail_view_widget.cpp" line="42"/>
         <source>Individual utilization</source>
         <translation>فردی استعمال</translation>
     </message>
@@ -35,20 +30,17 @@
 <context>
     <name>BlockDevItemWidget</name>
     <message>
-        <location filename="../gui/block_dev_item_widget.cpp" line="138"/>
         <source>Read</source>
-        <translation>پڑھو</translation>
+        <translation>پڑھیں</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_item_widget.cpp" line="142"/>
         <source>Write</source>
-        <translation>لکھو</translation>
+        <translation>لکھیں</translation>
     </message>
 </context>
 <context>
     <name>CPUDetailGrapTableItem</name>
     <message>
-        <location filename="../gui/cpu_detail_widget.cpp" line="154"/>
         <source>60 seconds</source>
         <translation>60 سیکنڈ</translation>
     </message>
@@ -56,100 +48,85 @@
 <context>
     <name>CPUInfoModel</name>
     <message>
-        <location filename="../model/cpu_info_model.cpp" line="43"/>
         <source>%1 days %2 hours %3 minutes</source>
-        <translation>'%1 روز %2 گھنٹے %3 منٹ'</translation>
+        <translation>%1 دن %2 گھنٹے %3 منٹ</translation>
     </message>
 </context>
 <context>
     <name>CPUSummaryTableModel</name>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="91"/>
         <source>Utilization</source>
         <translation>استعمال</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="93"/>
         <source>Current frequency</source>
-        <translation>current فرکیوننسی</translation>
+        <translation>ہم وقت تیزی</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="98"/>
         <source>Frequency</source>
-        <translation>فرکیوننسی</translation>
+        <translation>تیزی</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="104"/>
+        <source>Vendor</source>
+        <translation>سازنده</translation>
+    </message>
+    <message>
         <source>Sockets</source>
         <translation>سکیٹس</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="106"/>
         <source>Logical processors</source>
-        <translation>لوجکل پروسیسز</translation>
+        <translation>منطقی پروسیسز</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="110"/>
         <source>Virtualization</source>
         <translation>ویجیولیزیشن</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="112"/>
         <source>L1i cache</source>
-        <translation>L1i کیچ</translation>
+        <translation>L1i کیش</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="116"/>
         <source>L1d cache</source>
-        <translation>L1d کیچ</translation>
+        <translation>L1d کیش</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="118"/>
         <source>L2 cache</source>
-        <translation>L2 کیچ</translation>
+        <translation>L2 کیش</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="122"/>
         <source>L3 cache</source>
-        <translation>L3 کیچ</translation>
+        <translation>L3 کیش</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="124"/>
         <source>Load average</source>
-        <translation>لوڈ ایچریج</translation>
+        <translation>لوڈ اوسط</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="128"/>
         <source>File descriptors</source>
-        <translation>فائل ڈیسکریپٹر</translation>
+        <translation>فائل ڈسکریپٹر</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="130"/>
         <source>Processes</source>
-        <translation type="unfinished">Processes</translation>
+        <translation>پروسیسز</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="134"/>
         <source>Threads</source>
-        <translation>نیٹھر</translation>
+        <translation>ٹھریڈز</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="136"/>
         <source>Host name</source>
         <translation>ہوست نام</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="140"/>
         <source>OS type</source>
-        <translation>OS قسم</translation>
+        <translation>OS نوع</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="142"/>
         <source>Version</source>
-        <translation>ویژن</translation>
+        <translation>ویریئن</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="100"/>
         <source>Up time</source>
         <translation>اپ ٹائم</translation>
     </message>
@@ -157,15 +134,13 @@
 <context>
     <name>Cancel</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="298"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>انس</translation>
     </message>
 </context>
 <context>
     <name>ChartViewWidget</name>
     <message>
-        <location filename="../gui/chart_view_widget.cpp" line="293"/>
         <source>60 seconds</source>
         <translation>60 سیکنڈ</translation>
     </message>
@@ -173,490 +148,430 @@
 <context>
     <name>Common.Search</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="477"/>
         <source>No search results</source>
-        <translation>تلاش نتائج نہیں</translation>
+        <translation>تلا تنتائج تلا</translation>
     </message>
 </context>
 <context>
     <name>CompactCpuMonitor</name>
     <message>
-        <location filename="../compact_cpu_monitor.cpp" line="87"/>
         <source>Details</source>
-        <translation>details</translation>
+        <translation>تفصیل</translation>
+    </message>
+</context>
+<context>
+    <name>Cpu.Widget</name>
+    <message>
+        <source>CPU</source>
+        <translation>CPU</translation>
     </message>
 </context>
 <context>
     <name>CpuMonitor</name>
     <message>
-        <location filename="../cpu_monitor.cpp" line="70"/>
         <source>Details</source>
-        <translation>details</translation>
+        <translation>تفصیل</translation>
+    </message>
+</context>
+<context>
+    <name>CpuWidget</name>
+    <message>
+        <source>Utilization</source>
+        <translation>استعمال</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Active.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="165"/>
         <source>active</source>
         <translation>فعال</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="167"/>
         <source>reloading</source>
-        <translation>ت再加载</translation>
+        <translation>بہتار کر رہا ہے</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="169"/>
         <source>inactive</source>
-        <translation>غير فعال</translation>
+        <translation>غیر فعال</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="170"/>
         <source>failed</source>
-        <translation>فشل</translation>
+        <translation>نامیک</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="172"/>
         <source>activating</source>
-        <translation>جار فعاليت</translation>
+        <translation>فعال کر رہا ہے</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="174"/>
         <source>deactivating</source>
-        <translation>جار غیر فعاليت</translation>
+        <translation>غیر فعال کر رہا ہے</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Load.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="146"/>
         <source>stub</source>
         <translation>.stub</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="149"/>
         <source>not-found</source>
-        <translation>نہ ملنا</translation>
+        <translation>نہیں ملا</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="151"/>
         <source>bad-setting</source>
-        <translation>غلط تنظيم</translation>
+        <translation>غلط ترتیب</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="152"/>
         <source>error</source>
         <translation>غلط</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="153"/>
         <source>merged</source>
-        <translation>میل</translation>
+        <translation>ملا</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="154"/>
         <source>masked</source>
-        <translation>ماسک</translation>
+        <translation>چھپا</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="147"/>
         <source>loaded</source>
-        <translation>لوڈ</translation>
+        <translation>لوڈ ہوا</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Startup.Mode</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="297"/>
         <source>N/A</source>
-        <translation>نہ تیار</translation>
+        <translation>نہیں ملا</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="295"/>
         <source>Auto</source>
         <translation>اوتومیٹک</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="296"/>
         <source>Manual</source>
-        <translation>ہنڈل</translation>
+        <translation>ہاتھ سے</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="274"/>
         <source>enabled</source>
-        <translation>فعال کریں</translation>
+        <translation>فعال کر دیا گیا</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="275"/>
         <source>disabled</source>
-        <translation>غیر فعال کریں</translation>
+        <translation>غیر فعال کر دیا گیا</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="276"/>
         <source>static</source>
-        <translation>استیٹک</translation>
+        <translation>سٹیٹک</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="277"/>
         <source>transient</source>
-        <translation>ٹرانزینٹ</translation>
+        <translation>مزیدار</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="278"/>
         <source>indirect</source>
-        <translation>ن间接</translation>
+        <translation>غیر مستقیم</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="280"/>
         <source>enabled-runtime</source>
-        <translation>رٹائمن فعال</translation>
+        <translation>چل رہا ہے</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="281"/>
         <source>masked</source>
-        <translation>ماسک</translation>
+        <translation>چھپا</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="283"/>
         <source>generated</source>
-        <translation>جینریٹ</translation>
+        <translation>پیدا کر دیا گیا</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Sub.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="217"/>
         <source>dead</source>
-        <translation>مردہ</translation>
+        <translation>موت</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="219"/>
         <source>start-pre</source>
-        <translation>شروع پیش</translation>
+        <translation>شروع پہلے</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="221"/>
         <source>start</source>
-        <translation>شروع</translation>
+        <translation>شروع کریں</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="223"/>
         <source>start-post</source>
-        <translation>شروع پس</translation>
+        <translation>شروع بعد</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="225"/>
         <source>running</source>
-        <translation>چل رہا ہے</translation>
+        <translation>چلا رہے ہیں</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="227"/>
         <source>exited</source>
-        <translation>چھوڑ دیا گیا</translation>
+        <translation>ختم ہو گیا</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="229"/>
         <source>reload</source>
-        <translation>بہتر کریں</translation>
+        <translation>دوبارہ لوڈ کریں</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="231"/>
         <source>stop</source>
-        <translation>بند کریں</translation>
+        <translation>روکیں</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="233"/>
         <source>stop-watchdog</source>
-        <translation>Watchdog بند کریں</translation>
+        <translation>ووچ ڈاگ روکیں</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="235"/>
         <source>stop-sigterm</source>
-        <translation>SIGTERM بند کریں</translation>
+        <translation>سیگ ٹرم روکیں</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="237"/>
         <source>stop-sigkill</source>
-        <translation>SIGKILL بند کریں</translation>
+        <translation>سیگ کیل روکیں</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="239"/>
         <source>stop-post</source>
-        <translation>POST بند کریں</translation>
+        <translation>روکنے کے بعد</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="241"/>
         <source>final-sigterm</source>
-        <translation>آخری SIGTERM</translation>
+        <translation>آخری سیگ ٹرم</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="243"/>
         <source>final-sigkill</source>
-        <translation>آخری SIGKILL</translation>
+        <translation>آخری سیگ کیل</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="245"/>
         <source>failed</source>
-        <translation>کامیاب نہ ہوگیا</translation>
+        <translation>کامیابی کے بغیر</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="247"/>
         <source>auto-restart</source>
-        <translation>اٹو ریسٹارٹ</translation>
+        <translation>اٹو شروع کریں</translation>
     </message>
 </context>
 <context>
     <name>DBusAlarmNotify</name>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="38"/>
         <source>Warning</source>
-        <translation>حیثیت</translation>
+        <translation>حتمی</translation>
     </message>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="39"/>
         <source>Your CPU usage is higher than %1%!</source>
-        <translation>اپنی CPU استعمال %1% سے زیادہ ہے!</translation>
+        <translation>آپ کی CPU استعمال %1% سے زیادہ ہے!</translation>
     </message>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="51"/>
         <source>Your memory usage is higher than %1%!</source>
-        <translation>اپنی یادگیری استعمال %1% سے زیادہ ہے!</translation>
+        <translation>آپ کی یادگیری استعمال %1% سے زیادہ ہے!</translation>
     </message>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="71"/>
         <source>View</source>
-        <translation type="unfinished">View</translation>
+        <translation>دیکھیں</translation>
     </message>
 </context>
 <context>
     <name>DeailTableModel</name>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="62"/>
         <source>Used</source>
         <translation>استعمال</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="64"/>
         <source>Available</source>
         <translation>دستیاب</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="68"/>
         <source>Shared</source>
-        <translation>شیئر کیا گیا</translation>
+        <translation>ساتھ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="70"/>
         <source>Cached</source>
-        <translation>کیچ کیا گیا</translation>
+        <translation>کیش</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="74"/>
         <source>Buffers</source>
-        <translation>بفرز</translation>
+        <translation>بفرس</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="76"/>
         <source>Cached swap</source>
-        <translation>کیچ چینج</translation>
+        <translation>کیش چھانٹ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="80"/>
         <source>Active</source>
-        <translation type="unfinished">Active</translation>
+        <translation>فعال</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="82"/>
         <source>Inactive</source>
-        <translation>نشیع</translation>
+        <translation>نفعی</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="86"/>
         <source>Dirty</source>
-        <translation>غباردار</translation>
+        <translation>گندا</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="88"/>
         <source>Mapped</source>
-        <translation>میپ کیا گیا</translation>
+        <translation>میپ کریں</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="92"/>
         <source>Total swap</source>
-        <translation>کل چینج</translation>
+        <translation>کل چھانٹ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="94"/>
         <source>Free swap</source>
-        <translation>مفتی چینج</translation>
+        <translation>آزاد تبادل</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="98"/>
         <source>Slab</source>
-        <translation>سلاب</translation>
+        <translation>ٹیبل</translation>
     </message>
 </context>
 <context>
     <name>DeailTableModelBlock</name>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="64"/>
         <source>Model</source>
-        <translation>میڈل</translation>
+        <translation>مڈل</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="66"/>
         <source>Read speed</source>
-        <translation>پڑھنے کی رفتار</translation>
+        <translation>ریڈ سپیڈ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="70"/>
         <source>Write speed</source>
-        <translation>لکھنے کی رفتار</translation>
+        <translation>وائٹ سپیڈ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="72"/>
         <source>Capacity</source>
-        <translation>کیپسٹی</translation>
+        <translation>کیپاکیٹی</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="76"/>
         <source>Sectors read</source>
-        <translation>سیکٹر پڑھے گئے</translation>
+        <translation>سیکٹر ریڈ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="78"/>
         <source>Reads/s</source>
-        <translation>راء/س</translation>
+        <translation>ریڈس/س</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="82"/>
         <source>Sectors read/s</source>
-        <translation>سیکٹرز ریڈ/س</translation>
+        <translation>سیکٹر ریڈس/س</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="84"/>
         <source>Reads merged/s</source>
-        <translation>راء مرج/س</translation>
+        <translation>ریڈس مرج/س</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="88"/>
         <source>Sectors written</source>
-        <translation>سیکٹرز ورائٹن</translation>
+        <translation>سیکٹر وائٹ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="90"/>
         <source>Writes completed </source>
-        <translation>وائٹس کمپلیٹ ہوئے</translation>
+        <translation>وائٹس کمپلیٹ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="94"/>
         <source>Writes merged</source>
         <translation>وائٹس مرج</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="96"/>
         <source>Writes/s</source>
         <translation>وائٹس/س</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="100"/>
         <source>Sectors written/s</source>
-        <translation>سیکٹرز ورائٹن/س</translation>
+        <translation>سیکٹر وائٹس/س</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="102"/>
         <source>Writes merged/s</source>
         <translation>وائٹس مرج/س</translation>
     </message>
 </context>
 <context>
+    <name>Disk.Widget</name>
+    <message>
+        <source>Disk</source>
+        <translation>ڈسک</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation>ریڈ</translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation>وائٹ</translation>
+    </message>
+</context>
+<context>
     <name>Error.Dialog</name>
     <message>
-        <location filename="../gui/dialog/error_dialog.cpp" line="68"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation type="unfinished">OK</translation>
+        <translation>اکسچ</translation>
     </message>
 </context>
 <context>
     <name>Help.Shortcut.System</name>
     <message>
-        <location filename="../common/common.cpp" line="28"/>
         <source>System</source>
         <translation>سیسٹم</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="34"/>
         <source>Display shortcuts</source>
-        <translation>کیا کرتے ہیں</translation>
+        <translation>کنٹرول کریں</translation>
     </message>
 </context>
 <context>
     <name>Kill.Process.Dialog</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="166"/>
         <source>Ending this process may cause data loss.
 Are you sure you want to continue?</source>
-        <translation>|-
-اس پروسیس کو ختم کرنے سے ڈیٹا کسی کھو جا سکتا ہے。
-آپ یقیناً جاری رکھنا چاہتے ہیں؟</translation>
+        <translation>یہ پروسیس ختم کرنے سے ڈیٹا کسی طرح کھو جا سکتا ہے۔
+آپ کیا یقیناً جاری رکھنا چاہتے ہیں؟</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="510"/>
         <source>End process</source>
         <translation>پروسیس ختم کریں</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="367"/>
         <source>Force ending this process may cause data loss.
 Are you sure you want to continue?</source>
-        <translation>|-
-یہ پروسیس کو مجبوری سے ختم کرنے سے ڈیٹا کسی کھو جا سکتا ہے。
-آپ یقیناً جاری رکھنا چاہتے ہیں؟</translation>
+        <translation>یہ پروسیس مجبورانہ ختم کرنے سے ڈیٹا کسی طرح کھو جا سکتا ہے۔
+آپ کیا یقیناً جاری رکھنا چاہتے ہیں؟</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="511"/>
         <source>Force ending this application may cause data loss.
 Are you sure you want to continue?</source>
-        <translation>|-
-یہ ایپلیکیشن کو مجبوری سے ختم کرنے سے ڈیٹا کسی کھو جا سکتا ہے。
-آپ یقیناً جاری رکھنا چاہتے ہیں؟</translation>
+        <translation>یہ ایپلیکیشن مجبورانہ ختم کرنے سے ڈیٹا کسی طرح کھو جا سکتا ہے۔
+آپ کیا یقیناً جاری رکھنا چاہتے ہیں؟</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="519"/>
         <source>Cancel</source>
         <comment>button</comment>
-        <translation type="unfinished">Cancel</translation>
+        <translation>منسوخ کریں</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="520"/>
         <source>Force End</source>
         <comment>button</comment>
-        <translation type="unfinished">Force End</translation>
+        <translation>مجبورانہ ختم کریں</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="173"/>
         <source>End</source>
         <comment>button</comment>
-        <translation type="unfinished">End</translation>
+        <translation>ختم کریں</translation>
     </message>
 </context>
 <context>
     <name>Logout</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="299"/>
         <source>Logout</source>
-        <translation>لوگ آوٹ</translation>
+        <translation>لوگ آؤٹ</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../gui/main_window.cpp" line="172"/>
         <source>Settings</source>
         <translation>Settings</translation>
     </message>
@@ -664,35 +579,63 @@ Are you sure you want to continue?</source>
 <context>
     <name>MemStatViewWidget</name>
     <message>
-        <location filename="../gui/mem_stat_view_widget.cpp" line="47"/>
         <source>Size</source>
-        <translation>سائیز</translation>
+        <translation>Size</translation>
+    </message>
+</context>
+<context>
+    <name>Memory.Widget</name>
+    <message>
+        <source>Memory</source>
+        <translation>Memory</translation>
+    </message>
+    <message>
+        <source>Swap</source>
+        <translation>Swap</translation>
+    </message>
+    <message>
+        <source>Not enabled</source>
+        <translation>نہ فعال کیا گیا</translation>
+    </message>
+</context>
+<context>
+    <name>Net.Widget</name>
+    <message>
+        <source>Download</source>
+        <translation>ڈاؤنلوڈ</translation>
+    </message>
+    <message>
+        <source>Total received</source>
+        <translation>کل درک</translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation>اپلوڈ</translation>
+    </message>
+    <message>
+        <source>Total sent</source>
+        <translation>کل ارسال</translation>
     </message>
 </context>
 <context>
     <name>NetInfoDetailItemDelegate</name>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="157"/>
         <source>IP address:</source>
         <translation>IP ایڈریس:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="157"/>
         <source>Netmask:</source>
         <translation>نیٹ ماسک:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="157"/>
         <source>Broadcast:</source>
-        <translation>برودکاسٹ:</translation>
+        <translation>براؤڈ کاسٹ:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="159"/>
         <source>Prefixlen:</source>
         <translation>پریفیکس لین:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="159"/>
         <source>Scope:</source>
         <translation>سکوپ:</translation>
     </message>
@@ -700,125 +643,136 @@ Are you sure you want to continue?</source>
 <context>
     <name>NetInfoModel</name>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="293"/>
         <source>Connection type</source>
-        <translation>کنیکشن ٹائپ</translation>
+        <translation>کنکشن ٹائپ</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="301"/>
         <source>ESSID</source>
         <translation>ESSID</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="307"/>
         <source>Link quality</source>
-        <translation>لین کی کوالٹی</translation>
+        <translation> لنک کی کوالٹی</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="312"/>
         <source>Signal strength</source>
-        <translation>سیگنل ٹسٹ</translation>
+        <translation> سائنل ٹسٹر</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="317"/>
         <source>Noise level</source>
-        <translation>نائس لیول</translation>
+        <translation> نائس لیول</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="323"/>
         <source>MAC</source>
         <translation>MAC</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="328"/>
         <source>Bandwidth</source>
-        <translation>بینڈ چارج</translation>
+        <translation> بینڈ ودث</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="333"/>
         <source>RX packets</source>
-        <translation>RX بکٹس</translation>
+        <translation>RX پیکٹس</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="338"/>
         <source>RX bytes</source>
-        <translation>RX بایٹس</translation>
+        <translation>RX بائٹس</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="343"/>
         <source>RX errors</source>
-        <translation>RX گریں</translation>
+        <translation>RX ایرورز</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="348"/>
         <source>RX dropped</source>
-        <translation>RX ڈ롭</translation>
+        <translation>RX ڈropped</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="353"/>
         <source>RX overruns</source>
-        <translation>RX اورنر</translation>
+        <translation>RX اوور رنز</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="358"/>
         <source>RX frame</source>
         <translation>RX فریم</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="363"/>
         <source>TX packets</source>
-        <translation>TX بکٹس</translation>
+        <translation>TX پیکٹس</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="368"/>
         <source>TX bytes</source>
-        <translation>TX بایٹس</translation>
+        <translation>TX بائٹس</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="373"/>
         <source>TX errors</source>
-        <translation>TX گریں</translation>
+        <translation>TX ایرورز</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="383"/>
         <source>TX overruns</source>
-        <translation>TX اورنر</translation>
+        <translation>TX overruns</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="388"/>
         <source>TX carrier</source>
-        <translation>TX کیریئر</translation>
+        <translation>TX carrier</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="267"/>
         <source>IPv4</source>
-        <translation>ای پی 4</translation>
+        <translation>IPv4</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="282"/>
         <source>IPv6</source>
-        <translation>ای پی 6</translation>
+        <translation>IPv6</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="378"/>
         <source>TX dropped</source>
-        <translation>TX ڈROP</translation>
+        <translation>TX dropped</translation>
+    </message>
+</context>
+<context>
+    <name>NetWidget</name>
+    <message>
+        <source>Network</source>
+        <translation>نیٹ ورک</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.DisplayName</name>
+    <message>
+        <source>System Monitor</source>
+        <translation>سیسٹم مانیٹر</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.OpenSystemMontitor</name>
+    <message>
+        <source>Open</source>
+        <translation>آپن کریں</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.cpu</name>
+    <message>
+        <source>CPU</source>
+        <translation>CPU</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.mem</name>
+    <message>
+        <source>MEM</source>
+        <translation>MEM</translation>
     </message>
 </context>
 <context>
     <name>Process.Attributes.Dialog</name>
     <message>
-        <location filename="../gui/process_attribute_dialog.cpp" line="140"/>
         <source>Command line</source>
         <translation>کمینڈ لائن</translation>
     </message>
     <message>
-        <location filename="../gui/process_attribute_dialog.cpp" line="145"/>
         <source>Start time</source>
         <translation>شروع وقت</translation>
     </message>
     <message>
-        <location filename="../gui/process_attribute_dialog.cpp" line="135"/>
         <source>Name</source>
         <translation>نام</translation>
     </message>
@@ -826,88 +780,72 @@ Are you sure you want to continue?</source>
 <context>
     <name>Process.Choose.Window.Dialog</name>
     <message>
-        <location filename="../gui/xwin_kill_preview_background_widget.cpp" line="146"/>
         <source>Click the application you want to end</source>
-        <translation>چیک کریں جو ایپلیکیشن کو ختم کرنا چاہیے</translation>
+        <translation>ختم کرنے والی ایپلیکیشن کو کلک کریں</translation>
     </message>
 </context>
 <context>
     <name>Process.Graph.Title</name>
     <message>
-        <location filename="../gui/detail_view_stacked_widget.cpp" line="144"/>
         <source>Memory</source>
-        <translation>میموري</translation>
+        <translation>یادگیری</translation>
     </message>
     <message>
-        <location filename="../gui/netif_item_view_widget.cpp" line="89"/>
         <source>Receive</source>
-        <translation>پہنچ</translation>
+        <translation>پہنچائیں</translation>
     </message>
 </context>
 <context>
     <name>Process.Graph.View</name>
     <message>
-        <location filename="../compact_cpu_monitor.cpp" line="220"/>
         <source>CPU</source>
-        <translation>سی پی یو</translation>
+        <translation>CPU</translation>
     </message>
     <message>
-        <location filename="../compact_disk_monitor.cpp" line="145"/>
         <source>Disk read</source>
         <translation>ڈسک ریڈ</translation>
     </message>
     <message>
-        <location filename="../compact_disk_monitor.cpp" line="146"/>
         <source>Disk write</source>
-        <translation>ڈسک رائٹ</translation>
+        <translation>ڈسک وائٹ</translation>
     </message>
     <message>
-        <location filename="../compact_memory_monitor.cpp" line="176"/>
         <source>Memory</source>
-        <translation>میموري</translation>
+        <translation>یادگیری</translation>
     </message>
     <message>
-        <location filename="../compact_memory_monitor.cpp" line="187"/>
         <source>Swap</source>
-        <translation>سوپ</translation>
+        <translation>سواپ</translation>
     </message>
     <message>
-        <location filename="../compact_memory_monitor.cpp" line="188"/>
         <source>Not enabled</source>
-        <translation>فعال نہیں کیا گیا</translation>
+        <translation>نشَر کریں</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="152"/>
         <source>Download</source>
-        <translation>ڈاؤن لوڈ</translation>
+        <translation>ڈائون لوڈ</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="157"/>
         <source>Upload</source>
         <translation>آپ لوڈ</translation>
     </message>
     <message>
-        <location filename="../gui/detail_view_stacked_widget.cpp" line="145"/>
         <source>Network</source>
         <translation>نیٹ ورک</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="154"/>
         <source>Total Received</source>
-        <translation>کل پہنچ</translation>
+        <translation>کل پہنچائے گئے</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="159"/>
         <source>Total Sent</source>
-        <translation>کل جاری</translation>
+        <translation>کل بھیجے گئے</translation>
     </message>
     <message>
-        <location filename="../gui/netif_item_view_widget.cpp" line="98"/>
         <source>Send</source>
-        <translation>جử</translation>
+        <translation>بھیجیں</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_detail_view_widget.cpp" line="17"/>
         <source>Disks</source>
         <translation>ڈسکس</translation>
     </message>
@@ -915,73 +853,60 @@ Are you sure you want to continue?</source>
 <context>
     <name>Process.Loading</name>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="67"/>
         <source>Loading</source>
-        <translation>لوڈنگ</translation>
+        <translation>لوڈ کریں</translation>
     </message>
 </context>
 <context>
     <name>Process.Priority</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="615"/>
         <source>Very high</source>
-        <translation>بسیار زیاد</translation>
+        <translation>بہت ہی اعلی</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="623"/>
         <source>High</source>
-        <translation>زیاد</translation>
+        <translation>اعلی</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="631"/>
         <source>Normal</source>
-        <translation>نرمال</translation>
+        <translation>اوسط</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="639"/>
         <source>Low</source>
         <translation>کم</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="647"/>
         <source>Very low</source>
-        <translation>بسیار کم</translation>
+        <translation>بہت ہی کم</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="655"/>
         <source>Custom</source>
-        <translation>کسٹم</translation>
+        <translation>خود کریا</translation>
     </message>
     <message>
-        <location filename="../process/process.cpp" line="60"/>
         <source>Invalid</source>
-        <translation>غیر معین</translation>
+        <translation>غیر درست</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="179"/>
         <source>PID: %1, Error: [%2] %3</source>
-        <translation>PID: %1، گلٹی: [%2] %3</translation>
+        <translation>PID: %1، Error: [%2] %3</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="138"/>
         <source>Failed to change process priority</source>
-        <translation>پروسس کی اولیت تبدیل کرنے میں کامیاب نہ ہو سکا</translation>
+        <translation>پروسس پریوریٹی کو تبدیل کرنے میں ناکامی</translation>
     </message>
 </context>
 <context>
     <name>Process.Show.Mode</name>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="61"/>
         <source>Applications</source>
-        <translation>应用程序</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="63"/>
         <source>My processes</source>
         <translation>میرے پروسس</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="65"/>
         <source>All processes</source>
         <translation>ہر پروسس</translation>
     </message>
@@ -989,380 +914,337 @@ Are you sure you want to continue?</source>
 <context>
     <name>Process.Signal</name>
     <message>
-        <location filename="../process/process_db.cpp" line="246"/>
         <source>Failed to pause process</source>
-        <translation>پروسس کو چھوڑنے میں کامیاب نہ ہو سکا</translation>
+        <translation>پروسس کو کھولنے میں ناکامی</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="249"/>
         <source>Failed to resume process</source>
-        <translation>پروسس کو جاری کرنے میں کامیاب نه ہو سکا</translation>
+        <translation>پروسس کو سست کرنے میں ناکامی</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="252"/>
         <source>Failed to kill process</source>
-        <translation>پروسس کو ختم کرنے میں کامیاب نہ ہو سکا</translation>
+        <translation>پروسس کو مارنے میں ناکامی</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="255"/>
         <source>Unknown error</source>
-        <translation>غیر معلوم گلٹی</translation>
+        <translation>نامعلوم خطا</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="311"/>
         <source>Failed in sending signal to process</source>
-        <translation>پروسس کو سیگنل بھیجنے میں کامیاب نہ ہو سکا</translation>
+        <translation>پروسس کو سگنل بھیجنے میں ناکامی</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="243"/>
         <source>Failed to end process</source>
-        <translation>پروسس ختم کرنے میں کامیاب نہ ہو سکا</translation>
+        <translation>پروسس کو ختم کرنے میں ناکامی</translation>
     </message>
 </context>
 <context>
     <name>Process.Summary</name>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="58"/>
         <source>(%1 applications and %2 processes are running)</source>
-        <translation>(%1 ایپلیکیشنز اور %2 پروسسز چل رہے ہیں)</translation>
+        <translation>(%1 اپلیکیشنز اور %2 پروسسز چل رہے ہیں)</translation>
     </message>
 </context>
 <context>
     <name>Process.Table</name>
     <message>
-        <location filename="../model/process_table_model.cpp" line="240"/>
         <source>No response</source>
-        <translation>ری پریس نہیں</translation>
+        <translation>کوئی جواب نہیں</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.cpp" line="245"/>
         <source>Suspend</source>
-        <translation>سپنڈ کریں</translation>
+        <translation>سست</translation>
     </message>
     <message>
-        <location filename="../process/process_name.cpp" line="82"/>
         <source>Tray</source>
-        <translation>ٹری</translation>
+        <translation>ٹرے</translation>
     </message>
 </context>
 <context>
     <name>Process.Table.Context.Menu</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="662"/>
         <source>View command location</source>
-        <translation>کمانڈ کی جگہ دیکھیں</translation>
+        <translation>کمینڈ کے مقام کو دیکھیں</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="79"/>
         <source>Properties</source>
         <translation>خصوصیات</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="62"/>
         <source>End process</source>
         <translation>پروسس ختم کریں</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="74"/>
         <source>Resume process</source>
-        <translation>پروسس جاری کریں</translation>
+        <translation>پروسس سست کریں</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="85"/>
         <source>Kill process</source>
-        <translation>پروسيس ہلاک کریں</translation>
+        <translation>پروسس ماریں</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="609"/>
         <source>Change priority</source>
-        <translation>اولیت تبدیل کریں</translation>
+        <translation>پریوریٹی تبدیل کریں</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="68"/>
         <source>Suspend process</source>
-        <translation>پروسيس ٹھنڈا کریں</translation>
+        <translation>پروسس سست کریں</translation>
     </message>
 </context>
 <context>
     <name>Process.Table.Custom.Priority.Dialog</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="1024"/>
         <source>Custom Priority</source>
-        <translation>اپنی اولیت</translation>
+        <translation>خود کریا پریوریٹی</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="1056"/>
         <source>Cancel</source>
         <comment>button</comment>
-        <translation type="unfinished">Cancel</translation>
+        <translation>انصراف</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="1058"/>
         <source>Change</source>
         <comment>button</comment>
-        <translation type="unfinished">Change</translation>
+        <translation>تبدیل کریں</translation>
     </message>
 </context>
 <context>
     <name>Process.Table.Header</name>
     <message>
-        <location filename="../model/process_table_model.h" line="16"/>
         <source>Name</source>
         <translation>نام</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="18"/>
         <source>CPU</source>
         <translation>CPU</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="22"/>
         <source>Memory</source>
-        <translation>یادگیری</translation>
+        <translation>میم</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="32"/>
         <source>Disk write</source>
-        <translation>ڈسک لکھیں</translation>
+        <translation>ڈسک لکھو</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="30"/>
         <source>Disk read</source>
-        <translation>ڈسک پڑھیں</translation>
+        <translation>ڈسک پڑھو</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="28"/>
         <source>Download</source>
         <translation>ڈاؤن لوڈ</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="26"/>
         <source>Upload</source>
         <translation>آپ لوڈ</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="34"/>
         <source>PID</source>
         <translation>PID</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="20"/>
         <source>User</source>
-        <translation>صارف</translation>
+        <translation>صاری</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="36"/>
         <source>Nice</source>
-        <translation>Nice</translation>
+        <translation>نیس</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="38"/>
         <source>Priority</source>
         <translation>اولیت</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="23"/>
         <source>Shared memory</source>
-        <translation>شیئر یادگیری</translation>
+        <translation>شیئرڈ میم</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="24"/>
         <source>Virtual memory</source>
-        <translation> Virtually یادگیری</translation>
+        <translation>ویجیو میم</translation>
+    </message>
+</context>
+<context>
+    <name>ProcessWidget</name>
+    <message>
+        <source>Processes</source>
+        <translation>پروسیسز</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>نہیں سپورٹ کیا جاتا</translation>
+    </message>
+    <message>
+        <source>CPU</source>
+        <translation>سیٹنگس</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../system/cpu_set.cpp" line="366"/>
         <source>Not support</source>
-        <translation>سپورٹ نہیں کیا جا رہا ہے</translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="10"/>
-        <source>Settings</source>
-        <translation>Settings</translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="11"/>
-        <source>System Protection</source>
         <translation>سیسٹم پروٹیکشن</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="12"/>
+        <source>Settings</source>
+        <translation>اگر استعمال درجہ حریت سے متجاوز ہو تو چیٹنگ نمایاں کریں</translation>
+    </message>
+    <message>
+        <source>System Protection</source>
+        <translation>اخطار</translation>
+    </message>
+    <message>
         <source>Show warnings when the usage exceeds the thresholds</source>
-        <translation>استعمال کے حدود سے تجاوز کرنے پر چیتھڑا دکھائیں</translation>
+        <translation>CPU چیٹنگ درجہ (%)</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="13"/>
-        <source>CPU warning threshold (%)</source>
-        <translation>CPU چیتھڑا حد (%) </translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="14"/>
-        <source>Memory warning threshold (%)</source>
-        <translation>یادگیری چیتھڑا حد (%) </translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="15"/>
-        <source>Warning interval (min)</source>
-        <translation>چیتھڑا فاصلہ (منٹ)</translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="16"/>
         <source>Notifications</source>
-        <translation>اخطاک</translation>
+        <translation>میم چیٹنگ درجہ (%)</translation>
+    </message>
+    <message>
+        <source>CPU warning threshold (%)</source>
+        <translation>چیٹنگ فاصلہ (منٹ)</translation>
+    </message>
+    <message>
+        <source>Memory warning threshold (%)</source>
+        <translation>سروس شاوت اپ کریں نہیں ہوئی</translation>
+    </message>
+    <message>
+        <source>Warning interval (min)</source>
+        <translation>ERROR: سروس شاوت اپ کریں نہیں ہوئی کیونکہ سبس چیک گھس گئی۔</translation>
     </message>
 </context>
 <context>
     <name>Service.Action.Set.Startup.Mode</name>
     <message>
-        <location filename="../service/service_manager.cpp" line="322"/>
         <source>Failed to set service startup type</source>
-        <translation>سروس سٹارٹ اپ ٹائپ سیٹ کرنے میں ناکامی</translation>
+        <translation>سروس انستنس نام</translation>
     </message>
     <message>
-        <location filename="../service/service_manager.cpp" line="388"/>
         <source>Error: Failed to set service startup type due to the crashed sub process.</source>
-        <translation> Error: سروس سٹارٹ اپ ٹائپ سیٹ کرنے میں ناکامی کیوں کہ ایک ٹھنڈا ہو گیا ہے سبس چیتھڑا.</translation>
+        <translation>اکی</translation>
     </message>
 </context>
 <context>
     <name>Service.Instance.Name.Dialog</name>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="150"/>
         <source>Service instance name</source>
-        <translation>سروس انسٹنس نام</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gui/service_name_sub_input_dialog.cpp" line="34"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <comment>button</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gui/service_name_sub_input_dialog.cpp" line="35"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <comment>button</comment>
+        <translation>منسوخ کریں</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>ٹھیک ہے</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>منسوخ کریں</translation>
     </message>
 </context>
 <context>
     <name>Service.Table.Context.Menu</name>
     <message>
-        <location filename="../common/common.cpp" line="114"/>
         <source>Refresh</source>
         <translation>نیا</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="99"/>
         <source>Start</source>
         <translation>شروع کریں</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="104"/>
         <source>Stop</source>
-        <translation>وقف</translation>
+        <translation> روکیں</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="109"/>
         <source>Restart</source>
-        <translation>재시작</translation>
+        <translation>دوبارہ شروع کریں</translation>
     </message>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="537"/>
         <source>Auto</source>
         <translation>اوتومیٹک</translation>
     </message>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="538"/>
         <source>Manual</source>
-        <translation>دستی</translation>
+        <translation>ہنڈل کریں</translation>
     </message>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="536"/>
         <source>Startup type</source>
-        <translation>شروع کریں کی نوع</translation>
+        <translation>شروع کرنے کی نوعیت</translation>
     </message>
 </context>
 <context>
     <name>Service.Table.Header</name>
     <message>
-        <location filename="../model/system_service_table_model.h" line="16"/>
         <source>Name</source>
         <translation>نام</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="18"/>
         <source>Load</source>
         <translation>لوڈ</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="23"/>
+        <source>Start State</source>
+        <translation>شروع کریں حالت</translation>
+    </message>
+    <message>
         <source>Sub</source>
         <translation>سبر</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="30"/>
-        <source>Description</source>
-        <translation>توضیحات</translation>
-    </message>
-    <message>
-        <location filename="../model/system_service_table_model.h" line="32"/>
-        <source>PID</source>
-        <translation>پی ڈی یی</translation>
-    </message>
-    <message>
-        <location filename="../model/system_service_table_model.h" line="27"/>
-        <source>Startup Type</source>
-        <translation>شروع کریں کی نوع</translation>
-    </message>
-    <message>
-        <location filename="../model/system_service_table_model.h" line="21"/>
-        <source>Start State</source>
-        <translation>شروع کریں کی حالت</translation>
-    </message>
-    <message>
-        <location filename="../model/system_service_table_model.h" line="25"/>
         <source>Start Tactic</source>
-        <translation>شروع کریں کی تاکت</translation>
+        <translation>شروع کرنے کا طریقہ</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>وضاحت</translation>
+    </message>
+    <message>
+        <source>PID</source>
+        <translation>PID</translation>
+    </message>
+    <message>
+        <source>Startup Type</source>
+        <translation>شروع کرنے کی نوعیت</translation>
     </message>
 </context>
 <context>
     <name>SystemProtectionSetting</name>
     <message>
-        <location filename="../gui/dialog/systemprotectionsetting.cpp" line="124"/>
         <source>Settings</source>
-        <translation>Settings</translation>
+        <translation>ترتیبات</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/systemprotectionsetting.cpp" line="156"/>
         <source>(Modifiable)</source>
-        <translation>(تبدیل کریں گے)</translation>
+        <translation>(تبدیل کریں ہو سکتا ہے)</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/systemprotectionsetting.cpp" line="263"/>
         <source>Range: %1-%2</source>
-        <translation>محدودیت: %1-%2</translation>
+        <translation>نگاہ: %1-%2</translation>
     </message>
 </context>
 <context>
     <name>Title.Bar.Context.Menu</name>
     <message>
-        <location filename="../common/common.cpp" line="55"/>
         <source>Force end application</source>
-        <translation>اپلیکیشن کو مزید جاری رکھیں</translation>
+        <translation>اپلیکیشن کو ہٹا دیں</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="140"/>
         <source>Expand</source>
-        <translation>مختلف</translation>
+        <translation>بڑھائیں</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="143"/>
         <source>Compact</source>
-        <translation>کمپکٹ</translation>
+        <translation>چھوٹا کریں</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="135"/>
         <source>View</source>
         <translation>دیکھیں</translation>
     </message>
@@ -1370,46 +1252,39 @@ Are you sure you want to continue?</source>
 <context>
     <name>Title.Bar.Search</name>
     <message>
-        <location filename="../common/common.cpp" line="40"/>
         <source>Search</source>
-        <translation>تلاش</translation>
+        <translation>تلاش کریں</translation>
     </message>
 </context>
 <context>
     <name>Title.Bar.Switch</name>
     <message>
-        <location filename="../common/common.cpp" line="49"/>
         <source>Processes</source>
         <translation>پروسیسز</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="94"/>
         <source>Services</source>
         <translation>سروسز</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="234"/>
         <source>Users</source>
-        <translation>صارفین</translation>
+        <translation>صارف</translation>
     </message>
 </context>
 <context>
     <name>User.Account.Operation</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="97"/>
         <source>Edit account information</source>
-        <translation>اکاونٹ اطلاعات تبدیل کریں</translation>
+        <translation>اکاؤنٹ معلومات تبدیل کریں</translation>
     </message>
 </context>
 <context>
     <name>User.Account.Type</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="145"/>
         <source>Administrator</source>
-        <translation>ادمینیسٹر</translation>
+        <translation>اڈمن</translation>
     </message>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="145"/>
         <source>Standard User</source>
         <translation>معیاری صارف</translation>
     </message>

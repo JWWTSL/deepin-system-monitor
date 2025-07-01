@@ -4,59 +4,50 @@
 <context>
     <name>App.About</name>
     <message>
-        <location filename="../main.cpp" line="92"/>
         <source>System Monitor</source>
-        <translation>ಸಿಸ್ಟಂ ಮಾನಿಟರ್</translation>
+        <translation>ಸಿಸ್ಟೆಮ್ ಮಾನಿಟರ್</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="82"/>
         <source>System Monitor is a tool to monitor realtime system load, view and control processes and services running on your system.</source>
-        <translation>ಸಿಸ್ಟಂ ಮಾನಿಟರ್ ಒಂದು ಸಿಸ್ಟಂ ಲೋಡ್ ಅನ್ನು ಅನುಸರಿಸಿ ನೋಡಲು ಮತ್ತು ನಿಯಂತ್ರಿಸಲು ಸಿಸ್ಟಂದಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿರುವ ಪ್ರಕ್ರಿಯೆಗಳು ಮತ್ತು ಸೇವೆಗಳನ್ನು ಅನುಸರಿಸಿ ನೋಡಲು ಮತ್ತು ನಿಯಂತ್ರಿಸಲು ಬಳಸಲಾಗುವ ಸಾಧನವಾಗಿದೆ.</translation>
+        <translation>ಸಿಸ್ಟೆಮ್ ಮಾನಿಟರ್ ನಿಮ್ಮ ಸಿಸ್ಟೆಮ್ನಲ್ಲಿ ಓಪೆರೇಟಿಂಗ್ ಸಿಸ್ಟೆಮ್ ಅನ್ನು ಮಾನಿಟರ್ ಮಾಡುವ, ಪ್ರಕ್ರಿಯೆಗಳು ಮತ್ತು ಸೇವೆಗಳನ್ನು ನೋಡುವ ಮತ್ತು ನಿಯಂತ್ರಿಸುವ ಸಾಧನವಾಗಿದೆ.</translation>
     </message>
 </context>
 <context>
     <name>BaseDetailViewWidget</name>
     <message>
-        <location filename="../gui/base/base_detail_view_widget.cpp" line="28"/>
         <source>Hide details</source>
-        <translation>ವಿವರಗಳನ್ನು ಕಾಣದಂತೆ ಮಾಡಿ</translation>
+        <translation>ವಿವರಗಳನ್ನು ಕಾಣದಿರಿ</translation>
     </message>
     <message>
-        <location filename="../gui/base/base_detail_view_widget.cpp" line="39"/>
         <source>Overall utilization</source>
         <translation>ಸಂಪೂರ್ಣ ಬಳಕೆ</translation>
     </message>
     <message>
-        <location filename="../gui/base/base_detail_view_widget.cpp" line="42"/>
         <source>Individual utilization</source>
-        <translation>ಒಬ್ಬಾರ್ ಬಳಕೆ</translation>
+        <translation>ಬ್ಯಾಂಕ್ ಬಳಕೆ</translation>
     </message>
 </context>
 <context>
     <name>BlockDevItemWidget</name>
     <message>
-        <location filename="../gui/block_dev_item_widget.cpp" line="138"/>
         <source>Read</source>
-        <translation>ಚಿತ್ರಗಳನ್ನು ಓದಿ</translation>
+        <translation>ಚಾದರಿಸು</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_item_widget.cpp" line="142"/>
         <source>Write</source>
-        <translation>ಚಿತ್ರಗಳನ್ನು ಬರೆಯಿ</translation>
+        <translation>ರಚಿಸು</translation>
     </message>
 </context>
 <context>
     <name>CPUDetailGrapTableItem</name>
     <message>
-        <location filename="../gui/cpu_detail_widget.cpp" line="154"/>
         <source>60 seconds</source>
-        <translation>60 ಸೆಕೆಂಡುಗಳು</translation>
+        <translation>ಐವತ್ತು ನಿಮಿಷಗಳು</translation>
     </message>
 </context>
 <context>
     <name>CPUInfoModel</name>
     <message>
-        <location filename="../model/cpu_info_model.cpp" line="43"/>
         <source>%1 days %2 hours %3 minutes</source>
         <translation>%1 ದಿನಗಳು %2 ಗಂಟೆಗಳು %3 ನಿಮಿಷಗಳು</translation>
     </message>
@@ -64,92 +55,78 @@
 <context>
     <name>CPUSummaryTableModel</name>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="91"/>
         <source>Utilization</source>
         <translation>ಬಳಕೆ</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="93"/>
         <source>Current frequency</source>
-        <translation>ಸದ್ಯದ ಆವರ್ತನ</translation>
+        <translation>ವರ್ತಮಾನ ಸ್ಥಿತಿ</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="98"/>
         <source>Frequency</source>
-        <translation>ಆವರ್ತನ</translation>
+        <translation>ಸ್ಥಿತಿ</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="104"/>
+        <source>Vendor</source>
+        <translation>ವೇಂಡರ್</translation>
+    </message>
+    <message>
         <source>Sockets</source>
-        <translation>ಸಾಕೆಟ್</translation>
+        <translation>ಸಾಕೆಟ್ಗಳು</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="106"/>
         <source>Logical processors</source>
-        <translation>ಲಾಜಿಕಲ್ ಪ್ರಕ್ರಿಯೆಗಳು</translation>
+        <translation>ಲಾಗಿಕಲ್ ಪ್ರಕ್ರಿಯೆಗಳು</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="110"/>
         <source>Virtualization</source>
-        <translation>ವಿರ್ಚುವಲೈಜೇಶನ್</translation>
+        <translation>ವಿರ್ಟುವಲೈಸೇಶನ್</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="112"/>
         <source>L1i cache</source>
         <translation>ಎಲ್1ಐ ಕ್ಯಾಶ್</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="116"/>
         <source>L1d cache</source>
         <translation>ಎಲ್1ಡಿ ಕ್ಯಾಶ್</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="118"/>
         <source>L2 cache</source>
         <translation>ಎಲ್2 ಕ್ಯಾಶ್</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="122"/>
         <source>L3 cache</source>
         <translation>ಎಲ್3 ಕ್ಯಾಶ್</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="124"/>
         <source>Load average</source>
         <translation>ಲೋಡ್ ಸರಾಸರಿ</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="128"/>
         <source>File descriptors</source>
-        <translation>ಅಂತರ್ಗತ ಗುರುತುಗಳು</translation>
+        <translation>ಫೈಲ್ ಡಿಸ್ಕ್ರಿಪ್ಟರ್ಗಳು</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="130"/>
         <source>Processes</source>
-        <translation type="unfinished">Processes</translation>
+        <translation>ಪ್ರಕ್ರಿಯೆಗಳು</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="134"/>
         <source>Threads</source>
-        <translation>ಥ್ರೆಡ್ಗಳು</translation>
+        <translation>ಥ್ರೀಡ್ಸು</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="136"/>
         <source>Host name</source>
         <translation>ಹೋಸ್ಟ್ ಹೆಸರು</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="140"/>
         <source>OS type</source>
-        <translation>ಒಎಸ್ ರೂಪ</translation>
+        <translation>ಒಎಸ್ ಪ್ರಕಾರ</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="142"/>
         <source>Version</source>
-        <translation>ವೇರ್ಷನ್</translation>
+        <translation>ವರ್ಷನ್</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="100"/>
         <source>Up time</source>
         <translation>ಅಪ್ ಸಮಯ</translation>
     </message>
@@ -157,345 +134,297 @@
 <context>
     <name>Cancel</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="298"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>ವಾಪಸು</translation>
     </message>
 </context>
 <context>
     <name>ChartViewWidget</name>
     <message>
-        <location filename="../gui/chart_view_widget.cpp" line="293"/>
         <source>60 seconds</source>
-        <translation>60 ಸೆಕೆಂಡುಗಳು</translation>
+        <translation>ಐವತ್ತು ನಿಮಿಷಗಳು</translation>
     </message>
 </context>
 <context>
     <name>Common.Search</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="477"/>
         <source>No search results</source>
-        <translation>ಸರ್ಚ್ ಫಲಿತಾಂಶಗಳಿಲ್ಲ</translation>
+        <translation>ಹುಟ್ಟು ಕಂಪೋಂಸ್</translation>
     </message>
 </context>
 <context>
     <name>CompactCpuMonitor</name>
     <message>
-        <location filename="../compact_cpu_monitor.cpp" line="87"/>
         <source>Details</source>
-        <translation>ವಿವರಗಳು</translation>
+        <translation>ಇತರ ಮಾಹಿತಿ</translation>
+    </message>
+</context>
+<context>
+    <name>Cpu.Widget</name>
+    <message>
+        <source>CPU</source>
+        <translation>ಸಿ.ಪಿಯೂ</translation>
     </message>
 </context>
 <context>
     <name>CpuMonitor</name>
     <message>
-        <location filename="../cpu_monitor.cpp" line="70"/>
         <source>Details</source>
-        <translation>ವಿವರಗಳು</translation>
+        <translation>ಇತರ ಮಾಹಿತಿ</translation>
+    </message>
+</context>
+<context>
+    <name>CpuWidget</name>
+    <message>
+        <source>Utilization</source>
+        <translation>ಆಗಿರುವುದು</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Active.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="165"/>
         <source>active</source>
-        <translation>ಕೆಲಸದಲ್ಲಿ</translation>
+        <translation>ಕೆಲಸದಲ್ಲಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="167"/>
         <source>reloading</source>
-        <translation>ನವೀಕರಣದಲ್ಲಿ</translation>
+        <translation>ನವೀಕರಿಸಲಾಗಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="169"/>
         <source>inactive</source>
-        <translation>ನಿಯಂತ್ರಣದಲ್ಲಿ</translation>
+        <translation>ಅಕ್ರಮವಾಗಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="170"/>
         <source>failed</source>
-        <translation>ಸ್ಥಳಾಂತರಿಸಲಾಗಿಲ್ಲ</translation>
+        <translation>ಸ್ಥಿರವಾಗಿಲ್ಲ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="172"/>
         <source>activating</source>
-        <translation>ಆರಂಭಿಕ</translation>
+        <translation>ಆರಂಭಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="174"/>
         <source>deactivating</source>
-        <translation>ನಿಷ್ಕ್ರಮಣ</translation>
+        <translation>ಅನುಸ್ಥಾಪನೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Load.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="146"/>
         <source>stub</source>
-        <translation>ಸ್ಟಬ್</translation>
+        <translation>ಶುದ್ಧ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="149"/>
         <source>not-found</source>
-        <translation>ತೆಗೆದುಹಾಕಲಾಗಿದೆ</translation>
+        <translation>ಅವಶ್ಯಕತೆಯಿಲ್ಲ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="151"/>
         <source>bad-setting</source>
-        <translation>ಅನುಮತಿಸಲಾಗಿಲ್ಲ</translation>
+        <translation>ಅನುಮತಿಸದ ಸೆಟ್ಟಿಂಗ್</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="152"/>
         <source>error</source>
-        <translation>ಅನುಮತಿಸಲಾಗಿಲ್ಲ</translation>
+        <translation>ತಪ್ಪು</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="153"/>
         <source>merged</source>
-        <translation>ಸೇರಿಸಲಾಗಿದೆ</translation>
+        <translation>ಗುಂಪಾಗಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="154"/>
         <source>masked</source>
-        <translation>ಅನುಮತಿಸಲಾಗಿಲ್ಲ</translation>
+        <translation>ಮುಚ್ಚಲಾಗಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="147"/>
         <source>loaded</source>
-        <translation>ಅನುಮತಿಸಲಾಗಿದೆ</translation>
+        <translation>ಲೋಡ್ ಆಗಿದೆ</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Startup.Mode</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="297"/>
         <source>N/A</source>
-        <translation>ಅನುಮತಿಸಲಾಗಿಲ್ಲ</translation>
+        <translation>ಅನುಪಯೋಗಿಸಲಾಗಿಲ್ಲ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="295"/>
         <source>Auto</source>
         <translation>ಆಟೋ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="296"/>
         <source>Manual</source>
-        <translation>ಮೆನುವಲ್</translation>
+        <translation>ಮ್ಯಾನುವಲ್</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="274"/>
         <source>enabled</source>
-        <translation>ಸ್ಥಿರ</translation>
+        <translation>ಸ್ಥಿರವಾಗಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="275"/>
         <source>disabled</source>
-        <translation>ನಿಷ್ಕ್ರಮಣ</translation>
+        <translation>ಅನುಮತಿಸದೆದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="276"/>
         <source>static</source>
-        <translation>ಸ್ಥಿರ</translation>
+        <translation>ಸ್ಥಿರವಾಗಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="277"/>
         <source>transient</source>
-        <translation>ಅನಿಯಮಿತ</translation>
+        <translation>ಅದ್ದಿಗಾಗಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="278"/>
         <source>indirect</source>
-        <translation>ಅನಿಯಮಿತ</translation>
+        <translation>ಅಪ್ಪಟವಾಗಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="280"/>
         <source>enabled-runtime</source>
-        <translation>ಆರಂಭಿಕ ಸ್ಥಿರ</translation>
+        <translation>ಆವರ್ತನೆಯಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="281"/>
         <source>masked</source>
-        <translation>ಅನುಮತಿಸಲಾಗಿಲ್ಲ</translation>
+        <translation>ಮುಚ್ಚಲಾಗಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="283"/>
         <source>generated</source>
-        <translation>ಆವರ್ಜೆಟ್</translation>
+        <translation>ಮಾಡಲಾಗಿದೆ</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Sub.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="217"/>
         <source>dead</source>
-        <translation>ಮರಣ</translation>
+        <translation>ಮೃತ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="219"/>
         <source>start-pre</source>
-        <translation>ಆರಂಭಿಕ ಮೊದಲ</translation>
+        <translation>ಆರಂಭ-ಪ್ರಾರಂಭ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="221"/>
         <source>start</source>
-        <translation>ಆರಂಭಿಕ</translation>
+        <translation>ಆರಂಭ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="223"/>
         <source>start-post</source>
-        <translation>ಆರಂಭಿಕ ನಂತರ</translation>
+        <translation>ಆರಂಭ-ಅನಂತರ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="225"/>
         <source>running</source>
-        <translation>ಕೆಜಾರಿಸುತ್ತಿದೆ</translation>
+        <translation>ಪ್ರವೃತ್ತ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="227"/>
         <source>exited</source>
-        <translation>ನಿಷ್ಕ್ರಮಣ</translation>
+        <translation>ನಿಂತ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="229"/>
         <source>reload</source>
-        <translation>ನವೀಕರಿಸಿ</translation>
+        <translation>ಪುನಃಪ್ರಾರಂಭ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="231"/>
         <source>stop</source>
-        <translation>ಆಫ್ ಮಾಡಿ</translation>
+        <translation>ನಿಲ್ಲಿಸು</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="233"/>
         <source>stop-watchdog</source>
-        <translation>ವಾಚ್ಡೊಗ್ ಆಫ್ ಮಾಡಿ</translation>
+        <translation>ನಿಲ್ಲಿಸು-ವಾಚ್ಡೋಗ್</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="235"/>
         <source>stop-sigterm</source>
-        <translation>ಸಿಗ್ಟರ್ಮ್ ಆಫ್ ಮಾಡಿ</translation>
+        <translation>ನಿಲ್ಲಿಸು-ಸಿಗ್ಟರ್ಮ್</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="237"/>
         <source>stop-sigkill</source>
-        <translation>ಸಿಗ್ಕಿಲ್ ಆಫ್ ಮಾಡಿ</translation>
+        <translation>ನಿಲ್ಲಿಸು-ಸಿಗ್ಕಿಲ್</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="239"/>
         <source>stop-post</source>
-        <translation>ಪೋಸ್ಟ್ ಆಫ್ ಮಾಡಿ</translation>
+        <translation>ನಿಲ್ಲಿಸು-ಅನಂತರ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="241"/>
         <source>final-sigterm</source>
-        <translation>ಅಂತಿಮ ಸಿಗ್ಟರ್ಮ್</translation>
+        <translation>ಅಂತಿಮ-ಸಿಗ್ಟರ್ಮ್</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="243"/>
         <source>final-sigkill</source>
-        <translation>ಅಂತಿಮ ಸಿಗ್ಕಿಲ್</translation>
+        <translation>ಅಂತಿಮ-ಸಿಗ್ಕಿಲ್</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="245"/>
         <source>failed</source>
-        <translation>ಸುಸ್ಥಿತಿ ಕಳೆದುಹೋಯಿತು</translation>
+        <translation>ಆಗಮಿಸಿದೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="247"/>
         <source>auto-restart</source>
-        <translation>ಆಟೋ ರಿಸ್ಟಾರ್ಟ್</translation>
+        <translation>ಆಟೋ-ಆರಂಭ</translation>
     </message>
 </context>
 <context>
     <name>DBusAlarmNotify</name>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="38"/>
         <source>Warning</source>
-        <translation>ಪ್ರಶ್ನಾ</translation>
+        <translation>ಪರಿಶೀಲನೆ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="39"/>
         <source>Your CPU usage is higher than %1%!</source>
-        <translation>ನಿಮ್ಮ CPU ಬಳಕೆ %1% ರಿಂದ ಹೆಚ್ಚಾಗಿದೆ!</translation>
+        <translation>ನಿಮ್ಮ CPU ಬಳಕೆ %1% ಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿದೆ!</translation>
     </message>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="51"/>
         <source>Your memory usage is higher than %1%!</source>
-        <translation>ನಿಮ್ಮ ಮೆಮರಿ ಬಳಕೆ %1% ರಿಂದ ಹೆಚ್ಚಾಗಿದೆ!</translation>
+        <translation>ನಿಮ್ಮ ಅಮ್ಮಾದೆ ಬಳಕೆ %1% ಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿದೆ!</translation>
     </message>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="71"/>
         <source>View</source>
-        <translation type="unfinished">View</translation>
+        <translation>ವೀಕ್ಷಿಸು</translation>
     </message>
 </context>
 <context>
     <name>DeailTableModel</name>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="62"/>
         <source>Used</source>
-        <translation>ಬಳಕೆಯಲ್ಲಿರುವ</translation>
+        <translation>ಬಳಕೆಯಲ್ಲಿದೆ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="64"/>
         <source>Available</source>
-        <translation>ಸಂಭಾವ್ಯ</translation>
+        <translation>ಸಂಭಾವನೆ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="68"/>
         <source>Shared</source>
         <translation>ಸಂಯೋಜಿತ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="70"/>
         <source>Cached</source>
-        <translation>ಚಿಪ್ಪು</translation>
+        <translation>ಕ್ಯಾಶ್</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="74"/>
         <source>Buffers</source>
-        <translation>ಬಫರ್ಸ್</translation>
+        <translation>ಬಫರ್</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="76"/>
         <source>Cached swap</source>
-        <translation>ಚಿಪ್ಪು ಸ್ವ್ಯಾಪ್</translation>
+        <translation>ಕ್ಯಾಶ್ ಸ್ವ್ಯಾಪ್</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="80"/>
         <source>Active</source>
-        <translation type="unfinished">Active</translation>
+        <translation>ಸಕ್ರಿಯ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="82"/>
         <source>Inactive</source>
-        <translation>ಅಕ್ಟಿವ್ ಆಗಿಲ್ಲ</translation>
+        <translation>ಅಸಕ್ರಿಯ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="86"/>
         <source>Dirty</source>
-        <translation>ಅನಾರೋಗ್ಯ</translation>
+        <translation>ಅನಿಲ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="88"/>
         <source>Mapped</source>
-        <translation>ಮ್ಯಾಪ್ ಮಾಡಿದ</translation>
+        <translation>ಮ್ಯಾಪ್</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="92"/>
         <source>Total swap</source>
-        <translation>ಒಟ್ಟು ಸ್ವ್ಯಾಪ್</translation>
+        <translation>ಮೊತ್ತ ಸ್ವ್ಯಾಪ್</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="94"/>
         <source>Free swap</source>
-        <translation>ಅನುಸ್ಥಿತ ಸ್ವ್ಯಾಪ್</translation>
+        <translation>ಮುಕ್ಕೆ ಬದಲಾವಣೆ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="98"/>
         <source>Slab</source>
         <translation>ಸ್ಲಾಬ್</translation>
     </message>
@@ -503,157 +432,146 @@
 <context>
     <name>DeailTableModelBlock</name>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="64"/>
         <source>Model</source>
         <translation>ಮಾದರಿ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="66"/>
         <source>Read speed</source>
-        <translation>ಗ್ರಾಹಕ ವೇಗ</translation>
+        <translation>ಚಾದರಿಸುವ ವೇಗ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="70"/>
         <source>Write speed</source>
-        <translation>ರೈಟ್ ವೇಗ</translation>
+        <translation>ರೆಕಾರ್ಡ್ ಮಾಡುವ ವೇಗ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="72"/>
         <source>Capacity</source>
-        <translation>ಕ್ಯಾಪಾಸಿಟಿ</translation>
+        <translation>ಕ್ಷಮತೆ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="76"/>
         <source>Sectors read</source>
-        <translation>ಸೆಕ್ಟರ್ಸ್ ಗ್ರಾಹಕ</translation>
+        <translation>ಸೆಕ್ಟರ್‌ಗಳನ್ನು ಚಾದರಿಸುವುದು</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="78"/>
         <source>Reads/s</source>
-        <translation>ಮಾಹಿತಿ ಓದಿದೆ/ಸೆಕೆಂಡ್</translation>
+        <translation>ಚಾದರಿಸುವ ದಟ್ಟಣೆ/ನಿಮಿಷ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="82"/>
         <source>Sectors read/s</source>
-        <translation>ಸೆಕ್ಟರ್ಗಳು ಓದಿದೆ/ಸೆಕೆಂಡ್</translation>
+        <translation>ಚಾದರಿಸುವ ಸೆಕ್ಟರ್‌ಗಳನ್ನು ದಟ್ಟಣೆ/ನಿಮಿಷ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="84"/>
         <source>Reads merged/s</source>
-        <translation>ಮರುಗೂಡಿದ ಓದಿದೆ/ಸೆಕೆಂಡ್</translation>
+        <translation>ಚಾದರಿಸುವ ಸೆಕ್ಟರ್‌ಗಳನ್ನು ಸೇರಿಸುವ ದಟ್ಟಣೆ/ನಿಮಿಷ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="88"/>
         <source>Sectors written</source>
-        <translation>ಸೆಕ್ಟರ್ಗಳು ಬರೆಯಲಾಗಿದೆ</translation>
+        <translation>ಸೆಕ್ಟರ್‌ಗಳನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡುವುದು</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="90"/>
         <source>Writes completed </source>
-        <translation>ಬರೆಯಲಾಗಿದೆ ಪೂರ್ಣಗೊಂಡಿದೆ</translation>
+        <translation>ರೆಕಾರ್ಡ್ ಮಾಡುವ ಪೂರ್ಣಗೊಂಡಿದೆ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="94"/>
         <source>Writes merged</source>
-        <translation>ಮರುಗೂಡಿದ ಬರೆಯಲಾಗಿದೆ</translation>
+        <translation>ರೆಕಾರ್ಡ್ ಮಾಡುವ ಸೆಕ್ಟರ್‌ಗಳನ್ನು ಸೇರಿಸುವುದು</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="96"/>
         <source>Writes/s</source>
-        <translation>ಬರೆಯಲಾಗಿದೆ/ಸೆಕೆಂಡ್</translation>
+        <translation>ರೆಕಾರ್ಡ್ ಮಾಡುವ ದಟ್ಟಣೆ/ನಿಮಿಷ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="100"/>
         <source>Sectors written/s</source>
-        <translation>ಸೆಕ್ಟರ್ಗಳು ಬರೆಯಲಾಗಿದೆ/ಸೆಕೆಂಡ್</translation>
+        <translation>ರೆಕಾರ್ಡ್ ಮಾಡುವ ಸೆಕ್ಟರ್‌ಗಳನ್ನು ದಟ್ಟಣೆ/ನಿಮಿಷ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="102"/>
         <source>Writes merged/s</source>
-        <translation>ಮರುಗೂಡಿದ ಬರೆಯಲಾಗಿದೆ/ಸೆಕೆಂಡ್</translation>
+        <translation>ರೆಕಾರ್ಡ್ ಮಾಡುವ ಸೆಕ್ಟರ್‌ಗಳನ್ನು ಸೇರಿಸುವ ದಟ್ಟಣೆ/ನಿಮಿಷ</translation>
+    </message>
+</context>
+<context>
+    <name>Disk.Widget</name>
+    <message>
+        <source>Disk</source>
+        <translation>ಡಿಸ್ಕ್</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation>ಚಾದರಿಸುವುದು</translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation>ರೆಕಾರ್ಡ್ ಮಾಡುವುದು</translation>
     </message>
 </context>
 <context>
     <name>Error.Dialog</name>
     <message>
-        <location filename="../gui/dialog/error_dialog.cpp" line="68"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation type="unfinished">OK</translation>
+        <translation>ಅಂಗೀಕರಿಸಿ</translation>
     </message>
 </context>
 <context>
     <name>Help.Shortcut.System</name>
     <message>
-        <location filename="../common/common.cpp" line="28"/>
         <source>System</source>
         <translation>ಸಿಸ್ಟಂ</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="34"/>
         <source>Display shortcuts</source>
-        <translation>ಶರ್ಟ್ಕಟ್ಗಳನ್ನು ತೋರಿಸಿ</translation>
+        <translation>ಶರ್ಟ್ಕಟ್‌ಗಳನ್ನು ತೋರಿಸು</translation>
     </message>
 </context>
 <context>
     <name>Kill.Process.Dialog</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="166"/>
         <source>Ending this process may cause data loss.
 Are you sure you want to continue?</source>
-        <translation>ಈ ಪ್ರೋಸೆಸ್ ಅನ್ನು ಅಂತ್ಯಗೊಳಿಸುವುದು ಡೇಟಾ ಕಳೆದುಹೋಗುವ ಸಾಧ್ಯತೆಯನ್ನು ಹೊಂದಿದೆ.
-ನೀವು ಮತ್ತಷ್ಟು ಮುಂದುವರಿಸಲು ನಿಂತಿದ್ದೀರಾ?</translation>
+        <translation>ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಅಂತ್ಯಗೊಳಿಸುವುದು ಡೇಟಾ ಕಳೆದುಹೋಗುವ ಸಾಧ್ಯತೆ ಇದೆ.
+ನೀವು ಮತ್ತು ಮುಂದುವರೆಯಲು ನಿಶ್ಚಿತಾರ್ಥವಾಗಿದೆಯೇ?</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="510"/>
         <source>End process</source>
-        <translation>ಪ್ರೋಸೆಸ್ ಅಂತ್ಯಗೊಳಿಸಿ</translation>
+        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಅಂತ್ಯಗೊಳಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="367"/>
         <source>Force ending this process may cause data loss.
 Are you sure you want to continue?</source>
-        <translation>ಪ್ರೋಸೆಸ್ ಅನ್ನು ಬಲವಾಗಿ ಅಂತ್ಯಗೊಳಿಸುವುದು ಡೇಟಾ ಕಳೆದುಹೋಗುವ ಸಾಧ್ಯತೆಯನ್ನು ಹೊಂದಿದೆ.
-ನೀವು ಮತ್ತಷ್ಟು ಮುಂದುವರೆಯಲು ನಿಂತಿದ್ದೀರಾ?</translation>
+        <translation>ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಬಲವಾಗಿ ಅಂತ್ಯಗೊಳಿಸುವುದು ಡೇಟಾ ಕಳೆದುಹೋಗುವ ಸಾಧ್ಯತೆ ಇದೆ.
+ನೀವು ಮತ್ತು ಮುಂದುವರೆಯಲು ನಿಶ್ಚಿತಾರ್ಥವಾಗಿದೆಯೇ?</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="511"/>
         <source>Force ending this application may cause data loss.
 Are you sure you want to continue?</source>
-        <translation>ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಬಲವಾಗಿ ಅಂತ್ಯಗೊಳಿಸುವುದು ಡೇಟಾ ಕಳೆದುಹೋಗುವ ಸಾಧ್ಯತೆಯನ್ನು ಹೊಂದಿದೆ.
-ನೀವು ಮತ್ತಷ್ಟು ಮುಂದುವರೆಯಲು ನಿಂತಿದ್ದೀರಾ?</translation>
+        <translation>ಈ ಅಪ್ಲಿಕೇಶನ್‌ನ್ನು ಬಲವಾಗಿ ಅಂತ್ಯಗೊಳಿಸುವುದು ಡೇಟಾ ಕಳೆದುಹೋಗುವ ಸಾಧ್ಯತೆ ಇದೆ.
+ನೀವು ಮತ್ತು ಮುಂದುವರೆಯಲು ನಿಶ್ಚಿತಾರ್ಥವಾಗಿದೆಯೇ?</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="519"/>
         <source>Cancel</source>
         <comment>button</comment>
-        <translation type="unfinished">Cancel</translation>
+        <translation>ವಾಪಸು</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="520"/>
         <source>Force End</source>
         <comment>button</comment>
-        <translation type="unfinished">Force End</translation>
+        <translation>ಬಲವಾಗಿ ಅಂತ್ಯಗೊಳಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="173"/>
         <source>End</source>
         <comment>button</comment>
-        <translation type="unfinished">End</translation>
+        <translation>ಅಂತ್ಯಗೊಳಿಸಿ</translation>
     </message>
 </context>
 <context>
     <name>Logout</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="299"/>
         <source>Logout</source>
-        <translation>ಸಿಸ್ಟಂ ಹೊರಗೆಡವಿ</translation>
+        <translation>ಲಾಗ್ ಅಫ್</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../gui/main_window.cpp" line="172"/>
         <source>Settings</source>
         <translation>ಸೆಟ್ಟಿಂಗ್ಸ್</translation>
     </message>
@@ -661,324 +579,334 @@ Are you sure you want to continue?</source>
 <context>
     <name>MemStatViewWidget</name>
     <message>
-        <location filename="../gui/mem_stat_view_widget.cpp" line="47"/>
         <source>Size</source>
-        <translation>ವ್ಯಾಪಕತೆ</translation>
+        <translation>ಆಕಾರ</translation>
+    </message>
+</context>
+<context>
+    <name>Memory.Widget</name>
+    <message>
+        <source>Memory</source>
+        <translation>ಮೆಮೊರಿ</translation>
+    </message>
+    <message>
+        <source>Swap</source>
+        <translation>ಸ್ವಾಪ್</translation>
+    </message>
+    <message>
+        <source>Not enabled</source>
+        <translation>ಯಾವುದೇ ಅನುमತಿ ನೀಡಲಾಗಿಲ್ಲ</translation>
+    </message>
+</context>
+<context>
+    <name>Net.Widget</name>
+    <message>
+        <source>Download</source>
+        <translation>ಡೌನ್ಲೋಡ್</translation>
+    </message>
+    <message>
+        <source>Total received</source>
+        <translation>ಒಟ್ಟು ಪಡೆದ</translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation>ಅಪ್ಲೋಡ್</translation>
+    </message>
+    <message>
+        <source>Total sent</source>
+        <translation>ಒಟ್ಟು ಕಳುಹಿಸಿದ</translation>
     </message>
 </context>
 <context>
     <name>NetInfoDetailItemDelegate</name>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="157"/>
         <source>IP address:</source>
-        <translation>ಐಪಿ ಅಧಿಕಾರಿಗಳು:</translation>
+        <translation>ಐಪಿ ಅಧಿಕಾರ:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="157"/>
         <source>Netmask:</source>
         <translation>ನೆಟ್ಮಾಸ್ಕ್:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="157"/>
         <source>Broadcast:</source>
         <translation>ಬ್ರೋಡ್ಕಾಸ್ಟ್:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="159"/>
         <source>Prefixlen:</source>
         <translation>ಪ್ರಿಫಿಕ್ಸ್ಲೆನ್:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="159"/>
         <source>Scope:</source>
-        <translation>ಹೆಸರು:</translation>
+        <translation>ಸ್ಕೋಪ್:</translation>
     </message>
 </context>
 <context>
     <name>NetInfoModel</name>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="293"/>
         <source>Connection type</source>
-        <translation>ನೆಟ್ವರ್ಕ್ ಸಂಪರ್ಕ</translation>
+        <translation>ನೆಟ್ವರ್ಕ್ ಸಂಪರ್ಕನ</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="301"/>
         <source>ESSID</source>
         <translation>ಎಸ್ಸಿಡಿ</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="307"/>
         <source>Link quality</source>
         <translation>ಲಿಂಕ್ ಗುಣಮಟ್ಟ</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="312"/>
         <source>Signal strength</source>
-        <translation>ಸಂಕೇತ ಶಕ್ತಿ</translation>
+        <translation>ಸಂಕೇತ ಬಲ</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="317"/>
         <source>Noise level</source>
-        <translation>ಒಣಿಯ ಮಟ್ಟ</translation>
+        <translation>ಧ್ವನಿ ಮಟ್ಟ</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="323"/>
         <source>MAC</source>
-        <translation>ಮ್ಯಾಕ್</translation>
+        <translation>ಮಾಕ್</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="328"/>
         <source>Bandwidth</source>
         <translation>ಬ್ಯಾಂಡ್ವಿಡ್ತ್</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="333"/>
         <source>RX packets</source>
-        <translation>RX पैकेट</translation>
+        <translation>ಆರ್ಎಕ್ಸ್ ಪ್ಯಾಕೆಟ್ಸ್</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="338"/>
         <source>RX bytes</source>
-        <translation>RX बाइट्स</translation>
+        <translation>ಆರ್ಎಕ್ಸ್ ಬ್ಯಾಟ್ಸ್</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="343"/>
         <source>RX errors</source>
-        <translation>RX त्रुटियाँ</translation>
+        <translation>ಆರ್ಎಕ್ಸ್ ತಪ್ಪುಗಳು</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="348"/>
         <source>RX dropped</source>
-        <translation>RX छोड़े गए</translation>
+        <translation>ಆರ್ಎಕ್ಸ್ ಕಳುಹಿಸಲಾಗಿಲ್ಲ</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="353"/>
         <source>RX overruns</source>
-        <translation>RX ओवररन</translation>
+        <translation>ಆರ್ಎಕ್ಸ್ ಓವರ್ರನ್ಸ್</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="358"/>
         <source>RX frame</source>
-        <translation>RX फ्रेम</translation>
+        <translation>ಆರ್ಎಕ್ಸ್ ಫ್ರೇಮ್</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="363"/>
         <source>TX packets</source>
-        <translation>TX पैकेट</translation>
+        <translation>ಟಿಎಕ್ಸ್ ಪ್ಯಾಕೆಟ್ಸ್</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="368"/>
         <source>TX bytes</source>
-        <translation>TX बाइट्स</translation>
+        <translation>ಟಿಎಕ್ಸ್ ಬ್ಯಾಟ್ಸ್</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="373"/>
         <source>TX errors</source>
-        <translation>TX त्रुटियाँ</translation>
+        <translation>ಟಿಎಕ್ಸ್ ತಪ್ಪುಗಳು</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="383"/>
         <source>TX overruns</source>
-        <translation>TX ओवररन</translation>
+        <translation>TX overruns</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="388"/>
         <source>TX carrier</source>
-        <translation>TX कैरियर</translation>
+        <translation>TX carrier</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="267"/>
         <source>IPv4</source>
-        <translation>आईपीवी4</translation>
+        <translation>IPv4</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="282"/>
         <source>IPv6</source>
-        <translation>आईपीवी6</translation>
+        <translation>IPv6</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="378"/>
         <source>TX dropped</source>
-        <translation>TX छोड़े गए</translation>
+        <translation>TX dropped</translation>
+    </message>
+</context>
+<context>
+    <name>NetWidget</name>
+    <message>
+        <source>Network</source>
+        <translation>Network</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.DisplayName</name>
+    <message>
+        <source>System Monitor</source>
+        <translation>System Monitor</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.OpenSystemMontitor</name>
+    <message>
+        <source>Open</source>
+        <translation>Open</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.cpu</name>
+    <message>
+        <source>CPU</source>
+        <translation>CPU</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.mem</name>
+    <message>
+        <source>MEM</source>
+        <translation>MEM</translation>
     </message>
 </context>
 <context>
     <name>Process.Attributes.Dialog</name>
     <message>
-        <location filename="../gui/process_attribute_dialog.cpp" line="140"/>
         <source>Command line</source>
-        <translation>कमांड लाइन</translation>
+        <translation>Command line</translation>
     </message>
     <message>
-        <location filename="../gui/process_attribute_dialog.cpp" line="145"/>
         <source>Start time</source>
-        <translation>शुरू करने का समय</translation>
+        <translation>Start time</translation>
     </message>
     <message>
-        <location filename="../gui/process_attribute_dialog.cpp" line="135"/>
         <source>Name</source>
-        <translation>नाम</translation>
+        <translation>Name</translation>
     </message>
 </context>
 <context>
     <name>Process.Choose.Window.Dialog</name>
     <message>
-        <location filename="../gui/xwin_kill_preview_background_widget.cpp" line="146"/>
         <source>Click the application you want to end</source>
-        <translation>किस ऐप को बंद करना चाहिए उसे टैप करें</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Process.Graph.Title</name>
     <message>
-        <location filename="../gui/detail_view_stacked_widget.cpp" line="144"/>
         <source>Memory</source>
-        <translation>एमएम</translation>
+        <translation>Memory</translation>
     </message>
     <message>
-        <location filename="../gui/netif_item_view_widget.cpp" line="89"/>
         <source>Receive</source>
-        <translation>प्राप्त करें</translation>
+        <translation>Receive</translation>
     </message>
 </context>
 <context>
     <name>Process.Graph.View</name>
     <message>
-        <location filename="../compact_cpu_monitor.cpp" line="220"/>
         <source>CPU</source>
-        <translation>सीपीयू</translation>
+        <translation>CPU</translation>
     </message>
     <message>
-        <location filename="../compact_disk_monitor.cpp" line="145"/>
         <source>Disk read</source>
-        <translation>डिस्क रीड</translation>
+        <translation>Disk read</translation>
     </message>
     <message>
-        <location filename="../compact_disk_monitor.cpp" line="146"/>
         <source>Disk write</source>
-        <translation>डिस्क व्राइट</translation>
+        <translation>Disk write</translation>
     </message>
     <message>
-        <location filename="../compact_memory_monitor.cpp" line="176"/>
         <source>Memory</source>
-        <translation>एमएम</translation>
+        <translation>Memory</translation>
     </message>
     <message>
-        <location filename="../compact_memory_monitor.cpp" line="187"/>
         <source>Swap</source>
-        <translation>स्वैप</translation>
+        <translation>Swap</translation>
     </message>
     <message>
-        <location filename="../compact_memory_monitor.cpp" line="188"/>
         <source>Not enabled</source>
-        <translation>अक्षम कर रहे हैं</translation>
+        <translation>Not enabled</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="152"/>
         <source>Download</source>
-        <translation>डाउनलोड</translation>
+        <translation>Download</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="157"/>
         <source>Upload</source>
-        <translation>अपलोड</translation>
+        <translation>Upload</translation>
     </message>
     <message>
-        <location filename="../gui/detail_view_stacked_widget.cpp" line="145"/>
         <source>Network</source>
-        <translation>नेटवर्क</translation>
+        <translation>Network</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="154"/>
         <source>Total Received</source>
-        <translation>कुछ प्राप्त करें</translation>
+        <translation>Total Received</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="159"/>
         <source>Total Sent</source>
-        <translation>ಕೊಟ್ಟುದು ಒಟ್ಟು</translation>
+        <translation>Total Sent</translation>
     </message>
     <message>
-        <location filename="../gui/netif_item_view_widget.cpp" line="98"/>
         <source>Send</source>
-        <translation>ಕೊಡು</translation>
+        <translation>Send</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_detail_view_widget.cpp" line="17"/>
         <source>Disks</source>
-        <translation>ಡಿಸ್ಕ್‌ಗಳು</translation>
+        <translation>Disks</translation>
     </message>
 </context>
 <context>
     <name>Process.Loading</name>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="67"/>
         <source>Loading</source>
-        <translation>ಲೋಡಿಂಗ್</translation>
+        <translation>Loading</translation>
     </message>
 </context>
 <context>
     <name>Process.Priority</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="615"/>
         <source>Very high</source>
-        <translation>ಅತ್ಯುತ್ತಮ</translation>
+        <translation>ಅತ್ಯಂತ ಹೆಚ್ಚು</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="623"/>
         <source>High</source>
-        <translation>ಆಯುತ್ತಮ</translation>
+        <translation>ಹೆಚ್ಚು</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="631"/>
         <source>Normal</source>
         <translation>ಸಾಮಾನ್ಯ</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="639"/>
         <source>Low</source>
-        <translation>ಕ್ಷಣಿಕ</translation>
+        <translation>ಕ್ಷೀಣ</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="647"/>
         <source>Very low</source>
-        <translation>ಅತ್ಯಂತ ಕ್ಷಣಿಕ</translation>
+        <translation>ಅತ್ಯಂತ ಕ್ಷೀಣ</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="655"/>
         <source>Custom</source>
-        <translation>ಅನುಕೂಲಿತ</translation>
+        <translation>ಕ್ರಮಶಃ ನಿರ್ದೇಶಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../process/process.cpp" line="60"/>
         <source>Invalid</source>
-        <translation>ಅಮೂಲ್ಯ</translation>
+        <translation>ಅನುಮತಿಸದ</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="179"/>
         <source>PID: %1, Error: [%2] %3</source>
-        <translation>ಪಿಡಿ: %1, ತಪ್ಪು: [%2] %3</translation>
+        <translation>PID: %1, ತಪ್ಪು: [%2] %3</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="138"/>
         <source>Failed to change process priority</source>
-        <translation>ಪ್ರಕ್ರಿಯೆಯ ಪ್ರಾಶಸ್ತ್ಯವನ್ನು ಬದಲಾಯಿಸಲಾಗಿಲ್ಲ</translation>
+        <translation>ಪ್ರಕ್ರಿಯೆಯ ಪ್ರಾಧಿಕತೆಯನ್ನು ಬದಲಾಯಿಸಲು ವಿಫಲವಾಯಿತು</translation>
     </message>
 </context>
 <context>
     <name>Process.Show.Mode</name>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="61"/>
         <source>Applications</source>
-        <translation>ಅನುಪ್ರಯೋಗಗಳು</translation>
+        <translation>ಆಪ್ಲಿಕೇಶನ್‌ಗಳು</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="63"/>
         <source>My processes</source>
         <translation>ನನ್ನ ಪ್ರಕ್ರಿಯೆಗಳು</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="65"/>
         <source>All processes</source>
         <translation>ಎಲ್ಲಾ ಪ್ರಕ್ರಿಯೆಗಳು</translation>
     </message>
@@ -986,58 +914,48 @@ Are you sure you want to continue?</source>
 <context>
     <name>Process.Signal</name>
     <message>
-        <location filename="../process/process_db.cpp" line="246"/>
         <source>Failed to pause process</source>
-        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಿಲ್ಲಿಸಲಾಗಿಲ್ಲ</translation>
+        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಿಲ್ಲಿಸಲು ವಿಫಲವಾಯಿತು</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="249"/>
         <source>Failed to resume process</source>
-        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಮತ್ಯಾವರ್ಜಿಸಲಾಗಿಲ್ಲ</translation>
+        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಮತ್ತೆ ಆರಂಭಿಸಲು ವಿಫಲವಾಯಿತು</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="252"/>
         <source>Failed to kill process</source>
-        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಕೊಲ್ಲಲಾಗಿಲ್ಲ</translation>
+        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಕೊಲ್ಲಲು ವಿಫಲವಾಯಿತು</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="255"/>
         <source>Unknown error</source>
-        <translation>ಅಪರಿಚಿತ ತಪ್ಪು</translation>
+        <translation>ಅನುಚಿತ ತಪ್ಪು</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="311"/>
         <source>Failed in sending signal to process</source>
-        <translation>ಪ್ರಕ್ರಿಯೆಗೆ ಸಂಕೇತ ಕಳುಹಿಸಲು ವಿಫಲವಾಯಿತು</translation>
+        <translation>ಪ್ರಕ್ರಿಯೆಗೆ ಸಂಕೇತವನ್ನು ಕಳುಹಿಸಲು ವಿಫಲವಾಯಿತು</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="243"/>
         <source>Failed to end process</source>
-        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಅಂತ್ಯಗೊಳಿಸಲಾಗಿಲ್ಲ</translation>
+        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಅಂತ್ಯಗೊಳಿಸಲು ವಿಫಲವಾಯಿತು</translation>
     </message>
 </context>
 <context>
     <name>Process.Summary</name>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="58"/>
         <source>(%1 applications and %2 processes are running)</source>
-        <translation>(%1 ಅನುಪ್ರಯೋಗಗಳು ಮತ್ತು %2 ಪ್ರಕ್ರಿಯೆಗಳು ಕೆಲಸ ಮಾಡುತ್ತಿವೆ)</translation>
+        <translation>(%1 ಆಪ್ಲಿಕೇಶನ್‌ಗಳು ಮತ್ತು %2 ಪ್ರಕ್ರಿಯೆಗಳು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿವೆ)</translation>
     </message>
 </context>
 <context>
     <name>Process.Table</name>
     <message>
-        <location filename="../model/process_table_model.cpp" line="240"/>
         <source>No response</source>
         <translation>ಪ್ರತಿಕ್ರಿಯೆ ಇಲ್ಲ</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.cpp" line="245"/>
         <source>Suspend</source>
-        <translation>ನಿಲ್ಲಿಸು</translation>
+        <translation>ನಿಲ್ಲಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../process/process_name.cpp" line="82"/>
         <source>Tray</source>
         <translation>ಟ್ರೇ</translation>
     </message>
@@ -1045,37 +963,30 @@ Are you sure you want to continue?</source>
 <context>
     <name>Process.Table.Context.Menu</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="662"/>
         <source>View command location</source>
-        <translation>ಕಮ್ಮಾಂಡ್ ಸ್ಥಳವನ್ನು ನೋಡು</translation>
+        <translation>ಕಮ್ಮಂಡ್ ಸ್ಥಳವನ್ನು ನೋಡಿ</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="79"/>
         <source>Properties</source>
-        <translation>ಸಾಮಗ್ರಿಗಳು</translation>
+        <translation>ವಿವರಗಳು</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="62"/>
         <source>End process</source>
-        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಅಂತ್ಯಗೊಳಿಸು</translation>
+        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಅಂತ್ಯಗೊಳಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="74"/>
         <source>Resume process</source>
-        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಮತ್ಯಾವರ್ಜಿಸು</translation>
+        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಮತ್ತೆ ಆರಂಭಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="85"/>
         <source>Kill process</source>
-        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಕೊಲ್ಲಿರಿ</translation>
+        <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ಕೊಲ್ಲಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="609"/>
         <source>Change priority</source>
-        <translation>ಅವಧಿಯನ್ನು ಬದಲಾಯಿಸಿ</translation>
+        <translation>ಪ್ರಾಧಿಕತೆಯನ್ನು ಬದಲಾಯಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="68"/>
         <source>Suspend process</source>
         <translation>ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಿಲ್ಲಿಸಿ</translation>
     </message>
@@ -1083,291 +994,264 @@ Are you sure you want to continue?</source>
 <context>
     <name>Process.Table.Custom.Priority.Dialog</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="1024"/>
         <source>Custom Priority</source>
-        <translation>ಅನುಕೂಲಿತ ಅವಧಿ</translation>
+        <translation>ಕ್ರಮಶಃ ನಿರ್ದೇಶಿಸಿದ ಪ್ರಾಧಿಕತೆ</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="1056"/>
         <source>Cancel</source>
         <comment>button</comment>
-        <translation type="unfinished">Cancel</translation>
+        <translation>ಅದನ್ನು ಅಪ್ಲಿಕೇಶನ್</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="1058"/>
         <source>Change</source>
         <comment>button</comment>
-        <translation type="unfinished">Change</translation>
+        <translation>ಸ್ವರೂಪಾಂತರಿಸು</translation>
     </message>
 </context>
 <context>
     <name>Process.Table.Header</name>
     <message>
-        <location filename="../model/process_table_model.h" line="16"/>
         <source>Name</source>
         <translation>ಹೆಸರು</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="18"/>
         <source>CPU</source>
-        <translation>ಸಿಪಿಯು</translation>
+        <translation>ಸೆಂಟ್ರಲ್ ಪ್ರೊಸೆಸಿಂಗ್ ಯೂನಿಟ್</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="22"/>
         <source>Memory</source>
         <translation>ಮೆಮೊರಿ</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="32"/>
         <source>Disk write</source>
         <translation>ಡಿಸ್ಕ್ ಬರೆ</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="30"/>
         <source>Disk read</source>
         <translation>ಡಿಸ್ಕ್ ಓದು</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="28"/>
         <source>Download</source>
         <translation>ಡೌನ್ಲೋಡ್</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="26"/>
         <source>Upload</source>
         <translation>ಅಪ್ಲೋಡ್</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="34"/>
         <source>PID</source>
-        <translation>ಪಿಡಿ</translation>
+        <translation>ಪಿಐಡಿ</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="20"/>
         <source>User</source>
-        <translation>ವಿಷಯ</translation>
+        <translation>ವಿನ್ಯಾಸಕರ</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="36"/>
         <source>Nice</source>
         <translation>ನೈಸ್</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="38"/>
         <source>Priority</source>
-        <translation>ಅವಧಿ</translation>
+        <translation>ಆವಶ್ಯಕತೆ</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="23"/>
         <source>Shared memory</source>
-        <translation>ಸಂಯೋಜಿತ ಮೆಮೊರಿ</translation>
+        <translation>ಸ್ಖೇರ್ಡ್ ಮೆಮೊರಿ</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="24"/>
         <source>Virtual memory</source>
-        <translation>ವಿಜುವಲ್ ಮೆಮೊರಿ</translation>
+        <translation>ವಿಜುಯಲ್ ಮೆಮೊರಿ</translation>
+    </message>
+</context>
+<context>
+    <name>ProcessWidget</name>
+    <message>
+        <source>Processes</source>
+        <translation>ಪ್ರೊಸೆಸ್</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>ಹೆಸರು</translation>
+    </message>
+    <message>
+        <source>CPU</source>
+        <translation>ಸೆಂಟ್ರಲ್ ಪ್ರೊಸೆಸಿಂಗ್ ಯೂನಿಟ್</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../system/cpu_set.cpp" line="366"/>
         <source>Not support</source>
-        <translation>ಸ್ಪೋರ್ಟ್ ಆಗಿಲ್ಲ</translation>
+        <translation>ನೆಟ್ ಸ್ವರೂಪಾಂತರಿಸು</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="10"/>
         <source>Settings</source>
         <translation>ಸೆಟ್ಟಿಂಗ್ಸ್</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="11"/>
         <source>System Protection</source>
-        <translation>ಸಿಸ್ಟಂ ಪ್ರತಿರೋಧ</translation>
+        <translation>ಸಿಸ್ಟಿಮ್ ಪ್ರೊಟೆಕ್ಷನ್</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="12"/>
         <source>Show warnings when the usage exceeds the thresholds</source>
-        <translation>ಬಳಕೆಯು ಸೀಮಾಂಶಗಳನ್ನು ಅಡ್ಡಗೊಳಿಸುವಾಗ ಬಾರ್ ಮಾಹಿತಿಯನ್ನು ತೋರಿಸಿ</translation>
+        <translation>ಆವಶ್ಯಕತೆ ಮಟ್ಟಗಳನ್ನು ಅತಿಕ್ರಮಿಸುವ ಸಮಯದಲ್ಲಿ ಇರುವ ಬಾಕ್ಸ್ಗಳನ್ನು ತೋರಿಸು</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="13"/>
-        <source>CPU warning threshold (%)</source>
-        <translation>ಸಿಪಿಯು ಬಾರ್ ಮಾಹಿತಿಯ ಸೀಮಾಂಶ (%) </translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="14"/>
-        <source>Memory warning threshold (%)</source>
-        <translation>ಮೆಮೊರಿ ಬಾರ್ ಮಾಹಿತಿಯ ಸೀಮಾಂಶ (%) </translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="15"/>
-        <source>Warning interval (min)</source>
-        <translation>ಬಾರ್ ಮಾಹಿತಿಯ ಅವಧಿ (ನಿಮಿತ್ತ)</translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="16"/>
         <source>Notifications</source>
-        <translation>ನೋಟಿಫಿಕೇಶನ್ಸ್</translation>
+        <translation>ನೊಟಿಫಿಕೇಶನ್ಸ್</translation>
+    </message>
+    <message>
+        <source>CPU warning threshold (%)</source>
+        <translation>ಸೆಂಟ್ರಲ್ ಪ್ರೊಸೆಸಿಂಗ್ ಯೂನಿಟ್ ಬಾಕ್ಸ್ ಮಟ್ಟ (%)</translation>
+    </message>
+    <message>
+        <source>Memory warning threshold (%)</source>
+        <translation>ಮೆಮೊರಿ ಬಾಕ್ಸ್ ಮಟ್ಟ (%)</translation>
+    </message>
+    <message>
+        <source>Warning interval (min)</source>
+        <translation>ಬಾಕ್ಸ್ ಬಾಹ್ಯ ಅಂತರಾಲ್ (ಮಿನುಟ್)</translation>
     </message>
 </context>
 <context>
     <name>Service.Action.Set.Startup.Mode</name>
     <message>
-        <location filename="../service/service_manager.cpp" line="322"/>
         <source>Failed to set service startup type</source>
-        <translation>ಸೇವಾ ಸ್ಟಾರ್ಟಪ್ ಟೈಪ್ ಸೆಟ್ ಮಾಡಲಾಗಿಲ್ಲ</translation>
+        <translation>ಸರ್ವಿಸ್ ಸ್ಟಾರ್ಟಪ್ ಟೈಪ್ ಸೆಟ್ ಮಾಡಲಾಗಿಲ್ಲ</translation>
     </message>
     <message>
-        <location filename="../service/service_manager.cpp" line="388"/>
         <source>Error: Failed to set service startup type due to the crashed sub process.</source>
-        <translation>ಪ್ರಮಾದ: ಸೇವಾ ಸ್ಟಾರ್ಟಪ್ ಟೈಪ್ ಸೆಟ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ ಏಕೆಂದರೆ ಸ್ವಲ್ಪ ಪ್ರಕ್ರಿಯೆಯು ಅನಾನುಕೂಲಿತ ಹಾನಿಗೊಂಡಿತು.</translation>
+        <translation>ಖಾತ್ರಿ: ಸರ್ವಿಸ್ ಸ್ಟಾರ್ಟಪ್ ಟೈಪ್ ಸೆಟ್ ಮಾಡಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಕ್ರಷ್ ಆದ ಉಪ ಪ್ರೊಸೆಸ್</translation>
     </message>
 </context>
 <context>
     <name>Service.Instance.Name.Dialog</name>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="150"/>
         <source>Service instance name</source>
-        <translation>ಸೇವಾ ಅನುಕೂಲಿತ ಹೆಸರು</translation>
+        <translation>ಸರ್ವಿಸ್ ಅಂಶ ಹೆಸರು</translation>
     </message>
     <message>
-        <location filename="../gui/service_name_sub_input_dialog.cpp" line="34"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <comment>button</comment>
+        <translation>ಆಯ್ಕೆ</translation>
     </message>
     <message>
-        <location filename="../gui/service_name_sub_input_dialog.cpp" line="35"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <comment>button</comment>
+        <translation>ಅನುಮತಿಸಿ</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>ಆಗ್ರಹಿಸಿ</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>ಅನುಮತಿಸಿ</translation>
     </message>
 </context>
 <context>
     <name>Service.Table.Context.Menu</name>
     <message>
-        <location filename="../common/common.cpp" line="114"/>
         <source>Refresh</source>
-        <translation>ನವೀಕರಿಸಿ</translation>
+        <translation>ಮರುಪ್ರಾರಂಭಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="99"/>
         <source>Start</source>
-        <translation>ಆರಂಭಿಸಿ</translation>
+        <translation>ಪ್ರಾರಂಭಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="104"/>
         <source>Stop</source>
-        <translation>ಸ್ಟಾಪ್</translation>
+        <translation>ಸ್ಥಗಿತಗೊಳಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="109"/>
         <source>Restart</source>
-        <translation>ರೀಸ್ಟಾರ್ಟ್</translation>
+        <translation>ಪುನರಾವರ್ತಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="537"/>
         <source>Auto</source>
-        <translation>ಆಟೋಮೇಟಿಕ್</translation>
+        <translation>ಆಟೋ</translation>
     </message>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="538"/>
         <source>Manual</source>
-        <translation>ಮ್ಯಾನುಯಲ್</translation>
+        <translation>ಮ್ಯಾನುವಲ್</translation>
     </message>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="536"/>
         <source>Startup type</source>
-        <translation>ಸ್ಟಾರ್ಟಪ್ ಟೈಪ್</translation>
+        <translation>ಪ್ರಾರಂಭ ರೂಪ</translation>
     </message>
 </context>
 <context>
     <name>Service.Table.Header</name>
     <message>
-        <location filename="../model/system_service_table_model.h" line="16"/>
         <source>Name</source>
         <translation>ಹೆಸರು</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="18"/>
         <source>Load</source>
         <translation>ಲೋಡ್</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="23"/>
+        <source>Start State</source>
+        <translation>ಪ್ರಾರಂಭ ಸ್ಥಿತಿ</translation>
+    </message>
+    <message>
         <source>Sub</source>
         <translation>ಸಬ್</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="30"/>
+        <source>Start Tactic</source>
+        <translation>ಪ್ರಾರಂಭ ಪ್ರಕ್ರಿಯೆ</translation>
+    </message>
+    <message>
         <source>Description</source>
         <translation>ವಿವರಣೆ</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="32"/>
         <source>PID</source>
         <translation>ಪಿಡಿ</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="27"/>
         <source>Startup Type</source>
-        <translation>ಸ್ಟಾರ್ಟಪ್ ಟೈಪ್</translation>
-    </message>
-    <message>
-        <location filename="../model/system_service_table_model.h" line="21"/>
-        <source>Start State</source>
-        <translation>ಸ್ಟಾರ್ಟ್ ಸ್ಟೇಟ್</translation>
-    </message>
-    <message>
-        <location filename="../model/system_service_table_model.h" line="25"/>
-        <source>Start Tactic</source>
-        <translation>ಸ್ಟಾರ್ಟ್ ಟಾಕ್ಟಿಕ್</translation>
+        <translation>ಪ್ರಾರಂಭ ರೂಪ</translation>
     </message>
 </context>
 <context>
     <name>SystemProtectionSetting</name>
     <message>
-        <location filename="../gui/dialog/systemprotectionsetting.cpp" line="124"/>
         <source>Settings</source>
         <translation>ಸೆಟ್ಟಿಂಗ್ಸ್</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/systemprotectionsetting.cpp" line="156"/>
         <source>(Modifiable)</source>
-        <translation>ಸುಧಾರಣೆ ಮಾಡಬಹುದು</translation>
+        <translation>(ಸಂಪಾದಿಸಲು ಸಾಧ್ಯ)</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/systemprotectionsetting.cpp" line="263"/>
         <source>Range: %1-%2</source>
-        <translation>ಸ್ಪೇಸ್: %1-%2</translation>
+        <translation>ಶ್ರೇಣಿ: %1-%2</translation>
     </message>
 </context>
 <context>
     <name>Title.Bar.Context.Menu</name>
     <message>
-        <location filename="../common/common.cpp" line="55"/>
         <source>Force end application</source>
-        <translation>ಅನುಪಯೋಗವನ್ನು ಬಲವಾಗಿ ಅಂತ್ಯಗೊಳಿಸಿ</translation>
+        <translation>ಅನುಪ್ರಯೋಗವನ್ನು ಬಲವಾಗಿ ಅಂತ್ಯಗೊಳಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="140"/>
         <source>Expand</source>
         <translation>ವಿಸ್ತರಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="143"/>
         <source>Compact</source>
-        <translation>ಕಮ್ಪಾಕ್ಟ್</translation>
+        <translation>ಕ್ರಮೇಣಿಸಿ</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="135"/>
         <source>View</source>
-        <translation>ನೋಡಿ</translation>
+        <translation>ವೀಕ್ಷಿಸಿ</translation>
     </message>
 </context>
 <context>
     <name>Title.Bar.Search</name>
     <message>
-        <location filename="../common/common.cpp" line="40"/>
         <source>Search</source>
         <translation>ಹುಡುಕಿ</translation>
     </message>
@@ -1375,40 +1259,34 @@ Are you sure you want to continue?</source>
 <context>
     <name>Title.Bar.Switch</name>
     <message>
-        <location filename="../common/common.cpp" line="49"/>
         <source>Processes</source>
         <translation>ಪ್ರಕ್ರಿಯೆಗಳು</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="94"/>
         <source>Services</source>
-        <translation>ಸೇವ್</translation>
+        <translation>ಸೇವ್ಯಾಗಳು</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="234"/>
         <source>Users</source>
-        <translation>ವಿಷಯಗಳು</translation>
+        <translation>ಬಳಕೆದಾರರು</translation>
     </message>
 </context>
 <context>
     <name>User.Account.Operation</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="97"/>
         <source>Edit account information</source>
-        <translation>ಆಕ್ಯುಂಟ್ ಮಾಹಿತಿಯನ್ನು ಸುಧಾರಿಸಿ</translation>
+        <translation>ಖಾತೆ ಮಾಹಿತಿಯನ್ನು ಸಂಪಾದಿಸಿ</translation>
     </message>
 </context>
 <context>
     <name>User.Account.Type</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="145"/>
         <source>Administrator</source>
-        <translation>ಆಡಿಮಿನಿಸ್ಟ್ರೇಟರ್</translation>
+        <translation>ಅಧಿಕಾರಿ</translation>
     </message>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="145"/>
         <source>Standard User</source>
-        <translation>ಸ್ಟಾಂಡರ್ಡ್ ಬಳಕೆದಾರರು</translation>
+        <translation>ಸಾಮಾನ್ಯ ಬಳಕೆದಾರ</translation>
     </message>
 </context>
 </TS>

@@ -4,225 +4,205 @@
 <context>
     <name>App.About</name>
     <message>
-        <location filename="../main.cpp" line="92"/>
         <source>System Monitor</source>
-        <translation>ස්යැස්මාන් පරීක්ෂක</translation>
+        <translation>ස්ය්‍යෙම් මිනිස්</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="82"/>
         <source>System Monitor is a tool to monitor realtime system load, view and control processes and services running on your system.</source>
-        <translation>ස්යැස්මාන් පරීක්ෂක ඔබේ අවස්ථාවෙහි පවතින ප්‍රශ්නාත්මක සේවා සහ ප්‍රොසෙස් ප්‍රමාණය පරීක්ෂා කරන සම්පූර්ණ පරීක්ෂක වේ, ඔබේ අවස්ථාවෙහි පවතින ප්‍රොසෙස් සහ සේවා පරීක්ෂා කරන සම්පූර්ණ පරීක්ෂක වේ</translation>
+        <translation>ස්ය්‍යෙම් මිනිස් යනු ඔබේ අතිරික්‍ය අවස්ථාව අවලංගු කරන, ඔබේ අතිරික්‍ය අවස්ථාව දැක්වීමට සහ අවලංගු කරන ප්‍රොසේස් සහ සේවා අවලංගු කරන මෙහෙයුමකි.</translation>
     </message>
 </context>
 <context>
     <name>BaseDetailViewWidget</name>
     <message>
-        <location filename="../gui/base/base_detail_view_widget.cpp" line="28"/>
         <source>Hide details</source>
-        <translation>විස්තාරය අපසන් කරන්න</translation>
+        <translation>විස්තාරය අඟුරු කරන</translation>
     </message>
     <message>
-        <location filename="../gui/base/base_detail_view_widget.cpp" line="39"/>
         <source>Overall utilization</source>
-        <translation>සම්පූර්ණ ප්‍රමාණය</translation>
+        <translation>සම්පූර්ණ අවලංගු කිරීම</translation>
     </message>
     <message>
-        <location filename="../gui/base/base_detail_view_widget.cpp" line="42"/>
         <source>Individual utilization</source>
-        <translation>සේවාවක් ප්‍රමාණය</translation>
+        <translation>සාමාන්‍ය අවලංගු කිරීම</translation>
     </message>
 </context>
 <context>
     <name>BlockDevItemWidget</name>
     <message>
-        <location filename="../gui/block_dev_item_widget.cpp" line="138"/>
         <source>Read</source>
-        <translation>සියලුම ප්‍රමාණය</translation>
+        <translation>ඇසිරිය</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_item_widget.cpp" line="142"/>
         <source>Write</source>
-        <translation>ලිවිය හැකි</translation>
+        <translation>ලියන</translation>
     </message>
 </context>
 <context>
     <name>CPUDetailGrapTableItem</name>
     <message>
-        <location filename="../gui/cpu_detail_widget.cpp" line="154"/>
         <source>60 seconds</source>
-        <translation>60 වින්‍දු</translation>
+        <translation>60 වින්දු</translation>
     </message>
 </context>
 <context>
     <name>CPUInfoModel</name>
     <message>
-        <location filename="../model/cpu_info_model.cpp" line="43"/>
         <source>%1 days %2 hours %3 minutes</source>
-        <translation>%1 දින %2 විභාග %3 මිනිත්තු</translation>
+        <translation>%1 දින %2 විෂය %3 වින්දු</translation>
     </message>
 </context>
 <context>
     <name>CPUSummaryTableModel</name>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="91"/>
         <source>Utilization</source>
-        <translation>ප්‍රමාණය</translation>
+        <translation>අවලංගු කිරීම</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="93"/>
         <source>Current frequency</source>
         <translation>වර්තමාන ස්වර්ගය</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="98"/>
         <source>Frequency</source>
         <translation>ස්වර්ගය</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="104"/>
+        <source>Vendor</source>
+        <translation>සේවාදාරය</translation>
+    </message>
+    <message>
         <source>Sockets</source>
-        <translation>ස්වර්ග දුර්වලතාව</translation>
+        <translation>සොක්ටිස්</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="106"/>
         <source>Logical processors</source>
-        <translation>ලෝජිකල් ප්‍රොසෙසර්ස්</translation>
+        <translation>ලෝගිකාල් ප්‍රොසේස්</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="110"/>
         <source>Virtualization</source>
-        <translation>විළියුම්කරණය</translation>
+        <translation>විශ්වාසීකරණය</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="112"/>
         <source>L1i cache</source>
-        <translation>L1i ස්වර්ගය</translation>
+        <translation>L1i අවලංගු කිරීම</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="116"/>
         <source>L1d cache</source>
-        <translation>L1d ස්වර්ගය</translation>
+        <translation>L1d අවලංගු කිරීම</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="118"/>
         <source>L2 cache</source>
-        <translation>L2 ස්වර්ගය</translation>
+        <translation>L2 අවලංගු කිරීම</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="122"/>
         <source>L3 cache</source>
-        <translation>L3 ස්වර්ගය</translation>
+        <translation>L3 අවලංගු කිරීම</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="124"/>
         <source>Load average</source>
-        <translation>බර අගය</translation>
+        <translation>අවලංගු අවස්ථාව</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="128"/>
         <source>File descriptors</source>
-        <translation>ගුණාංග අංකනය</translation>
+        <translation>ගුණාංග අවලංගු කිරීම</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="130"/>
         <source>Processes</source>
-        <translation type="unfinished">Processes</translation>
+        <translation>ප්‍රොසේස්</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="134"/>
         <source>Threads</source>
-        <translation>තීර්ණය</translation>
+        <translation>ත්‍රේඩ්</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="136"/>
         <source>Host name</source>
-        <translation>හෝස්ත් නම</translation>
+        <translation>හෝස්ත් නාමය</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="140"/>
         <source>OS type</source>
-        <translation>උපරිම ලක්ෂණය</translation>
+        <translation>උපාංග ජාතිය</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="142"/>
         <source>Version</source>
-        <translation>අනුමානය</translation>
+        <translation>අනුවර්තනය</translation>
     </message>
     <message>
-        <location filename="../gui/cpu_summary_view_widget.h" line="100"/>
         <source>Up time</source>
-        <translation>විවරණය</translation>
+        <translation>අඟුරු කළ විට</translation>
     </message>
 </context>
 <context>
     <name>Cancel</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="298"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>අඟුරු කරන</translation>
     </message>
 </context>
 <context>
     <name>ChartViewWidget</name>
     <message>
-        <location filename="../gui/chart_view_widget.cpp" line="293"/>
         <source>60 seconds</source>
-        <translation>60 වින්‍දු</translation>
+        <translation>60 වින්දු</translation>
     </message>
 </context>
 <context>
     <name>Common.Search</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="477"/>
         <source>No search results</source>
-        <translation>සේවා අවලංගු නොවේ</translation>
+        <translation>සොයා ගැනීමේ අවමානය</translation>
     </message>
 </context>
 <context>
     <name>CompactCpuMonitor</name>
     <message>
-        <location filename="../compact_cpu_monitor.cpp" line="87"/>
         <source>Details</source>
-        <translation>විස්තාරය</translation>
+        <translation>විස්තර</translation>
+    </message>
+</context>
+<context>
+    <name>Cpu.Widget</name>
+    <message>
+        <source>CPU</source>
+        <translation>ස්පාර්ෂ්ච්</translation>
     </message>
 </context>
 <context>
     <name>CpuMonitor</name>
     <message>
-        <location filename="../cpu_monitor.cpp" line="70"/>
         <source>Details</source>
-        <translation>විස්තාරය</translation>
+        <translation>විස්තර</translation>
+    </message>
+</context>
+<context>
+    <name>CpuWidget</name>
+    <message>
+        <source>Utilization</source>
+        <translation>භාවිතා කිරීම</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Active.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="165"/>
         <source>active</source>
         <translation>ක්‍රියාත්මක</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="167"/>
         <source>reloading</source>
-        <translation>නිවේදනය කරන</translation>
+        <translation>නව අභ්‍යාසය කරමින්</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="169"/>
         <source>inactive</source>
-        <translation>ක්‍රියාත්මක නොවේ</translation>
+        <translation>ක්‍රියා නොත්මක</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="170"/>
         <source>failed</source>
         <translation>අසාර්ථක</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="172"/>
         <source>activating</source>
-        <translation>ක්‍රියාත්මක කරමින්</translation>
+        <translation>ක්‍රියා කරමින්</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="174"/>
         <source>deactivating</source>
         <translation>අක්‍රිය කරමින්</translation>
     </message>
@@ -230,1144 +210,1045 @@
 <context>
     <name>DBus.Unit.Load.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="146"/>
         <source>stub</source>
-        <translation>ස්තූපය</translation>
+        <translation>ස්තූප</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="149"/>
         <source>not-found</source>
         <translation>නොමැත</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="151"/>
         <source>bad-setting</source>
-        <translation>අවලංගු අභිරූපය</translation>
+        <translation>අව්‍යාප්‍ය ගුණාංග</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="152"/>
         <source>error</source>
-        <translation>අභිරූපය</translation>
+        <translation>අත්‍යාප්‍යය</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="153"/>
         <source>merged</source>
         <translation>සංයුක්ත</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="154"/>
         <source>masked</source>
-        <translation>අවලංගු</translation>
+        <translation>අඝටිත</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="147"/>
         <source>loaded</source>
-        <translation>ලෝඩ් කරන</translation>
+        <translation>ඇති</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Startup.Mode</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="297"/>
         <source>N/A</source>
-        <translation>අපේක්ෂිත නොවේ</translation>
+        <translation>අපහසු</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="295"/>
         <source>Auto</source>
-        <translation>ස්වයංක්‍රිය</translation>
+        <translation>ශ්‍රිත</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="296"/>
         <source>Manual</source>
-        <translation>ස්වාධීන</translation>
+        <translation>ස්වායත්ත</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="274"/>
         <source>enabled</source>
-        <translation>සක්‍රීය</translation>
+        <translation>ක්‍රියාත්මක කිරීම</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="275"/>
         <source>disabled</source>
-        <translation>අසක්‍ර‍ීය</translation>
+        <translation>අක්‍රිය කිරීම</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="276"/>
         <source>static</source>
         <translation>ස්ථාවර</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="277"/>
         <source>transient</source>
-        <translation>විද්‍යුත් ස්ථාවර</translation>
+        <translation>ත්‍රිත</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="278"/>
         <source>indirect</source>
-        <translation>අපේක්ෂීත</translation>
+        <translation>අනුරූප</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="280"/>
         <source>enabled-runtime</source>
-        <translation>රුටයින් සක්‍රීය</translation>
+        <translation>රුටින් ක්‍රියාත්මක කිරීම</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="281"/>
         <source>masked</source>
-        <translation>අවලංගු</translation>
+        <translation>අඝටිත</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="283"/>
         <source>generated</source>
-        <translation>ස්වයංක්‍රිය නිර්මාණය කරන</translation>
+        <translation>ස්වායත්ත නිර්මාණය</translation>
     </message>
 </context>
 <context>
     <name>DBus.Unit.Sub.State</name>
     <message>
-        <location filename="../dbus/dbus_common.h" line="217"/>
         <source>dead</source>
-        <translation>ගුණාංගය නොමැත</translation>
+        <translation>ඇති නොවේ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="219"/>
         <source>start-pre</source>
-        <translation>ආරම්භ පෙර</translation>
+        <translation>ප්‍රාරම්භය පෙර</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="221"/>
         <source>start</source>
-        <translation>ආරම්භය</translation>
+        <translation>ප්‍රාරම්භය</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="223"/>
         <source>start-post</source>
-        <translation>ආරම්භ පසු</translation>
+        <translation>ප්‍රාරම්භය අතර</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="225"/>
         <source>running</source>
-        <translation>ක්‍රියාත්මක වී ඇත</translation>
+        <translation>ක්‍රියාත්මක</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="227"/>
         <source>exited</source>
-        <translation>අවත්මන් වී ඇත</translation>
+        <translation>අවසන් කළ</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="229"/>
         <source>reload</source>
-        <translation>බියිත් කරන්න</translation>
+        <translation>නව කිරීම</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="231"/>
         <source>stop</source>
-        <translation>සිව් කරන්න</translation>
+        <translation>සිව් කිරීම</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="233"/>
         <source>stop-watchdog</source>
-        <translation>විට් දිගෙන් අවලඟී වීම</translation>
+        <translation>සිව් කිරීම (විට්ඩොග්)</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="235"/>
         <source>stop-sigterm</source>
-        <translation>සිව් කරන්න (සීග්තර්ම්)</translation>
+        <translation>සිව් කිරීම (සිග්ටෙර්ම්)</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="237"/>
         <source>stop-sigkill</source>
-        <translation>සිව් කරන්න (සීග්කිල්)</translation>
+        <translation>සිව් කිරීම (සිග්කිල්)</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="239"/>
         <source>stop-post</source>
-        <translation>සිව් කරන්න (පෝස්ට්)</translation>
+        <translation>සිව් කිරීම අතර</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="241"/>
         <source>final-sigterm</source>
-        <translation>අවසන් වීම (සීග්තර්ම්)</translation>
+        <translation>අවසාන සිග්ටෙර්ම්</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="243"/>
         <source>final-sigkill</source>
-        <translation>අවසන් වීම (සීග්කිල්)</translation>
+        <translation>අවසාන සිග්කිල්</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="245"/>
         <source>failed</source>
         <translation>අසාර්ථක</translation>
     </message>
     <message>
-        <location filename="../dbus/dbus_common.h" line="247"/>
         <source>auto-restart</source>
-        <translation>ඇයිටෝ සිව් කරන්න</translation>
+        <translation>ස්වයං ප්‍රාරම්භය</translation>
     </message>
 </context>
 <context>
     <name>DBusAlarmNotify</name>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="38"/>
         <source>Warning</source>
-        <translation>අවසන් කරන්න</translation>
+        <translation>අවසන් විය</translation>
     </message>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="39"/>
         <source>Your CPU usage is higher than %1%!</source>
-        <translation>ඔබගේ ක්‍රමානුකූල අභියෝගය මෙහෙයුම් අගයට %1% ට අඩු නොවේ!</translation>
+        <translation>ඔබගේ ක්‍රියාත්මක පරිශීලකය අවම විය %1% ට අඩු විය!</translation>
     </message>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="51"/>
         <source>Your memory usage is higher than %1%!</source>
-        <translation>ඔබගේ මෙහෙයුම් අගය මෙහෙයුම් අගයට %1% ට අඩු නොවේ!</translation>
+        <translation>ඔබගේ මෙමෝරි අවම විය %1% ට අඩු විය!</translation>
     </message>
     <message>
-        <location filename="../dbus/dbusalarmnotify.cpp" line="71"/>
         <source>View</source>
-        <translation type="unfinished">View</translation>
+        <translation>සැලසුම්</translation>
     </message>
 </context>
 <context>
     <name>DeailTableModel</name>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="62"/>
         <source>Used</source>
-        <translation>ඇති</translation>
+        <translation>භාවිතා කළ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="64"/>
         <source>Available</source>
-        <translation>ලබාගත්</translation>
+        <translation>ලබා ගත හැකි</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="68"/>
         <source>Shared</source>
-        <translation>සම්ප්‍රාප්ත</translation>
+        <translation>සාංග්‍රාමික</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="70"/>
         <source>Cached</source>
-        <translation>කාච්ඩ්</translation>
+        <translation>කැච් කළ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="74"/>
         <source>Buffers</source>
-        <translation>බුෆර්ස්</translation>
+        <translation>බුෆර් කළ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="76"/>
         <source>Cached swap</source>
-        <translation>කාච්ඩ් ස්වාප්</translation>
+        <translation>කැච් විළෙඳු විය</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="80"/>
         <source>Active</source>
-        <translation type="unfinished">Active</translation>
+        <translation>ක්‍රියාත්මක</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="82"/>
         <source>Inactive</source>
-        <translation>සක්‍රීය නොවූ</translation>
+        <translation>ක්‍රියාත්මක නොවිය</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="86"/>
         <source>Dirty</source>
-        <translation>අපහසු</translation>
+        <translation>අසාන්තරිත</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="88"/>
         <source>Mapped</source>
-        <translation>මාප් කරන්න</translation>
+        <translation>විළෙඳු කළ</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="92"/>
         <source>Total swap</source>
-        <translation>සියලුම ස්වාප්</translation>
+        <translation>සම්පූර්ණ විළෙඳු</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="94"/>
         <source>Free swap</source>
-        <translation>මිලියන් ස්වාප්</translation>
+        <translation>ප්‍රමාණික ස්වාප</translation>
     </message>
     <message>
-        <location filename="../gui/mem_summary_view_widget.cpp" line="98"/>
         <source>Slab</source>
-        <translation>ස්ලාබ්</translation>
+        <translation>ස්ලාබය</translation>
     </message>
 </context>
 <context>
     <name>DeailTableModelBlock</name>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="64"/>
         <source>Model</source>
-        <translation>මෝඩල්</translation>
+        <translation>මෝඩලය</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="66"/>
         <source>Read speed</source>
-        <translation>ඇසිරිය වේගය</translation>
+        <translation>ඇසෙන් නියමිත ස්පීඩය</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="70"/>
         <source>Write speed</source>
-        <translation>ලියුම් වේගය</translation>
+        <translation>ලියාපදිත ස්පීඩය</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="72"/>
         <source>Capacity</source>
-        <translation>කාබ්ලිතිය</translation>
+        <translation>කාබ්‍රිතිය</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="76"/>
         <source>Sectors read</source>
-        <translation>ස්ෙක්ටර්ස් ඇසිරිය</translation>
+        <translation>ස්ේක්ටර් ඇසෙන් නියමිත</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="78"/>
         <source>Reads/s</source>
-        <translation>ඇසි/ස</translation>
+        <translation>ඇසෙන් නියමිත/මිනිත්තු</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="82"/>
         <source>Sectors read/s</source>
-        <translation>සෙක්ටර් ඇසි/ස</translation>
+        <translation>ස්ේක්ටර් ඇසෙන් නියමිත/මිනිත්තු</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="84"/>
         <source>Reads merged/s</source>
-        <translation>ඇසි වැළඳි/ස</translation>
+        <translation>ඇසෙන් නියමිත සංයෝජනය කළ/මිනිත්තු</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="88"/>
         <source>Sectors written</source>
-        <translation>සෙක්ටර් ඇසි</translation>
+        <translation>ස්ේක්ටර් ලියාපදිත</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="90"/>
         <source>Writes completed </source>
-        <translation>ඇසි අවසන් කළ</translation>
+        <translation>ලියාපදිත අවසන් විය</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="94"/>
         <source>Writes merged</source>
-        <translation>ඇසි වැළඳි</translation>
+        <translation>ලියාපදිත සංයෝජනය කළ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="96"/>
         <source>Writes/s</source>
-        <translation>ඇසි/ස</translation>
+        <translation>ලියාපදිත/මිනිත්තු</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="100"/>
         <source>Sectors written/s</source>
-        <translation>සෙක්ටර් ඇසි/ස</translation>
+        <translation>ස්ේක්ටර් ලියාපදිත/මිනිත්තු</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_summary_view_widget.cpp" line="102"/>
         <source>Writes merged/s</source>
-        <translation>ඇසි වැළඳි/ස</translation>
+        <translation>ලියාපදිත සංයෝජනය කළ/මිනිත්තු</translation>
+    </message>
+</context>
+<context>
+    <name>Disk.Widget</name>
+    <message>
+        <source>Disk</source>
+        <translation>ඩිස්කය</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation>ඇසෙන් නියමිත</translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation>ලියාපදිත</translation>
     </message>
 </context>
 <context>
     <name>Error.Dialog</name>
     <message>
-        <location filename="../gui/dialog/error_dialog.cpp" line="68"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation type="unfinished">OK</translation>
+        <translation>ඇඳිය</translation>
     </message>
 </context>
 <context>
     <name>Help.Shortcut.System</name>
     <message>
-        <location filename="../common/common.cpp" line="28"/>
         <source>System</source>
-        <translation>ස්යුස්ටම්</translation>
+        <translation>ස්යුස්ටීමය</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="34"/>
         <source>Display shortcuts</source>
-        <translation>ස්කොට් කුල් පෙන්වා ගැනීම</translation>
+        <translation>ස්කෝට් අත්හැරීම</translation>
     </message>
 </context>
 <context>
     <name>Kill.Process.Dialog</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="166"/>
         <source>Ending this process may cause data loss.
 Are you sure you want to continue?</source>
-        <translation>මෙම ක්‍රමය අවසන් කරන්නේ දත්ත අවම වීමට ඉඩ ඇත.
-ඇතුළත් කරන්නේ දැනටමත් ද? </translation>
+        <translation>මෙම ක්‍රමය අවසන් කළ විට දත්තය අවම අවශ්‍රාය සිදු විය හැකිය. ඔබ ප්‍රමාණික ක්‍රමය අවසන් කළ යුතු නියමිත තිබේද?</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="510"/>
         <source>End process</source>
-        <translation>ක්‍රමය අවසන් කරන්න</translation>
+        <translation>ක්‍රමය අවසන් වීම</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="367"/>
         <source>Force ending this process may cause data loss.
 Are you sure you want to continue?</source>
-        <translation>මෙම ක්‍රමය අවසන් කරන්නේ දත්ත අවම වීමට ඉඩ ඇත.
-ඇතුළත් කරන්නේ දැනටමත් ද? </translation>
+        <translation>මෙම ක්‍රමය අවසන් කළ විට දත්තය අවම අවශ්‍රාය සිදු විය හැකිය. ඔබ ප්‍රමාණික ක්‍රමය අවසන් කළ යුතු නියමිත තිබේද?</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="511"/>
         <source>Force ending this application may cause data loss.
 Are you sure you want to continue?</source>
-        <translation>මෙම ප්‍රොග්‍රාමය අවසන් කරන්නේ දත්ත අවම වීමට ඉඩ ඇත.
-ඇතුළත් කරන්නේ දැනටමත් ද? </translation>
+        <translation>මෙම ප්‍රශ්නය අවසන් කළ විට දත්තය අවම අවශ්‍රාය සිදු විය හැකිය. ඔබ ප්‍රමාණික ප්‍රශ්නය අවසන් කළ යුතු නියමිත තිබේද?</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="519"/>
         <source>Cancel</source>
         <comment>button</comment>
-        <translation type="unfinished">Cancel</translation>
+        <translation>අවලංගු කරන්න</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="520"/>
         <source>Force End</source>
         <comment>button</comment>
-        <translation type="unfinished">Force End</translation>
+        <translation>ප්‍රමාණික අවසන් වීම</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="173"/>
         <source>End</source>
         <comment>button</comment>
-        <translation type="unfinished">End</translation>
+        <translation>අවසන් වීම</translation>
     </message>
 </context>
 <context>
     <name>Logout</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="299"/>
         <source>Logout</source>
-        <translation>ඇතුළත් කිරීම</translation>
+        <translation>ඇතුළුවීම</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../gui/main_window.cpp" line="172"/>
         <source>Settings</source>
-        <translation>සැකසීම්</translation>
+        <translation>Settings</translation>
     </message>
 </context>
 <context>
     <name>MemStatViewWidget</name>
     <message>
-        <location filename="../gui/mem_stat_view_widget.cpp" line="47"/>
         <source>Size</source>
-        <translation>ප්‍රමාණය</translation>
+        <translation>Size</translation>
+    </message>
+</context>
+<context>
+    <name>Memory.Widget</name>
+    <message>
+        <source>Memory</source>
+        <translation>Memory</translation>
+    </message>
+    <message>
+        <source>Swap</source>
+        <translation>Swap</translation>
+    </message>
+    <message>
+        <source>Not enabled</source>
+        <translation>Not enabled</translation>
+    </message>
+</context>
+<context>
+    <name>Net.Widget</name>
+    <message>
+        <source>Download</source>
+        <translation>Download</translation>
+    </message>
+    <message>
+        <source>Total received</source>
+        <translation>Total received</translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation>Upload</translation>
+    </message>
+    <message>
+        <source>Total sent</source>
+        <translation>Total sent</translation>
     </message>
 </context>
 <context>
     <name>NetInfoDetailItemDelegate</name>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="157"/>
         <source>IP address:</source>
-        <translation>අංශුප්‍රමාණය:</translation>
+        <translation>IP address:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="157"/>
         <source>Netmask:</source>
-        <translation>නෙට්මාස්ක්:</translation>
+        <translation>Netmask:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="157"/>
         <source>Broadcast:</source>
-        <translation>බ්‍රොඩ්කාස්ත්:</translation>
+        <translation>Broadcast:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="159"/>
         <source>Prefixlen:</source>
-        <translation>ප්‍රිෆීලන්:</translation>
+        <translation>Prefixlen:</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="159"/>
         <source>Scope:</source>
-        <translation>ස්කොප්:</translation>
+        <translation>Scope:</translation>
     </message>
 </context>
 <context>
     <name>NetInfoModel</name>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="293"/>
         <source>Connection type</source>
-        <translation>සම්බන්ධත්ව වර්ගය</translation>
+        <translation>Connection type</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="301"/>
         <source>ESSID</source>
-        <translation>එස්සීසීඩ්</translation>
+        <translation>ESSID</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="307"/>
         <source>Link quality</source>
-        <translation>සම්බන්ධත්ව ප්‍රමාණය</translation>
+        <translation>Link quality</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="312"/>
         <source>Signal strength</source>
-        <translation>ස්යුග්‍නල අවධිය</translation>
+        <translation>Signal strength</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="317"/>
         <source>Noise level</source>
-        <translation>නෝය්ස් අවධිය</translation>
+        <translation>Noise level</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="323"/>
         <source>MAC</source>
-        <translation>මාස්</translation>
+        <translation>MAC</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="328"/>
         <source>Bandwidth</source>
-        <translation>බැන්ඩ්විඩ්ත්</translation>
+        <translation>Bandwidth</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="333"/>
         <source>RX packets</source>
-        <translation>RX පාකෙට්</translation>
+        <translation>RX packets</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="338"/>
         <source>RX bytes</source>
-        <translation>RX ප්‍රමාණය</translation>
+        <translation>RX bytes</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="343"/>
         <source>RX errors</source>
-        <translation>RX අපරාධ</translation>
+        <translation>RX errors</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="348"/>
         <source>RX dropped</source>
-        <translation>RX අවමින් කරන්න</translation>
+        <translation>RX dropped</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="353"/>
         <source>RX overruns</source>
-        <translation>RX අධික ප්‍රමාණය</translation>
+        <translation>RX overruns</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="358"/>
         <source>RX frame</source>
-        <translation>RX ප්‍රමාණය</translation>
+        <translation>RX frame</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="363"/>
         <source>TX packets</source>
-        <translation>TX පාකෙට්</translation>
+        <translation>TX packets</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="368"/>
         <source>TX bytes</source>
-        <translation>TX ප්‍රමාණය</translation>
+        <translation>TX bytes</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="373"/>
         <source>TX errors</source>
-        <translation>TX අපරාධ</translation>
+        <translation>TX errors</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="383"/>
         <source>TX overruns</source>
-        <translation>TX අධික ප්‍රමාණය</translation>
+        <translation>TX ការប្រមាស់</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="388"/>
         <source>TX carrier</source>
-        <translation>TX ප්‍රමාණය</translation>
+        <translation>TX អ្នកបម្រើ</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="267"/>
         <source>IPv4</source>
-        <translation>ඉන්ප්‍රාන්ස් 4</translation>
+        <translation>IPv4</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="282"/>
         <source>IPv6</source>
-        <translation>ඉන්ප්‍රාන්ස් 6</translation>
+        <translation>IPv6</translation>
     </message>
     <message>
-        <location filename="../gui/netif_summary_view_widget.h" line="378"/>
         <source>TX dropped</source>
-        <translation>TX අවමින් කරන්න</translation>
+        <translation>TX បាក់ប៉ា</translation>
+    </message>
+</context>
+<context>
+    <name>NetWidget</name>
+    <message>
+        <source>Network</source>
+        <translation>ប្រព័ន្ធអ៊ីនធឺណែត</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.DisplayName</name>
+    <message>
+        <source>System Monitor</source>
+        <translation>ម៉ូដុលប្រព័ន្ធមួយ</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.OpenSystemMontitor</name>
+    <message>
+        <source>Open</source>
+        <translation>បើក</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.cpu</name>
+    <message>
+        <source>CPU</source>
+        <translation>CPU</translation>
+    </message>
+</context>
+<context>
+    <name>Plugin.mem</name>
+    <message>
+        <source>MEM</source>
+        <translation>MEM</translation>
     </message>
 </context>
 <context>
     <name>Process.Attributes.Dialog</name>
     <message>
-        <location filename="../gui/process_attribute_dialog.cpp" line="140"/>
         <source>Command line</source>
-        <translation>ප්‍රවර්ගීකරණ පිරිස්</translation>
+        <translation>ប្រព័ន្ធអ៊ីនធឺណែត</translation>
     </message>
     <message>
-        <location filename="../gui/process_attribute_dialog.cpp" line="145"/>
         <source>Start time</source>
-        <translation>ආරම්භ කිරීමේ කාලය</translation>
+        <translation>ពេលដែលបានចាប់ផ្តើម</translation>
     </message>
     <message>
-        <location filename="../gui/process_attribute_dialog.cpp" line="135"/>
         <source>Name</source>
-        <translation>නම</translation>
+        <translation>ឈ្មោះ</translation>
     </message>
 </context>
 <context>
     <name>Process.Choose.Window.Dialog</name>
     <message>
-        <location filename="../gui/xwin_kill_preview_background_widget.cpp" line="146"/>
         <source>Click the application you want to end</source>
-        <translation>අවසන් කිරීමට අවශ්‍ය ප්‍රශ්‍ණය අවශ්‍ය නම් එය අවශ්‍ය කරන්න</translation>
+        <translation>ចុចកម្មវិធីដែលអ្នកចង់បញ្ចប់</translation>
     </message>
 </context>
 <context>
     <name>Process.Graph.Title</name>
     <message>
-        <location filename="../gui/detail_view_stacked_widget.cpp" line="144"/>
         <source>Memory</source>
-        <translation>ස්ථානය</translation>
+        <translation>ការផ្ទុកទំហំ</translation>
     </message>
     <message>
-        <location filename="../gui/netif_item_view_widget.cpp" line="89"/>
         <source>Receive</source>
-        <translation>ආ ගැනීම</translation>
+        <translation>ទទួល</translation>
     </message>
 </context>
 <context>
     <name>Process.Graph.View</name>
     <message>
-        <location filename="../compact_cpu_monitor.cpp" line="220"/>
         <source>CPU</source>
-        <translation>ස්වාච්චිය</translation>
+        <translation>CPU</translation>
     </message>
     <message>
-        <location filename="../compact_disk_monitor.cpp" line="145"/>
         <source>Disk read</source>
-        <translation>ඩිස්ක් අධිකරණය</translation>
+        <translation>អានឌីសខ្សែ</translation>
     </message>
     <message>
-        <location filename="../compact_disk_monitor.cpp" line="146"/>
         <source>Disk write</source>
-        <translation>ඩිස්ක් අවශ්‍ය කරන්න</translation>
+        <translation>សរសេរឌីសខ្សែ</translation>
     </message>
     <message>
-        <location filename="../compact_memory_monitor.cpp" line="176"/>
         <source>Memory</source>
-        <translation>සම්පූර්ණ ප්‍රමාණය</translation>
+        <translation>ការផ្ទុកទំហំ</translation>
     </message>
     <message>
-        <location filename="../compact_memory_monitor.cpp" line="187"/>
         <source>Swap</source>
-        <translation>ස්වාප්</translation>
+        <translation>ផ្លាស់ប្ដូរ</translation>
     </message>
     <message>
-        <location filename="../compact_memory_monitor.cpp" line="188"/>
         <source>Not enabled</source>
-        <translation>සක්‍රිය කරන්නේ නැත</translation>
+        <translation>មិនបានបើក</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="152"/>
         <source>Download</source>
-        <translation>ඇතුළුවන්න</translation>
+        <translation>ដោយការទាញយក</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="157"/>
         <source>Upload</source>
-        <translation>පිටුවන්න</translation>
+        <translation>ដោយការផ្ញើ</translation>
     </message>
     <message>
-        <location filename="../gui/detail_view_stacked_widget.cpp" line="145"/>
         <source>Network</source>
-        <translation>විද්‍යුත් ප්‍රමාණය</translation>
+        <translation>ប្រព័ន្ធអ៊ីនធឺណែត</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="154"/>
         <source>Total Received</source>
-        <translation>සම්පූර්ණ ගැනීම</translation>
+        <translation>សរុបដែលបានទទួល</translation>
     </message>
     <message>
-        <location filename="../compact_network_monitor.cpp" line="159"/>
         <source>Total Sent</source>
-        <translation>සියලුම අවසන් කළා</translation>
+        <translation>សរុបដែលបានផ្ញើ</translation>
     </message>
     <message>
-        <location filename="../gui/netif_item_view_widget.cpp" line="98"/>
         <source>Send</source>
-        <translation>අවසන් කරන්න</translation>
+        <translation>ផ្ញើ</translation>
     </message>
     <message>
-        <location filename="../gui/block_dev_detail_view_widget.cpp" line="17"/>
         <source>Disks</source>
-        <translation>ඩිස්ක්ස්</translation>
+        <translation>ឌីសខ្សែ</translation>
     </message>
 </context>
 <context>
     <name>Process.Loading</name>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="67"/>
         <source>Loading</source>
-        <translation>ලෝඩින්ග්</translation>
+        <translation>កំពុងផ្ទះ</translation>
     </message>
 </context>
 <context>
     <name>Process.Priority</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="615"/>
         <source>Very high</source>
-        <translation>අතිශය අධික</translation>
+        <translation>සියලුම අභියෝගය</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="623"/>
         <source>High</source>
-        <translation>අධික</translation>
+        <translation>හිරි අභියෝගය</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="631"/>
         <source>Normal</source>
         <translation>සාමාන්‍ය</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="639"/>
         <source>Low</source>
-        <translation>අඩු</translation>
+        <translation>ලඟු අභියෝගය</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="647"/>
         <source>Very low</source>
-        <translation>අතිශය අඩු</translation>
+        <translation>විශේෂ අභියෝගය</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="655"/>
         <source>Custom</source>
-        <translation>ක්‍රමාনුකූල</translation>
+        <translation>සේවා අභියෝගය</translation>
     </message>
     <message>
-        <location filename="../process/process.cpp" line="60"/>
         <source>Invalid</source>
-        <translation>අවලඟ</translation>
+        <translation>අන්‍යෙකු අභියෝගය</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="179"/>
         <source>PID: %1, Error: [%2] %3</source>
-        <translation>PID: %1, අඩුව: [%2] %3</translation>
+        <translation>PID: %1, අභියෝගය: [%2] %3</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="138"/>
         <source>Failed to change process priority</source>
-        <translation>ප්‍රෝසෙස් ප්‍රයෝග් අභිමානය වෙනස් කරන්න නොහැක</translation>
+        <translation>අභියෝගය වෙනස් කිරීමට අසමත් විය</translation>
     </message>
 </context>
 <context>
     <name>Process.Show.Mode</name>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="61"/>
         <source>Applications</source>
-        <translation>අභියෝග්</translation>
+        <translation>අභියෝගය</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="63"/>
         <source>My processes</source>
-        <translation>මගේ ප්‍රෝසෙස්</translation>
+        <translation>මගේ අභියෝගය</translation>
     </message>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="65"/>
         <source>All processes</source>
-        <translation>සියලුම ප්‍රෝසෙස්</translation>
+        <translation>සියලුම අභියෝගය</translation>
     </message>
 </context>
 <context>
     <name>Process.Signal</name>
     <message>
-        <location filename="../process/process_db.cpp" line="246"/>
         <source>Failed to pause process</source>
-        <translation>ප්‍රෝසෙස් ප්‍රතිඵලය නොකළ හැක</translation>
+        <translation>අභියෝගය අවලඟුම් කිරීමට අසමත් විය</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="249"/>
         <source>Failed to resume process</source>
-        <translation>ප්‍රෝසෙස් ප්‍රතිඵලය නොවෙනස් කරන්න හැක</translation>
+        <translation>අභියෝගය පැවත්වීමට අසමත් විය</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="252"/>
         <source>Failed to kill process</source>
-        <translation>ප්‍රෝසෙස් ප්‍රතිඵලය නොසමාපන්න හැක</translation>
+        <translation>අභියෝගය අවලඟුම් කිරීමට අසමත් විය</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="255"/>
         <source>Unknown error</source>
-        <translation>විශේෂ අඩුව</translation>
+        <translation>අවැසි අභියෝගය</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="311"/>
         <source>Failed in sending signal to process</source>
-        <translation>ප්‍රෝසෙස් දිගුව නොවෙනස් කරන්න හැක</translation>
+        <translation>අභියෝගයට අභියෝගය දෙනු අසමත් විය</translation>
     </message>
     <message>
-        <location filename="../process/process_db.cpp" line="243"/>
         <source>Failed to end process</source>
-        <translation>ප්‍රෝසෙස් ප්‍රතිඵලය නොසමාපන්න හැක</translation>
+        <translation>අභියෝගය අවසන් කිරීමට අසමත් විය</translation>
     </message>
 </context>
 <context>
     <name>Process.Summary</name>
     <message>
-        <location filename="../gui/process_page_widget.cpp" line="58"/>
         <source>(%1 applications and %2 processes are running)</source>
-        <translation>(%1 අභියෝග් සහ %2 ප්‍රෝසෙස් ප්‍රතිඵලය කරමින් ඇත</translation>
+        <translation>(%1 අභියෝගය සහ %2 අභියෝගය පැවතිය යොත් විය)</translation>
     </message>
 </context>
 <context>
     <name>Process.Table</name>
     <message>
-        <location filename="../model/process_table_model.cpp" line="240"/>
         <source>No response</source>
-        <translation>ප්‍රතිඵලය නොමැත</translation>
+        <translation>ප්‍රතිචාරයක් නැත</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.cpp" line="245"/>
         <source>Suspend</source>
-        <translation>සමාපනය</translation>
+        <translation>අවලඟුම් කරන්න</translation>
     </message>
     <message>
-        <location filename="../process/process_name.cpp" line="82"/>
         <source>Tray</source>
-        <translation>ට්‍රේ</translation>
+        <translation>ත්‍රේ</translation>
     </message>
 </context>
 <context>
     <name>Process.Table.Context.Menu</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="662"/>
         <source>View command location</source>
-        <translation>ප්‍රාරම්භය ලෝක් පෙන්වන්න</translation>
+        <translation>ප්‍රමාණය අභියෝගය පිළිබඳ දැක්වීම</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="79"/>
         <source>Properties</source>
-        <translation>සාධකයන්</translation>
+        <translation>ස්වභාවය</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="62"/>
         <source>End process</source>
-        <translation>ප්‍රෝසෙස් ප්‍රතිඵලය සමාපනය කරන්න</translation>
+        <translation>අභියෝගය අවසන් කරන්න</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="74"/>
         <source>Resume process</source>
-        <translation>ප්‍රෝසෙස් ප්‍රතිඵලය ප්‍රතිඵලය නොවෙනස් කරන්න</translation>
+        <translation>අභියෝගය පැවත්වීම</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="85"/>
         <source>Kill process</source>
-        <translation>प्रोसेस को मार्ने</translation>
+        <translation>අභියෝගය අවලඟුම් කරන්න</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="609"/>
         <source>Change priority</source>
-        <translation>प्राथमिकता बदल्ने</translation>
+        <translation>අභියෝගය අභියෝගය වෙනස් කරන්න</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="68"/>
         <source>Suspend process</source>
-        <translation>प्रोसेस को अवकाश दिने</translation>
+        <translation>අභියෝගය අවලඟුම් කරන්න</translation>
     </message>
 </context>
 <context>
     <name>Process.Table.Custom.Priority.Dialog</name>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="1024"/>
         <source>Custom Priority</source>
-        <translation>अनुकूल प्राथमिकता</translation>
+        <translation>සේවා අභියෝගය</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="1056"/>
         <source>Cancel</source>
         <comment>button</comment>
-        <translation type="unfinished">Cancel</translation>
+        <translation>අවලංගු කරන්න</translation>
     </message>
     <message>
-        <location filename="../gui/process_table_view.cpp" line="1058"/>
         <source>Change</source>
         <comment>button</comment>
-        <translation type="unfinished">Change</translation>
+        <translation>සමාඟිත කරන්න</translation>
     </message>
 </context>
 <context>
     <name>Process.Table.Header</name>
     <message>
-        <location filename="../model/process_table_model.h" line="16"/>
         <source>Name</source>
-        <translation>नाम</translation>
+        <translation>නම</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="18"/>
         <source>CPU</source>
-        <translation>सीपीयू</translation>
+        <translation>සේවා ප්‍රමාණය</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="22"/>
         <source>Memory</source>
-        <translation>मेमरी</translation>
+        <translation>සේවා ප්‍රමාණය</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="32"/>
         <source>Disk write</source>
-        <translation>डिस्क लेख</translation>
+        <translation>ඇඳිමින් දිස්කය</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="30"/>
         <source>Disk read</source>
-        <translation>डिस्क पठन</translation>
+        <translation>සිඟිමින් දිස්කය</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="28"/>
         <source>Download</source>
-        <translation>डाउनलोड</translation>
+        <translation>ඇතුල් කිරීම</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="26"/>
         <source>Upload</source>
-        <translation>अपलोड</translation>
+        <translation>අපන්නා කිරීම</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="34"/>
         <source>PID</source>
-        <translation>पी.आई.डी.</translation>
+        <translation>PID</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="20"/>
         <source>User</source>
-        <translation>उपयोक्ता</translation>
+        <translation>පරිශීලක</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="36"/>
         <source>Nice</source>
-        <translation>नाइस</translation>
+        <translation>නීස්</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="38"/>
         <source>Priority</source>
-        <translation>प्राथमिकता</translation>
+        <translation>අගය</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="23"/>
         <source>Shared memory</source>
-        <translation>साझा मेमरी</translation>
+        <translation>සමාගම් ප්‍රමාණය</translation>
     </message>
     <message>
-        <location filename="../model/process_table_model.h" line="24"/>
         <source>Virtual memory</source>
-        <translation>संग्रहित मेमरी</translation>
+        <translation>ස්වායත්ත ප්‍රමාණය</translation>
+    </message>
+</context>
+<context>
+    <name>ProcessWidget</name>
+    <message>
+        <source>Processes</source>
+        <translation>සේවා ප්‍රමාණය</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>ස්වායත්ත නොවේ</translation>
+    </message>
+    <message>
+        <source>CPU</source>
+        <translation>සැකසීම්</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../system/cpu_set.cpp" line="366"/>
         <source>Not support</source>
-        <translation>समर्थन नाही</translation>
+        <translation>ස්වායත්ත ප්‍රාශෂණය</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="10"/>
         <source>Settings</source>
-        <translation>सेटिंग्स</translation>
+        <translation>ප්‍රමාණය අභියෝගය පිළිබඳව ඇතුළුවා තිබේ මෙන් අඩු අභියෝගය පිළිබඳව ඇතුළුවා තිබේ</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="11"/>
         <source>System Protection</source>
-        <translation>सिस्टम संरक्षण</translation>
+        <translation>ආදර්ශ අවදානම්</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="12"/>
         <source>Show warnings when the usage exceeds the thresholds</source>
-        <translation>उपयोग थैल्स छाड्ने वेला चेतावनी दिने</translation>
+        <translation>සේවා අවදානම් අභියෝගය (%)</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="13"/>
-        <source>CPU warning threshold (%)</source>
-        <translation>सीपीयू चेतावनी थैल्स (%) </translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="14"/>
-        <source>Memory warning threshold (%)</source>
-        <translation>मेमरी चेतावनी थैल्स (%) </translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="15"/>
-        <source>Warning interval (min)</source>
-        <translation>चेतावनी अंतराल (मिन)</translation>
-    </message>
-    <message>
-        <location filename="../gui/dialog/settingsdialog.cpp" line="16"/>
         <source>Notifications</source>
-        <translation>सूचनाहरू</translation>
+        <translation>සේවා අවදානම් අභියෝගය (%)</translation>
+    </message>
+    <message>
+        <source>CPU warning threshold (%)</source>
+        <translation>අවදානම් අතර අවුල් කාලය (මිනිතුරු)</translation>
+    </message>
+    <message>
+        <source>Memory warning threshold (%)</source>
+        <translation>සේවා ප්‍රමාණය අරමුණු තරම් නොසැකසිය නොහැකි</translation>
+    </message>
+    <message>
+        <source>Warning interval (min)</source>
+        <translation>සේවා ප්‍රමාණය අරමුණු තරම් නොසැකසිය නොහැකි නිසා අත්පත් නොවූ ප්‍රමාණය නොසැකසිය නොහැකි</translation>
     </message>
 </context>
 <context>
     <name>Service.Action.Set.Startup.Mode</name>
     <message>
-        <location filename="../service/service_manager.cpp" line="322"/>
         <source>Failed to set service startup type</source>
-        <translation>सेवा स्टार्टअप प्रकार सेट गर्न सकिएन</translation>
+        <translation>සේවා අභියෝගය නම</translation>
     </message>
     <message>
-        <location filename="../service/service_manager.cpp" line="388"/>
         <source>Error: Failed to set service startup type due to the crashed sub process.</source>
-        <translation>त्रुटि: सेवा स्टार्टअप प्रकार सेट गर्न सकिएन किनकि उपस्थित प्रक्रिया विफल भयो।</translation>
+        <translation>හිටිය</translation>
     </message>
 </context>
 <context>
     <name>Service.Instance.Name.Dialog</name>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="150"/>
         <source>Service instance name</source>
-        <translation>सेवा उदाहरण नाम</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gui/service_name_sub_input_dialog.cpp" line="34"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <comment>button</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../gui/service_name_sub_input_dialog.cpp" line="35"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <comment>button</comment>
+        <translation>අවලංගු කරන්න</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>ඇක්සේප් කරන්න</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>අවලංගු කරන්න</translation>
     </message>
 </context>
 <context>
     <name>Service.Table.Context.Menu</name>
     <message>
-        <location filename="../common/common.cpp" line="114"/>
         <source>Refresh</source>
-        <translation>पुन: चलाउ</translation>
+        <translation>නව කරන්න</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="99"/>
         <source>Start</source>
-        <translation>प्रारम्भ गर्ने</translation>
+        <translation>ආරම්භ කරන්න</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="104"/>
         <source>Stop</source>
-        <translation>අවසනය කරන්න</translation>
+        <translation>සිව්ලන්න</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="109"/>
         <source>Restart</source>
-        <translation>නව ආරම්භ කරන්න</translation>
+        <translation>නව කරන්න</translation>
     </message>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="537"/>
         <source>Auto</source>
-        <translation>ඇයිටෝ</translation>
+        <translation>ස්වයංක්‍රිය</translation>
     </message>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="538"/>
         <source>Manual</source>
-        <translation>මානුවල්</translation>
+        <translation>ස්වාධීන</translation>
     </message>
     <message>
-        <location filename="../gui/system_service_table_view.cpp" line="536"/>
         <source>Startup type</source>
-        <translation>ආරම්භ ගේදරා ප්‍රකාරය</translation>
+        <translation>ආරම්භ වර්ගය</translation>
     </message>
 </context>
 <context>
     <name>Service.Table.Header</name>
     <message>
-        <location filename="../model/system_service_table_model.h" line="16"/>
         <source>Name</source>
         <translation>නම</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="18"/>
         <source>Load</source>
-        <translation>ලෝඩ්</translation>
+        <translation>ලෝඩ් කරන්න</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="23"/>
-        <source>Sub</source>
-        <translation>සුබ්</translation>
-    </message>
-    <message>
-        <location filename="../model/system_service_table_model.h" line="30"/>
-        <source>Description</source>
-        <translation>ප්‍රකාශනය</translation>
-    </message>
-    <message>
-        <location filename="../model/system_service_table_model.h" line="32"/>
-        <source>PID</source>
-        <translation>ප්‍රොස්සෙස් ජිඩ්</translation>
-    </message>
-    <message>
-        <location filename="../model/system_service_table_model.h" line="27"/>
-        <source>Startup Type</source>
-        <translation>ආරම්භ ගේදරා ප්‍රකාරය</translation>
-    </message>
-    <message>
-        <location filename="../model/system_service_table_model.h" line="21"/>
         <source>Start State</source>
-        <translation>ආරම්භ අවස්ථාව</translation>
+        <translation>ආරම්භ අවසන්</translation>
     </message>
     <message>
-        <location filename="../model/system_service_table_model.h" line="25"/>
+        <source>Sub</source>
+        <translation>සබ්</translation>
+    </message>
+    <message>
         <source>Start Tactic</source>
         <translation>ආරම්භ ක්‍රමය</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>ප්‍රකාශය</translation>
+    </message>
+    <message>
+        <source>PID</source>
+        <translation>ප්‍රොසෙස් පිඩ්</translation>
+    </message>
+    <message>
+        <source>Startup Type</source>
+        <translation>ආරම්භ වර්ගය</translation>
     </message>
 </context>
 <context>
     <name>SystemProtectionSetting</name>
     <message>
-        <location filename="../gui/dialog/systemprotectionsetting.cpp" line="124"/>
         <source>Settings</source>
-        <translation>සැකසීම්</translation>
+        <translation>සැදියා කරන්න</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/systemprotectionsetting.cpp" line="156"/>
         <source>(Modifiable)</source>
-        <translation>(සංස්කරණය විය හැකි)</translation>
+        <translation>(සැදියා කරන්න විය හැකි)</translation>
     </message>
     <message>
-        <location filename="../gui/dialog/systemprotectionsetting.cpp" line="263"/>
         <source>Range: %1-%2</source>
-        <translation>රාංග්: %1-%2</translation>
+        <translation>රාන්ජය: %1-%2</translation>
     </message>
 </context>
 <context>
     <name>Title.Bar.Context.Menu</name>
     <message>
-        <location filename="../common/common.cpp" line="55"/>
         <source>Force end application</source>
-        <translation>අඩු අයිතිය දෙන ලෙස ප්‍රවේශනය</translation>
+        <translation>අභියෝගය අවසන් කරන්න</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="140"/>
         <source>Expand</source>
-        <translation>වැළඳා ගැනීම</translation>
+        <translation>වැළඳීම</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="143"/>
         <source>Compact</source>
-        <translation>අඩු කිරීම</translation>
+        <translation>ස්ථිරවීම</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="135"/>
         <source>View</source>
-        <translation>සැලසුම</translation>
+        <translation>සීමාව</translation>
     </message>
 </context>
 <context>
     <name>Title.Bar.Search</name>
     <message>
-        <location filename="../common/common.cpp" line="40"/>
         <source>Search</source>
         <translation>සොයන්න</translation>
     </message>
@@ -1375,40 +1256,34 @@ Are you sure you want to continue?</source>
 <context>
     <name>Title.Bar.Switch</name>
     <message>
-        <location filename="../common/common.cpp" line="49"/>
         <source>Processes</source>
-        <translation>ප්‍රොස්සෙස්</translation>
+        <translation>ප්‍රොසෙස්</translation>
     </message>
     <message>
-        <location filename="../common/common.cpp" line="94"/>
         <source>Services</source>
         <translation>සේවා</translation>
     </message>
     <message>
-        <location filename="../gui/main_window.cpp" line="234"/>
         <source>Users</source>
-        <translation>උෂ්ණා</translation>
+        <translation>පරිශීලක</translation>
     </message>
 </context>
 <context>
     <name>User.Account.Operation</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="97"/>
         <source>Edit account information</source>
-        <translation>උෂ්ණා නිර්මාණ අවස්ථාව සංස්කරණය කරන්න</translation>
+        <translation>ඇක්count ප්‍රකාශය සැකසූය</translation>
     </message>
 </context>
 <context>
     <name>User.Account.Type</name>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="145"/>
         <source>Administrator</source>
-        <translation>අධිපති</translation>
+        <translation>ඇඩ්මිනිස්ට්රාටර</translation>
     </message>
     <message>
-        <location filename="../gui/accounts_widget.cpp" line="145"/>
         <source>Standard User</source>
-        <translation>ස්ටාන්ඩාර්ඩ් උෂ්ණා</translation>
+        <translation>ස්ටාන්ඩර්ඩ් යූසර්</translation>
     </message>
 </context>
 </TS>
